@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shopping menu</title>
+  </head>
+  <style>
+    p {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    .main-container {
+      column-count: 3;
+    }
+    @media screen and (max-width: 700px) {
+      .main-container {
+        column-count: 2;
+      }
+    }
+    @media screen and (max-width: 500px) {
+      .main-container {
+        column-count: 1;
+      }
+    }
+  </style>
+  <body>
+    <h3>Choose what do you want to buy!</h3>
+    <form action="/submit" method="post">
+      <div class="main-container">
+        {%for i,j in res.items():%}
+        <input type="checkbox" id="vehicle" name="{{i}}" value="{{j}}" />
+        <label for="vehicle">{{j}}</label><br />
+        {%endfor%}
+      </div>
+      <input type="submit" value="Submit" />
+    </form>
+  </body>
+</html>

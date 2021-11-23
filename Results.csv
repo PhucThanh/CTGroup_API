@@ -1,0 +1,1152 @@
+,id,items,quantity_items,support,items_base,items_buy,quantity_items_base,items_add,quantity_items_add,confidence,lift
+0,0,Instant_food_products hamburger_meat,2,0.00305033,Instant_food_products,,1,hamburger_meat,1,0.379746835,11.4214377
+1,1,baking_powder whipped-sour_cream,2,0.004575496,baking_powder,,1,whipped-sour_cream,1,0.25862069,3.60785033
+2,2,beef root_vegetables,2,0.017386884,beef,,1,root_vegetables,1,0.331395349,3.040366843
+3,3,berries whipped-sour_cream,2,0.009049314,berries,,1,whipped-sour_cream,1,0.272171254,3.796885505
+4,4,bottled_beer liquor,2,0.004677173,liquor,,1,bottled_beer,1,0.422018349,5.240594014
+5,5,bottled_beer red-blush_wine,2,0.004880529,red-blush_wine,,1,bottled_beer,1,0.253968254,3.15375982
+6,6,coffee condensed_milk,2,0.002541942,condensed_milk,,1,coffee,1,0.247524752,4.263407952
+7,7,flour margarine,2,0.003762074,flour,,1,margarine,1,0.216374269,3.694515513
+8,8,flour sugar,2,0.004982206,flour,,1,sugar,1,0.286549708,8.463112235
+9,9,flour whipped-sour_cream,2,0.004067107,flour,,1,whipped-sour_cream,1,0.233918129,3.263240844
+10,10,frankfurter mustard,2,0.002541942,mustard,,1,frankfurter,1,0.211864407,3.592562829
+11,11,herbs root_vegetables,2,0.00701576,herbs,,1,root_vegetables,1,0.43125,3.956477379
+12,12,popcorn salty_snack,2,0.002236909,popcorn,,1,salty_snack,1,0.309859155,8.192109647
+13,13,processed_cheese white_bread,2,0.004168785,processed_cheese,,1,white_bread,1,0.251533742,5.975445304
+14,14,rice root_vegetables,2,0.003152008,rice,,1,root_vegetables,1,0.413333333,3.79210199
+15,15,sausage sliced_cheese,2,0.00701576,sliced_cheese,,1,sausage,1,0.286307054,3.04743493
+16,16,tropical_fruit turkey,2,0.00264362,turkey,,1,tropical_fruit,1,0.325,3.097262597
+17,17,UHT-milk bottled_water soda,3,0.002846975,UHT-milk soda,,2,bottled_water,1,0.373333333,3.377859552
+18,18,baking_powder other_vegetables root_vegetables,3,0.002541942,baking_powder other_vegetables,,2,root_vegetables,1,0.347222222,3.185569548
+19,18,baking_powder other_vegetables root_vegetables,3,0.002541942,baking_powder root_vegetables,,2,other_vegetables,1,0.714285714,3.691539674
+20,19,baking_powder other_vegetables whipped-sour_cream,3,0.002440264,baking_powder other_vegetables,,2,whipped-sour_cream,1,0.333333333,4.650118203
+21,20,baking_powder other_vegetables whole_milk,3,0.00437214,baking_powder,,1,other_vegetables whole_milk,2,0.247126437,3.302294165
+22,21,baking_powder whipped-sour_cream whole_milk,3,0.00264362,baking_powder whole_milk,,2,whipped-sour_cream,1,0.285714286,3.985815603
+23,22,beef bottled_water root_vegetables,3,0.002440264,beef bottled_water,,2,root_vegetables,1,0.393442623,3.609615855
+24,23,beef butter root_vegetables,3,0.002948653,beef butter,,2,root_vegetables,1,0.50877193,4.667697696
+25,24,beef butter root_vegetables,3,0.002948653,butter root_vegetables,,2,beef,1,0.228346457,4.352301166
+26,25,beef butter yogurt,3,0.002745297,beef butter,,2,yogurt,1,0.473684211,3.395542427
+27,26,beef butter yogurt,3,0.002745297,beef yogurt,,2,butter,1,0.234782609,4.236856801
+28,27,beef citrus_fruit root_vegetables,3,0.003863752,beef citrus_fruit,,2,root_vegetables,1,0.457831325,4.200346161
+29,28,beef citrus_fruit root_vegetables,3,0.003863752,citrus_fruit root_vegetables,,2,beef,1,0.218390805,4.162545665
+30,29,beef domestic_eggs root_vegetables,3,0.002338587,beef domestic_eggs,,2,root_vegetables,1,0.389830508,3.576476727
+31,30,beef fruit-vegetable_juice root_vegetables,3,0.002236909,beef fruit-vegetable_juice,,2,root_vegetables,1,0.44,4.036753731
+32,31,beef newspapers root_vegetables,3,0.002745297,beef newspapers,,2,root_vegetables,1,0.428571429,3.931902985
+33,32,beef newspapers root_vegetables,3,0.002745297,newspapers root_vegetables,,2,beef,1,0.238938053,4.554177814
+34,33,beef other_vegetables pork,3,0.004168785,beef other_vegetables,,2,pork,1,0.211340206,3.665839379
+35,34,beef other_vegetables root_vegetables,3,0.007930859,beef other_vegetables,,2,root_vegetables,1,0.402061856,3.688692491
+36,35,beef other_vegetables tropical_fruit,3,0.004473818,beef tropical_fruit,,2,other_vegetables,1,0.586666667,3.031984586
+37,36,beef pip_fruit root_vegetables,3,0.002338587,beef pip_fruit,,2,root_vegetables,1,0.479166667,4.396085976
+38,37,beef pork root_vegetables,3,0.002745297,beef pork,,2,root_vegetables,1,0.36,3.302798507
+39,38,beef pork root_vegetables,3,0.002745297,pork root_vegetables,,2,beef,1,0.201492537,3.840463381
+40,39,beef rolls-buns root_vegetables,3,0.004982206,beef rolls-buns,,2,root_vegetables,1,0.365671642,3.354832646
+41,40,beef rolls-buns root_vegetables,3,0.004982206,rolls-buns root_vegetables,,2,beef,1,0.205020921,3.907714638
+42,41,beef root_vegetables sausage,3,0.002948653,beef sausage,,2,root_vegetables,1,0.527272727,4.837432157
+43,42,beef root_vegetables soda,3,0.00396543,beef soda,,2,root_vegetables,1,0.4875,4.472539646
+44,43,beef root_vegetables soda,3,0.00396543,root_vegetables soda,,2,beef,1,0.213114754,4.061983734
+45,44,beef root_vegetables tropical_fruit,3,0.003762074,beef tropical_fruit,,2,root_vegetables,1,0.493333333,4.526057214
+46,45,beef root_vegetables whipped-sour_cream,3,0.002745297,beef whipped-sour_cream,,2,root_vegetables,1,0.409090909,3.753180122
+47,46,beef root_vegetables whole_milk,3,0.008032537,beef whole_milk,,2,root_vegetables,1,0.377990431,3.467850639
+48,47,beef root_vegetables yogurt,3,0.004575496,beef yogurt,,2,root_vegetables,1,0.391304348,3.589998378
+49,48,beef whipped-sour_cream yogurt,3,0.002541942,beef yogurt,,2,whipped-sour_cream,1,0.217391304,3.032685785
+50,49,berries butter whole_milk,3,0.002440264,berries whole_milk,,2,butter,1,0.206896552,3.733628599
+51,50,berries other_vegetables whipped-sour_cream,3,0.002236909,berries other_vegetables,,2,whipped-sour_cream,1,0.217821782,3.038691103
+52,51,berries whipped-sour_cream whole_milk,3,0.004270463,berries whole_milk,,2,whipped-sour_cream,1,0.362068966,5.050990462
+53,52,berries whipped-sour_cream yogurt,3,0.002948653,berries yogurt,,2,whipped-sour_cream,1,0.278846154,3.890002728
+54,53,bottled_beer bottled_water citrus_fruit,3,0.002236909,bottled_beer citrus_fruit,,2,bottled_water,1,0.366666667,3.317540632
+55,54,bottled_beer bottled_water fruit-vegetable_juice,3,0.002541942,bottled_beer fruit-vegetable_juice,,2,bottled_water,1,0.362318841,3.278202205
+56,55,bottled_water butter root_vegetables,3,0.003355363,bottled_water butter,,2,root_vegetables,1,0.375,3.440415112
+57,56,bottled_water butter root_vegetables,3,0.003355363,bottled_water root_vegetables,,2,butter,1,0.214285714,3.866972477
+58,57,bottled_water curd yogurt,3,0.00264362,bottled_water curd,,2,yogurt,1,0.433333333,3.106292517
+59,58,bottled_water frozen_vegetables tropical_fruit,3,0.002338587,bottled_water frozen_vegetables,,2,tropical_fruit,1,0.37704918,3.593293303
+60,59,bottled_water onions root_vegetables,3,0.002236909,bottled_water onions,,2,root_vegetables,1,0.379310345,3.479960113
+61,60,bottled_water pork root_vegetables,3,0.002440264,bottled_water pork,,2,root_vegetables,1,0.328767123,3.016254345
+62,61,brown_bread citrus_fruit root_vegetables,3,0.002541942,brown_bread root_vegetables,,2,citrus_fruit,1,0.25,3.020577396
+63,62,brown_bread curd yogurt,3,0.002338587,brown_bread curd,,2,yogurt,1,0.479166667,3.434842687
+64,63,brown_bread fruit-vegetable_juice root_vegetables,3,0.002236909,brown_bread root_vegetables,,2,fruit-vegetable_juice,1,0.22,3.043178622
+65,64,brown_bread fruit-vegetable_juice tropical_fruit,3,0.002541942,brown_bread tropical_fruit,,2,fruit-vegetable_juice,1,0.238095238,3.293483357
+66,65,brown_bread other_vegetables whipped-sour_cream,3,0.00305033,brown_bread whipped-sour_cream,,2,other_vegetables,1,0.652173913,3.370536224
+67,66,brown_bread pip_fruit tropical_fruit,3,0.002440264,brown_bread pip_fruit,,2,tropical_fruit,1,0.32,3.049612403
+68,67,brown_bread pip_fruit tropical_fruit,3,0.002440264,brown_bread tropical_fruit,,2,pip_fruit,1,0.228571429,3.021505376
+69,68,butter chocolate whole_milk,3,0.003355363,chocolate whole_milk,,2,butter,1,0.201219512,3.631181472
+70,69,butter citrus_fruit whipped-sour_cream,3,0.002338587,butter citrus_fruit,,2,whipped-sour_cream,1,0.255555556,3.565090623
+71,70,butter citrus_fruit whipped-sour_cream,3,0.002338587,citrus_fruit whipped-sour_cream,,2,butter,1,0.214953271,3.87901912
+72,71,butter curd yogurt,3,0.002948653,butter curd,,2,yogurt,1,0.432835821,3.102726165
+73,72,butter curd yogurt,3,0.002948653,butter yogurt,,2,curd,1,0.201388889,3.779884966
+74,73,butter domestic_eggs other_vegetables,3,0.004575496,butter other_vegetables,,2,domestic_eggs,1,0.228426396,3.600278212
+75,74,butter domestic_eggs other_vegetables,3,0.004575496,domestic_eggs other_vegetables,,2,butter,1,0.205479452,3.7080558
+76,75,butter domestic_eggs root_vegetables,3,0.003253686,butter domestic_eggs,,2,root_vegetables,1,0.336842105,3.090337785
+77,76,butter domestic_eggs root_vegetables,3,0.003253686,butter root_vegetables,,2,domestic_eggs,1,0.251968504,3.971330507
+78,77,butter domestic_eggs root_vegetables,3,0.003253686,domestic_eggs root_vegetables,,2,butter,1,0.226950355,4.09551695
+79,78,butter domestic_eggs tropical_fruit,3,0.002338587,butter tropical_fruit,,2,domestic_eggs,1,0.234693878,3.699061355
+80,79,butter domestic_eggs tropical_fruit,3,0.002338587,domestic_eggs tropical_fruit,,2,butter,1,0.205357143,3.705848624
+81,80,butter domestic_eggs whole_milk,3,0.005998983,butter whole_milk,,2,domestic_eggs,1,0.217712177,3.431409074
+82,81,butter domestic_eggs whole_milk,3,0.005998983,domestic_eggs whole_milk,,2,butter,1,0.2,3.609174312
+83,82,butter domestic_eggs yogurt,3,0.002948653,butter yogurt,,2,domestic_eggs,1,0.201388889,3.17413417
+84,83,butter domestic_eggs yogurt,3,0.002948653,domestic_eggs yogurt,,2,butter,1,0.205673759,3.711562236
+85,84,butter fruit-vegetable_juice tropical_fruit,3,0.002541942,butter fruit-vegetable_juice,,2,tropical_fruit,1,0.316455696,3.015835051
+86,85,butter fruit-vegetable_juice tropical_fruit,3,0.002541942,butter tropical_fruit,,2,fruit-vegetable_juice,1,0.255102041,3.528732168
+87,86,butter fruit-vegetable_juice yogurt,3,0.003558719,butter fruit-vegetable_juice,,2,yogurt,1,0.443037975,3.175858951
+88,87,butter fruit-vegetable_juice yogurt,3,0.003558719,butter yogurt,,2,fruit-vegetable_juice,1,0.243055556,3.362097593
+89,88,butter hamburger_meat whole_milk,3,0.00305033,hamburger_meat whole_milk,,2,butter,1,0.206896552,3.733628599
+90,89,butter hygiene_articles other_vegetables,3,0.002338587,hygiene_articles other_vegetables,,2,butter,1,0.244680851,4.415479211
+91,90,butter hygiene_articles whole_milk,3,0.00305033,hygiene_articles whole_milk,,2,butter,1,0.238095238,4.296636086
+92,91,butter long_life_bakery_product other_vegetables,3,0.002440264,long_life_bakery_product other_vegetables,,2,butter,1,0.228571429,4.124770642
+93,92,butter onions whole_milk,3,0.00305033,onions whole_milk,,2,butter,1,0.25210084,4.549379385
+94,93,butter other_vegetables root_vegetables,3,0.006609049,butter other_vegetables,,2,root_vegetables,1,0.329949239,3.027099591
+95,94,butter other_vegetables whipped-sour_cream,3,0.005795628,butter other_vegetables,,2,whipped-sour_cream,1,0.289340102,4.036397019
+96,95,butter other_vegetables whipped-sour_cream,3,0.005795628,other_vegetables whipped-sour_cream,,2,butter,1,0.200704225,3.621882672
+97,96,butter root_vegetables tropical_fruit,3,0.003558719,butter tropical_fruit,,2,root_vegetables,1,0.357142857,3.276585821
+98,97,butter root_vegetables whipped-sour_cream,3,0.003457041,butter root_vegetables,,2,whipped-sour_cream,1,0.267716535,3.734740604
+99,98,butter root_vegetables whipped-sour_cream,3,0.003457041,butter whipped-sour_cream,,2,root_vegetables,1,0.34,3.119309701
+100,99,butter root_vegetables whipped-sour_cream,3,0.003457041,root_vegetables whipped-sour_cream,,2,butter,1,0.202380952,3.652140673
+101,100,butter sausage whipped-sour_cream,3,0.002541942,butter sausage,,2,whipped-sour_cream,1,0.294117647,4.103045474
+102,101,butter sausage whipped-sour_cream,3,0.002541942,sausage whipped-sour_cream,,2,butter,1,0.280898876,5.069065045
+103,102,butter tropical_fruit whipped-sour_cream,3,0.00305033,butter tropical_fruit,,2,whipped-sour_cream,1,0.306122449,4.270516717
+104,103,butter tropical_fruit whipped-sour_cream,3,0.00305033,tropical_fruit whipped-sour_cream,,2,butter,1,0.220588235,3.980706962
+105,104,butter tropical_fruit yogurt,3,0.004575496,butter tropical_fruit,,2,yogurt,1,0.459183673,3.291597251
+106,105,butter whipped-sour_cream whole_milk,3,0.006710727,butter whole_milk,,2,whipped-sour_cream,1,0.243542435,3.397503337
+107,106,butter whipped-sour_cream whole_milk,3,0.006710727,whipped-sour_cream whole_milk,,2,butter,1,0.208201893,3.757184615
+108,107,butter whipped-sour_cream yogurt,3,0.003863752,butter yogurt,,2,whipped-sour_cream,1,0.263888889,3.681343578
+109,108,butter_milk fruit-vegetable_juice other_vegetables,3,0.002338587,butter_milk other_vegetables,,2,fruit-vegetable_juice,1,0.225490196,3.119122473
+110,109,butter_milk other_vegetables pip_fruit,3,0.003253686,butter_milk other_vegetables,,2,pip_fruit,1,0.31372549,4.147164242
+111,110,butter_milk other_vegetables pip_fruit,3,0.003253686,butter_milk pip_fruit,,2,other_vegetables,1,0.64,3.307619548
+112,111,butter_milk other_vegetables whipped-sour_cream,3,0.002338587,butter_milk other_vegetables,,2,whipped-sour_cream,1,0.225490196,3.145668196
+113,112,butter_milk other_vegetables whipped-sour_cream,3,0.002338587,butter_milk whipped-sour_cream,,2,other_vegetables,1,0.605263158,3.128094145
+114,113,butter_milk pip_fruit whole_milk,3,0.00264362,butter_milk whole_milk,,2,pip_fruit,1,0.228070175,3.014879268
+115,114,butter_milk whipped-sour_cream whole_milk,3,0.002948653,butter_milk whole_milk,,2,whipped-sour_cream,1,0.254385965,3.548774418
+116,115,candy tropical_fruit yogurt,3,0.002338587,candy tropical_fruit,,2,yogurt,1,0.433962264,3.110800924
+117,116,candy tropical_fruit yogurt,3,0.002338587,candy yogurt,,2,tropical_fruit,1,0.425925926,4.059090583
+118,117,canned_beer sausage shopping_bags,3,0.00264362,canned_beer sausage,,2,shopping_bags,1,0.419354839,4.256300143
+119,118,cat_food other_vegetables root_vegetables,3,0.002846975,cat_food other_vegetables,,2,root_vegetables,1,0.4375,4.013817631
+120,119,cat_food other_vegetables root_vegetables,3,0.002846975,cat_food root_vegetables,,2,other_vegetables,1,0.608695652,3.145833809
+121,120,cat_food other_vegetables yogurt,3,0.002745297,cat_food other_vegetables,,2,yogurt,1,0.421875,3.024154974
+122,121,chicken citrus_fruit root_vegetables,3,0.00305033,chicken citrus_fruit,,2,root_vegetables,1,0.441176471,4.047547191
+123,122,chicken citrus_fruit root_vegetables,3,0.00305033,chicken root_vegetables,,2,citrus_fruit,1,0.280373832,3.387563434
+124,123,chicken citrus_fruit yogurt,3,0.002745297,chicken yogurt,,2,citrus_fruit,1,0.329268293,3.978321448
+125,124,chicken domestic_eggs root_vegetables,3,0.002440264,chicken domestic_eggs,,2,root_vegetables,1,0.393442623,3.609615855
+126,125,chicken domestic_eggs root_vegetables,3,0.002440264,chicken root_vegetables,,2,domestic_eggs,1,0.224299065,3.535226456
+127,126,chicken domestic_eggs whole_milk,3,0.00396543,chicken whole_milk,,2,domestic_eggs,1,0.225433526,3.553106936
+128,127,chicken hamburger_meat other_vegetables,3,0.002440264,chicken hamburger_meat,,2,other_vegetables,1,0.648648649,3.35231711
+129,128,chicken other_vegetables pip_fruit,3,0.002846975,chicken pip_fruit,,2,other_vegetables,1,0.595744681,3.078901175
+130,129,chicken other_vegetables sausage,3,0.003152008,chicken sausage,,2,other_vegetables,1,0.596153846,3.081015805
+131,130,chicken other_vegetables whipped-sour_cream,3,0.003863752,chicken other_vegetables,,2,whipped-sour_cream,1,0.215909091,3.012008382
+132,131,chicken other_vegetables yogurt,3,0.004880529,chicken yogurt,,2,other_vegetables,1,0.585365854,3.025261782
+133,132,chicken root_vegetables sausage,3,0.002236909,chicken sausage,,2,root_vegetables,1,0.423076923,3.881493972
+134,133,chicken root_vegetables tropical_fruit,3,0.002338587,chicken tropical_fruit,,2,root_vegetables,1,0.365079365,3.349398839
+135,134,chicken root_vegetables whole_milk,3,0.005998983,chicken whole_milk,,2,root_vegetables,1,0.341040462,3.128855362
+136,135,chicken root_vegetables yogurt,3,0.00305033,chicken yogurt,,2,root_vegetables,1,0.365853659,3.356502548
+137,136,chicken whipped-sour_cream whole_milk,3,0.004168785,chicken whole_milk,,2,whipped-sour_cream,1,0.23699422,3.306153405
+138,137,chicken whipped-sour_cream yogurt,3,0.002440264,chicken yogurt,,2,whipped-sour_cream,1,0.292682927,4.083030618
+139,138,chocolate fruit-vegetable_juice other_vegetables,3,0.002846975,chocolate other_vegetables,,2,fruit-vegetable_juice,1,0.224,3.098509142
+140,139,chocolate fruit-vegetable_juice yogurt,3,0.002440264,chocolate yogurt,,2,fruit-vegetable_juice,1,0.263736264,3.64816618
+141,140,chocolate long_life_bakery_product other_vegetables,3,0.002338587,long_life_bakery_product other_vegetables,,2,chocolate,1,0.219047619,4.414617486
+142,141,chocolate long_life_bakery_product whole_milk,3,0.00305033,long_life_bakery_product whole_milk,,2,chocolate,1,0.22556391,4.54594478
+143,142,chocolate pastry tropical_fruit,3,0.002236909,chocolate tropical_fruit,,2,pastry,1,0.275,3.091
+144,143,citrus_fruit curd tropical_fruit,3,0.002338587,citrus_fruit curd,,2,tropical_fruit,1,0.328571429,3.13129845
+145,144,citrus_fruit curd yogurt,3,0.00305033,citrus_fruit curd,,2,yogurt,1,0.428571429,3.072157434
+146,145,citrus_fruit frozen_vegetables root_vegetables,3,0.00264362,citrus_fruit frozen_vegetables,,2,root_vegetables,1,0.4,3.669776119
+147,146,citrus_fruit fruit-vegetable_juice root_vegetables,3,0.003457041,citrus_fruit fruit-vegetable_juice,,2,root_vegetables,1,0.333333333,3.058146766
+148,147,citrus_fruit fruit-vegetable_juice root_vegetables,3,0.003457041,fruit-vegetable_juice root_vegetables,,2,citrus_fruit,1,0.288135593,3.481343439
+149,148,citrus_fruit fruit-vegetable_juice soda,3,0.003355363,citrus_fruit soda,,2,fruit-vegetable_juice,1,0.261904762,3.622831692
+150,149,citrus_fruit fruit-vegetable_juice tropical_fruit,3,0.00396543,citrus_fruit fruit-vegetable_juice,,2,tropical_fruit,1,0.382352941,3.643838349
+151,150,citrus_fruit fruit-vegetable_juice tropical_fruit,3,0.00396543,fruit-vegetable_juice tropical_fruit,,2,citrus_fruit,1,0.288888889,3.49044499
+152,151,citrus_fruit napkins tropical_fruit,3,0.002846975,citrus_fruit napkins,,2,tropical_fruit,1,0.373333333,3.557881137
+153,152,citrus_fruit napkins tropical_fruit,3,0.002846975,napkins tropical_fruit,,2,citrus_fruit,1,0.282828283,3.417218872
+154,153,citrus_fruit oil other_vegetables,3,0.002541942,oil other_vegetables,,2,citrus_fruit,1,0.255102041,3.082221832
+155,154,citrus_fruit onions other_vegetables,3,0.003558719,citrus_fruit onions,,2,other_vegetables,1,0.636363636,3.288826255
+156,155,citrus_fruit onions other_vegetables,3,0.003558719,onions other_vegetables,,2,citrus_fruit,1,0.25,3.020577396
+157,156,citrus_fruit other_vegetables root_vegetables,3,0.010371124,citrus_fruit other_vegetables,,2,root_vegetables,1,0.35915493,3.295045459
+158,157,citrus_fruit other_vegetables root_vegetables,3,0.010371124,citrus_fruit root_vegetables,,2,other_vegetables,1,0.586206897,3.029608422
+159,158,citrus_fruit other_vegetables tropical_fruit,3,0.009049314,other_vegetables tropical_fruit,,2,citrus_fruit,1,0.252124646,3.046248025
+160,159,citrus_fruit pip_fruit root_vegetables,3,0.003863752,pip_fruit root_vegetables,,2,citrus_fruit,1,0.248366013,3.00083506
+161,160,citrus_fruit pip_fruit shopping_bags,3,0.00264362,citrus_fruit shopping_bags,,2,pip_fruit,1,0.270833333,3.580169131
+162,161,citrus_fruit pip_fruit shopping_bags,3,0.00264362,pip_fruit shopping_bags,,2,citrus_fruit,1,0.282608696,3.414565752
+163,162,citrus_fruit pip_fruit tropical_fruit,3,0.005592272,citrus_fruit pip_fruit,,2,tropical_fruit,1,0.404411765,3.854059793
+164,163,citrus_fruit pip_fruit tropical_fruit,3,0.005592272,citrus_fruit tropical_fruit,,2,pip_fruit,1,0.280612245,3.709437404
+165,164,citrus_fruit pip_fruit tropical_fruit,3,0.005592272,pip_fruit tropical_fruit,,2,citrus_fruit,1,0.273631841,3.306104612
+166,165,citrus_fruit pork root_vegetables,3,0.002541942,citrus_fruit pork,,2,root_vegetables,1,0.390625,3.583765742
+167,166,citrus_fruit root_vegetables tropical_fruit,3,0.00569395,citrus_fruit root_vegetables,,2,tropical_fruit,1,0.32183908,3.067138911
+168,167,citrus_fruit root_vegetables tropical_fruit,3,0.00569395,root_vegetables tropical_fruit,,2,citrus_fruit,1,0.270531401,3.268644138
+169,168,citrus_fruit sausage whipped-sour_cream,3,0.002338587,sausage whipped-sour_cream,,2,citrus_fruit,1,0.258426966,3.122394611
+170,169,citrus_fruit whipped-sour_cream yogurt,3,0.004575496,citrus_fruit whipped-sour_cream,,2,yogurt,1,0.420560748,3.014733931
+171,170,coffee fruit-vegetable_juice soda,3,0.00264362,coffee soda,,2,fruit-vegetable_juice,1,0.265306122,3.669881455
+172,171,coffee pip_fruit tropical_fruit,3,0.002440264,coffee pip_fruit,,2,tropical_fruit,1,0.352941176,3.363543092
+173,172,coffee pip_fruit tropical_fruit,3,0.002440264,coffee tropical_fruit,,2,pip_fruit,1,0.342857143,4.532258065
+174,173,coffee tropical_fruit yogurt,3,0.00305033,coffee tropical_fruit,,2,yogurt,1,0.428571429,3.072157434
+175,174,cream_cheese curd other_vegetables,3,0.002745297,cream_cheese other_vegetables,,2,curd,1,0.2,3.753816794
+176,175,cream_cheese curd yogurt,3,0.002440264,cream_cheese curd,,2,yogurt,1,0.48,3.440816327
+177,176,cream_cheese domestic_eggs other_vegetables,3,0.002846975,cream_cheese other_vegetables,,2,domestic_eggs,1,0.207407407,3.268993352
+178,177,cream_cheese domestic_eggs whole_milk,3,0.003457041,cream_cheese whole_milk,,2,domestic_eggs,1,0.209876543,3.30790994
+179,178,cream_cheese fruit-vegetable_juice yogurt,3,0.002440264,cream_cheese fruit-vegetable_juice,,2,yogurt,1,0.428571429,3.072157434
+180,179,cream_cheese other_vegetables root_vegetables,3,0.004473818,cream_cheese root_vegetables,,2,other_vegetables,1,0.594594595,3.07295735
+181,180,cream_cheese other_vegetables whipped-sour_cream,3,0.003355363,cream_cheese other_vegetables,,2,whipped-sour_cream,1,0.244444444,3.410086682
+182,181,cream_cheese pip_fruit whole_milk,3,0.00396543,cream_cheese whole_milk,,2,pip_fruit,1,0.240740741,3.182372561
+183,182,cream_cheese root_vegetables yogurt,3,0.003762074,cream_cheese root_vegetables,,2,yogurt,1,0.5,3.584183673
+184,183,cream_cheese whipped-sour_cream whole_milk,3,0.00396543,cream_cheese whole_milk,,2,whipped-sour_cream,1,0.240740741,3.358418702
+185,184,cream_cheese whipped-sour_cream yogurt,3,0.003355363,cream_cheese whipped-sour_cream,,2,yogurt,1,0.523809524,3.754859086
+186,185,cream_cheese whipped-sour_cream yogurt,3,0.003355363,cream_cheese yogurt,,2,whipped-sour_cream,1,0.270491803,3.773456575
+187,186,curd dessert whole_milk,3,0.002745297,dessert whole_milk,,2,curd,1,0.2,3.753816794
+188,187,curd domestic_eggs other_vegetables,3,0.003457041,curd other_vegetables,,2,domestic_eggs,1,0.201183432,3.170895919
+189,188,curd domestic_eggs root_vegetables,3,0.002338587,curd domestic_eggs,,2,root_vegetables,1,0.359375,3.297064482
+190,189,curd domestic_eggs root_vegetables,3,0.002338587,curd root_vegetables,,2,domestic_eggs,1,0.214953271,3.387925353
+191,190,curd domestic_eggs tropical_fruit,3,0.002236909,curd domestic_eggs,,2,tropical_fruit,1,0.34375,3.275950824
+192,191,curd domestic_eggs tropical_fruit,3,0.002236909,curd tropical_fruit,,2,domestic_eggs,1,0.217821782,3.433136583
+193,192,curd domestic_eggs yogurt,3,0.002745297,curd domestic_eggs,,2,yogurt,1,0.421875,3.024154974
+194,193,curd hamburger_meat whole_milk,3,0.002541942,curd hamburger_meat,,2,whole_milk,1,0.806451613,3.156168569
+195,194,curd margarine yogurt,3,0.002745297,curd margarine,,2,yogurt,1,0.435483871,3.121708361
+196,195,curd other_vegetables whipped-sour_cream,3,0.00437214,curd other_vegetables,,2,whipped-sour_cream,1,0.25443787,3.54949851
+197,196,curd pastry yogurt,3,0.003253686,curd pastry,,2,yogurt,1,0.432432432,3.099834528
+198,197,curd pip_fruit tropical_fruit,3,0.002745297,curd pip_fruit,,2,tropical_fruit,1,0.350649351,3.341701903
+199,198,curd pip_fruit tropical_fruit,3,0.002745297,curd tropical_fruit,,2,pip_fruit,1,0.267326733,3.533815075
+200,199,curd pip_fruit whipped-sour_cream,3,0.002236909,curd pip_fruit,,2,whipped-sour_cream,1,0.285714286,3.985815603
+201,200,curd pip_fruit whipped-sour_cream,3,0.002236909,pip_fruit whipped-sour_cream,,2,curd,1,0.241758242,4.53758074
+202,201,curd pip_fruit yogurt,3,0.003863752,curd pip_fruit,,2,yogurt,1,0.493506494,3.537635834
+203,202,curd pip_fruit yogurt,3,0.003863752,pip_fruit yogurt,,2,curd,1,0.214689266,4.029520852
+204,203,curd rolls-buns whipped-sour_cream,3,0.002440264,curd rolls-buns,,2,whipped-sour_cream,1,0.242424242,3.381904148
+205,204,curd root_vegetables whipped-sour_cream,3,0.002541942,curd root_vegetables,,2,whipped-sour_cream,1,0.23364486,3.259428647
+206,205,curd root_vegetables yogurt,3,0.004677173,curd root_vegetables,,2,yogurt,1,0.429906542,3.081728018
+207,206,curd sausage yogurt,3,0.003558719,curd sausage,,2,yogurt,1,0.466666667,3.345238095
+208,207,curd tropical_fruit whipped-sour_cream,3,0.002846975,curd tropical_fruit,,2,whipped-sour_cream,1,0.277227723,3.86742504
+209,208,curd tropical_fruit whipped-sour_cream,3,0.002846975,tropical_fruit whipped-sour_cream,,2,curd,1,0.205882353,3.86422317
+210,209,curd tropical_fruit yogurt,3,0.005287239,curd tropical_fruit,,2,yogurt,1,0.514851485,3.690644575
+211,210,curd whipped-sour_cream whole_milk,3,0.005897306,curd whole_milk,,2,whipped-sour_cream,1,0.225680934,3.148329056
+212,211,curd whipped-sour_cream yogurt,3,0.004575496,curd whipped-sour_cream,,2,yogurt,1,0.436893204,3.131810977
+213,212,curd whipped-sour_cream yogurt,3,0.004575496,curd yogurt,,2,whipped-sour_cream,1,0.264705882,3.692740926
+214,213,curd whipped-sour_cream yogurt,3,0.004575496,whipped-sour_cream yogurt,,2,curd,1,0.220588235,4.140239111
+215,214,dessert fruit-vegetable_juice other_vegetables,3,0.00264362,dessert other_vegetables,,2,fruit-vegetable_juice,1,0.228070175,3.154810373
+216,215,dessert fruit-vegetable_juice yogurt,3,0.002338587,dessert yogurt,,2,fruit-vegetable_juice,1,0.237113402,3.279901982
+217,216,dessert other_vegetables pip_fruit,3,0.002745297,dessert other_vegetables,,2,pip_fruit,1,0.236842105,3.130836163
+218,217,dessert other_vegetables root_vegetables,3,0.003457041,dessert root_vegetables,,2,other_vegetables,1,0.596491228,3.082759447
+219,218,dessert other_vegetables whipped-sour_cream,3,0.002846975,dessert other_vegetables,,2,whipped-sour_cream,1,0.245614035,3.426402887
+220,219,dessert other_vegetables whipped-sour_cream,3,0.002846975,dessert whipped-sour_cream,,2,other_vegetables,1,0.583333333,3.014757401
+221,220,dessert root_vegetables yogurt,3,0.002440264,dessert root_vegetables,,2,yogurt,1,0.421052632,3.018259936
+222,221,domestic_eggs fruit-vegetable_juice root_vegetables,3,0.002541942,fruit-vegetable_juice root_vegetables,,2,domestic_eggs,1,0.211864407,3.339241091
+223,222,domestic_eggs hygiene_articles whole_milk,3,0.002745297,hygiene_articles whole_milk,,2,domestic_eggs,1,0.214285714,3.377403846
+224,223,domestic_eggs margarine other_vegetables,3,0.00396543,margarine other_vegetables,,2,domestic_eggs,1,0.201030928,3.168492268
+225,224,domestic_eggs margarine root_vegetables,3,0.002541942,margarine root_vegetables,,2,domestic_eggs,1,0.229357798,3.614958245
+226,225,domestic_eggs margarine tropical_fruit,3,0.002236909,margarine tropical_fruit,,2,domestic_eggs,1,0.239130435,3.768986901
+227,226,domestic_eggs margarine whole_milk,3,0.005185562,margarine whole_milk,,2,domestic_eggs,1,0.214285714,3.377403846
+228,227,domestic_eggs onions whole_milk,3,0.002745297,onions whole_milk,,2,domestic_eggs,1,0.226890756,3.576074661
+229,228,domestic_eggs other_vegetables root_vegetables,3,0.007320793,domestic_eggs other_vegetables,,2,root_vegetables,1,0.328767123,3.016254345
+230,229,domestic_eggs other_vegetables sugar,3,0.002338587,other_vegetables sugar,,2,domestic_eggs,1,0.216981132,3.419886913
+231,230,domestic_eggs other_vegetables whipped-sour_cream,3,0.005083884,domestic_eggs other_vegetables,,2,whipped-sour_cream,1,0.228310502,3.185012468
+232,231,domestic_eggs root_vegetables whipped-sour_cream,3,0.003355363,domestic_eggs root_vegetables,,2,whipped-sour_cream,1,0.234042553,3.264976611
+233,232,domestic_eggs root_vegetables whipped-sour_cream,3,0.003355363,domestic_eggs whipped-sour_cream,,2,root_vegetables,1,0.336734694,3.089352345
+234,233,domestic_eggs sugar whole_milk,3,0.003558719,sugar whole_milk,,2,domestic_eggs,1,0.236486486,3.727315055
+235,234,domestic_eggs whipped-sour_cream yogurt,3,0.003558719,domestic_eggs yogurt,,2,whipped-sour_cream,1,0.24822695,3.462853981
+236,235,flour other_vegetables root_vegetables,3,0.002338587,flour other_vegetables,,2,root_vegetables,1,0.370967742,3.403421401
+237,236,flour other_vegetables yogurt,3,0.002745297,flour other_vegetables,,2,yogurt,1,0.435483871,3.121708361
+238,237,flour root_vegetables whole_milk,3,0.002948653,flour whole_milk,,2,root_vegetables,1,0.34939759,3.205527333
+239,238,flour sugar whole_milk,3,0.002846975,flour whole_milk,,2,sugar,1,0.337349398,9.963457433
+240,239,flour whipped-sour_cream whole_milk,3,0.002541942,flour whole_milk,,2,whipped-sour_cream,1,0.301204819,4.201914039
+241,240,frankfurter pip_fruit tropical_fruit,3,0.002338587,frankfurter pip_fruit,,2,tropical_fruit,1,0.323943662,3.087195655
+242,241,frankfurter pip_fruit tropical_fruit,3,0.002338587,frankfurter tropical_fruit,,2,pip_fruit,1,0.247311828,3.269236328
+243,242,frankfurter pip_fruit yogurt,3,0.002541942,frankfurter yogurt,,2,pip_fruit,1,0.227272727,3.004337732
+244,243,frankfurter tropical_fruit whipped-sour_cream,3,0.002236909,frankfurter tropical_fruit,,2,whipped-sour_cream,1,0.23655914,3.300083886
+245,244,frankfurter tropical_fruit whipped-sour_cream,3,0.002236909,frankfurter whipped-sour_cream,,2,tropical_fruit,1,0.360655738,3.437063159
+246,245,frozen_fish other_vegetables whole_milk,3,0.002745297,frozen_fish,,1,other_vegetables whole_milk,2,0.234782609,3.137346408
+247,246,frozen_fish whole_milk yogurt,3,0.002236909,frozen_fish whole_milk,,2,yogurt,1,0.448979592,3.218450646
+248,247,frozen_meals other_vegetables root_vegetables,3,0.002541942,frozen_meals other_vegetables,,2,root_vegetables,1,0.337837838,3.099473074
+249,248,frozen_meals other_vegetables root_vegetables,3,0.002541942,frozen_meals root_vegetables,,2,other_vegetables,1,0.657894737,3.400102331
+250,249,frozen_meals tropical_fruit whole_milk,3,0.003558719,frozen_meals whole_milk,,2,tropical_fruit,1,0.360824742,3.438673779
+251,250,frozen_vegetables fruit-vegetable_juice root_vegetables,3,0.00264362,frozen_vegetables fruit-vegetable_juice,,2,root_vegetables,1,0.337662338,3.097862958
+252,251,frozen_vegetables fruit-vegetable_juice root_vegetables,3,0.00264362,frozen_vegetables root_vegetables,,2,fruit-vegetable_juice,1,0.228070175,3.154810373
+253,252,frozen_vegetables fruit-vegetable_juice root_vegetables,3,0.00264362,fruit-vegetable_juice root_vegetables,,2,frozen_vegetables,1,0.220338983,4.581467015
+254,253,frozen_vegetables fruit-vegetable_juice soda,3,0.002236909,frozen_vegetables soda,,2,fruit-vegetable_juice,1,0.258823529,3.580210143
+255,254,frozen_vegetables fruit-vegetable_juice yogurt,3,0.003152008,frozen_vegetables yogurt,,2,fruit-vegetable_juice,1,0.254098361,3.514848632
+256,255,frozen_vegetables other_vegetables root_vegetables,3,0.006100661,frozen_vegetables other_vegetables,,2,root_vegetables,1,0.342857143,3.145522388
+257,256,frozen_vegetables other_vegetables whipped-sour_cream,3,0.00396543,frozen_vegetables other_vegetables,,2,whipped-sour_cream,1,0.222857143,3.10893617
+258,257,frozen_vegetables root_vegetables tropical_fruit,3,0.00305033,frozen_vegetables tropical_fruit,,2,root_vegetables,1,0.348837209,3.200386151
+259,258,frozen_vegetables root_vegetables whipped-sour_cream,3,0.002745297,frozen_vegetables root_vegetables,,2,whipped-sour_cream,1,0.236842105,3.304031355
+260,259,frozen_vegetables root_vegetables whipped-sour_cream,3,0.002745297,frozen_vegetables whipped-sour_cream,,2,root_vegetables,1,0.346153846,3.175767796
+261,260,frozen_vegetables tropical_fruit whipped-sour_cream,3,0.002338587,frozen_vegetables tropical_fruit,,2,whipped-sour_cream,1,0.26744186,3.730908791
+262,261,frozen_vegetables whipped-sour_cream yogurt,3,0.003355363,frozen_vegetables whipped-sour_cream,,2,yogurt,1,0.423076923,3.032770801
+263,262,frozen_vegetables whipped-sour_cream yogurt,3,0.003355363,frozen_vegetables yogurt,,2,whipped-sour_cream,1,0.270491803,3.773456575
+264,263,fruit-vegetable_juice long_life_bakery_product other_vegetables,3,0.002541942,long_life_bakery_product other_vegetables,,2,fruit-vegetable_juice,1,0.238095238,3.293483357
+265,264,fruit-vegetable_juice long_life_bakery_product whole_milk,3,0.003355363,long_life_bakery_product whole_milk,,2,fruit-vegetable_juice,1,0.248120301,3.43215634
+266,265,fruit-vegetable_juice napkins root_vegetables,3,0.002236909,napkins root_vegetables,,2,fruit-vegetable_juice,1,0.224489796,3.105284308
+267,266,fruit-vegetable_juice pip_fruit tropical_fruit,3,0.003152008,fruit-vegetable_juice pip_fruit,,2,tropical_fruit,1,0.329787234,3.142885123
+268,267,fruit-vegetable_juice pip_fruit tropical_fruit,3,0.003152008,fruit-vegetable_juice tropical_fruit,,2,pip_fruit,1,0.22962963,3.035493827
+269,268,fruit-vegetable_juice root_vegetables whipped-sour_cream,3,0.002846975,fruit-vegetable_juice root_vegetables,,2,whipped-sour_cream,1,0.237288136,3.310253636
+270,269,fruit-vegetable_juice salty_snack soda,3,0.002236909,salty_snack soda,,2,fruit-vegetable_juice,1,0.239130435,3.30780285
+271,270,fruit-vegetable_juice salty_snack whole_milk,3,0.002440264,salty_snack whole_milk,,2,fruit-vegetable_juice,1,0.218181818,3.018028385
+272,271,fruit-vegetable_juice salty_snack yogurt,3,0.002236909,salty_snack yogurt,,2,fruit-vegetable_juice,1,0.360655738,4.988817413
+273,272,fruit-vegetable_juice soda white_bread,3,0.002745297,soda white_bread,,2,fruit-vegetable_juice,1,0.267326733,3.697831808
+274,273,fruit-vegetable_juice tropical_fruit white_bread,3,0.002440264,fruit-vegetable_juice white_bread,,2,tropical_fruit,1,0.328767123,3.133163428
+275,274,fruit-vegetable_juice tropical_fruit white_bread,3,0.002440264,tropical_fruit white_bread,,2,fruit-vegetable_juice,1,0.279069767,3.860268865
+276,275,fruit-vegetable_juice whipped-sour_cream yogurt,3,0.003863752,fruit-vegetable_juice whipped-sour_cream,,2,yogurt,1,0.426966292,3.060651227
+277,276,fruit-vegetable_juice white_bread yogurt,3,0.002440264,white_bread yogurt,,2,fruit-vegetable_juice,1,0.269662921,3.730147442
+278,277,grapes other_vegetables root_vegetables,3,0.002745297,grapes root_vegetables,,2,other_vegetables,1,0.613636364,3.171368175
+279,278,grapes other_vegetables tropical_fruit,3,0.003660397,grapes other_vegetables,,2,tropical_fruit,1,0.404494382,3.854847139
+280,279,grapes other_vegetables tropical_fruit,3,0.003660397,grapes tropical_fruit,,2,other_vegetables,1,0.6,3.100893326
+281,280,grapes other_vegetables yogurt,3,0.002846975,grapes yogurt,,2,other_vegetables,1,0.608695652,3.145833809
+282,281,grapes tropical_fruit whole_milk,3,0.002541942,grapes whole_milk,,2,tropical_fruit,1,0.347222222,3.309041236
+283,282,ham other_vegetables pip_fruit,3,0.00264362,ham other_vegetables,,2,pip_fruit,1,0.288888889,3.818847073
+284,283,ham other_vegetables pip_fruit,3,0.00264362,ham pip_fruit,,2,other_vegetables,1,0.666666667,3.445437029
+285,284,ham tropical_fruit yogurt,3,0.002440264,ham tropical_fruit,,2,yogurt,1,0.452830189,3.246053138
+286,285,ham tropical_fruit yogurt,3,0.002440264,ham yogurt,,2,tropical_fruit,1,0.363636364,3.46546864
+287,286,ham whipped-sour_cream whole_milk,3,0.00264362,ham whole_milk,,2,whipped-sour_cream,1,0.230088496,3.209816105
+288,287,ham white_bread whole_milk,3,0.002440264,ham whole_milk,,2,white_bread,1,0.212389381,5.045530332
+289,288,hamburger_meat other_vegetables pip_fruit,3,0.002948653,hamburger_meat pip_fruit,,2,other_vegetables,1,0.659090909,3.406284336
+290,289,hamburger_meat other_vegetables root_vegetables,3,0.003660397,hamburger_meat root_vegetables,,2,other_vegetables,1,0.590163934,3.05005901
+291,290,hard_cheese other_vegetables root_vegetables,3,0.003457041,hard_cheese other_vegetables,,2,root_vegetables,1,0.365591398,3.354096453
+292,291,hard_cheese other_vegetables root_vegetables,3,0.003457041,hard_cheese root_vegetables,,2,other_vegetables,1,0.618181818,3.194859791
+293,292,hard_cheese other_vegetables sausage,3,0.002948653,hard_cheese other_vegetables,,2,sausage,1,0.311827957,3.319077876
+294,293,hard_cheese other_vegetables whipped-sour_cream,3,0.002745297,hard_cheese other_vegetables,,2,whipped-sour_cream,1,0.290322581,4.050102951
+295,294,hard_cheese other_vegetables whipped-sour_cream,3,0.002745297,hard_cheese whipped-sour_cream,,2,other_vegetables,1,0.613636364,3.171368175
+296,295,hard_cheese root_vegetables yogurt,3,0.002236909,hard_cheese yogurt,,2,root_vegetables,1,0.349206349,3.203772803
+297,296,hard_cheese whipped-sour_cream whole_milk,3,0.00264362,hard_cheese whole_milk,,2,whipped-sour_cream,1,0.262626263,3.663729494
+298,297,herbs other_vegetables root_vegetables,3,0.003863752,herbs,,1,other_vegetables root_vegetables,2,0.2375,5.012473176
+299,298,herbs other_vegetables root_vegetables,3,0.003863752,herbs other_vegetables,,2,root_vegetables,1,0.5,4.587220149
+300,299,herbs other_vegetables whole_milk,3,0.004067107,herbs,,1,other_vegetables whole_milk,2,0.25,3.340692935
+301,300,herbs rolls-buns whole_milk,3,0.002440264,herbs rolls-buns,,2,whole_milk,1,0.8,3.13091922
+302,301,herbs root_vegetables whole_milk,3,0.004168785,herbs,,1,root_vegetables whole_milk,2,0.25625,5.239540021
+303,302,herbs root_vegetables whole_milk,3,0.004168785,herbs whole_milk,,2,root_vegetables,1,0.539473684,4.949369108
+304,303,herbs tropical_fruit whole_milk,3,0.002338587,herbs tropical_fruit,,2,whole_milk,1,0.821428571,3.214783128
+305,304,hygiene_articles napkins whole_milk,3,0.002846975,hygiene_articles whole_milk,,2,napkins,1,0.222222222,4.243797195
+306,305,hygiene_articles other_vegetables whipped-sour_cream,3,0.002338587,hygiene_articles other_vegetables,,2,whipped-sour_cream,1,0.244680851,3.413384639
+307,306,hygiene_articles pip_fruit tropical_fruit,3,0.002236909,hygiene_articles pip_fruit,,2,tropical_fruit,1,0.468085106,4.460869207
+308,307,hygiene_articles pip_fruit tropical_fruit,3,0.002236909,hygiene_articles tropical_fruit,,2,pip_fruit,1,0.333333333,4.406362007
+309,308,hygiene_articles pip_fruit whole_milk,3,0.00305033,hygiene_articles whole_milk,,2,pip_fruit,1,0.238095238,3.147401434
+310,309,hygiene_articles tropical_fruit whole_milk,3,0.004067107,hygiene_articles whole_milk,,2,tropical_fruit,1,0.317460317,3.02540913
+311,310,hygiene_articles tropical_fruit yogurt,3,0.002541942,hygiene_articles yogurt,,2,tropical_fruit,1,0.347222222,3.309041236
+312,311,long_life_bakery_product other_vegetables root_vegetables,3,0.003355363,long_life_bakery_product root_vegetables,,2,other_vegetables,1,0.634615385,3.279791018
+313,312,long_life_bakery_product other_vegetables whipped-sour_cream,3,0.002745297,long_life_bakery_product other_vegetables,,2,whipped-sour_cream,1,0.257142857,3.587234043
+314,313,long_life_bakery_product whipped-sour_cream whole_milk,3,0.003253686,long_life_bakery_product whole_milk,,2,whipped-sour_cream,1,0.240601504,3.356476297
+315,314,margarine pip_fruit root_vegetables,3,0.002846975,margarine pip_fruit,,2,root_vegetables,1,0.333333333,3.058146766
+316,315,margarine pip_fruit root_vegetables,3,0.002846975,margarine root_vegetables,,2,pip_fruit,1,0.256880734,3.395728519
+317,316,margarine pip_fruit tropical_fruit,3,0.002338587,margarine tropical_fruit,,2,pip_fruit,1,0.25,3.304771505
+318,317,margarine root_vegetables whipped-sour_cream,3,0.002236909,margarine whipped-sour_cream,,2,root_vegetables,1,0.328358209,3.012502785
+319,318,margarine tropical_fruit yogurt,3,0.004067107,margarine tropical_fruit,,2,yogurt,1,0.434782609,3.116681455
+320,319,margarine whipped-sour_cream yogurt,3,0.003152008,margarine whipped-sour_cream,,2,yogurt,1,0.462686567,3.31670728
+321,320,margarine whipped-sour_cream yogurt,3,0.003152008,margarine yogurt,,2,whipped-sour_cream,1,0.221428571,3.089007092
+322,321,napkins other_vegetables whipped-sour_cream,3,0.003355363,napkins other_vegetables,,2,whipped-sour_cream,1,0.232394366,3.241983818
+323,322,napkins pip_fruit tropical_fruit,3,0.002745297,napkins pip_fruit,,2,tropical_fruit,1,0.409090909,3.89865222
+324,323,napkins pip_fruit tropical_fruit,3,0.002745297,napkins tropical_fruit,,2,pip_fruit,1,0.272727273,3.605205279
+325,324,napkins root_vegetables whipped-sour_cream,3,0.002541942,napkins root_vegetables,,2,whipped-sour_cream,1,0.255102041,3.558763931
+326,325,napkins root_vegetables whipped-sour_cream,3,0.002541942,napkins whipped-sour_cream,,2,root_vegetables,1,0.352112676,3.230436725
+327,326,napkins shopping_bags tropical_fruit,3,0.002338587,napkins shopping_bags,,2,tropical_fruit,1,0.323943662,3.087195655
+328,327,oil other_vegetables root_vegetables,3,0.003863752,oil other_vegetables,,2,root_vegetables,1,0.387755102,3.557436034
+329,328,oil other_vegetables yogurt,3,0.003253686,oil yogurt,,2,other_vegetables,1,0.615384615,3.180403412
+330,329,oil root_vegetables whole_milk,3,0.004473818,oil whole_milk,,2,root_vegetables,1,0.396396396,3.636715073
+331,330,onions other_vegetables root_vegetables,3,0.00569395,onions other_vegetables,,2,root_vegetables,1,0.4,3.669776119
+332,331,onions other_vegetables root_vegetables,3,0.00569395,onions root_vegetables,,2,other_vegetables,1,0.602150538,3.112007639
+333,332,onions other_vegetables tropical_fruit,3,0.003660397,onions tropical_fruit,,2,other_vegetables,1,0.642857143,3.322385707
+334,333,onions other_vegetables whipped-sour_cream,3,0.003152008,onions other_vegetables,,2,whipped-sour_cream,1,0.221428571,3.089007092
+335,334,onions other_vegetables whipped-sour_cream,3,0.003152008,onions whipped-sour_cream,,2,other_vegetables,1,0.62,3.204256437
+336,335,onions rolls-buns root_vegetables,3,0.002541942,onions rolls-buns,,2,root_vegetables,1,0.373134328,3.423298619
+337,336,onions root_vegetables whipped-sour_cream,3,0.002338587,onions root_vegetables,,2,whipped-sour_cream,1,0.247311828,3.450087699
+338,337,onions root_vegetables whipped-sour_cream,3,0.002338587,onions whipped-sour_cream,,2,root_vegetables,1,0.46,4.220242537
+339,338,onions root_vegetables whole_milk,3,0.004778851,onions whole_milk,,2,root_vegetables,1,0.394957983,3.623518437
+340,339,onions whipped-sour_cream whole_milk,3,0.002745297,onions whole_milk,,2,whipped-sour_cream,1,0.226890756,3.165206508
+341,340,other_vegetables pip_fruit pork,3,0.003762074,pip_fruit pork,,2,other_vegetables,1,0.616666667,3.187029252
+342,341,other_vegetables pip_fruit tropical_fruit,3,0.009456024,other_vegetables pip_fruit,,2,tropical_fruit,1,0.361867704,3.448613248
+343,342,other_vegetables pip_fruit tropical_fruit,3,0.009456024,other_vegetables tropical_fruit,,2,pip_fruit,1,0.263456091,3.482648725
+344,343,other_vegetables pip_fruit whipped-sour_cream,3,0.005592272,pip_fruit whipped-sour_cream,,2,other_vegetables,1,0.604395604,3.123610494
+345,344,other_vegetables pork sugar,3,0.002236909,other_vegetables sugar,,2,pork,1,0.20754717,3.600046587
+346,345,other_vegetables rice root_vegetables,3,0.002236909,rice,,1,other_vegetables root_vegetables,2,0.293333333,6.190844063
+347,346,other_vegetables rice root_vegetables,3,0.002236909,other_vegetables rice,,2,root_vegetables,1,0.564102564,5.175325297
+348,347,other_vegetables rice root_vegetables,3,0.002236909,rice root_vegetables,,2,other_vegetables,1,0.709677419,3.667723289
+349,348,other_vegetables rice whole_milk,3,0.00264362,rice,,1,other_vegetables whole_milk,2,0.346666667,4.632427536
+350,349,other_vegetables roll_products whole_milk,3,0.002338587,roll_products,,1,other_vegetables whole_milk,2,0.227722772,3.043007426
+351,350,other_vegetables root_vegetables sliced_cheese,3,0.003762074,other_vegetables sliced_cheese,,2,root_vegetables,1,0.415730337,3.814093158
+352,351,other_vegetables root_vegetables sliced_cheese,3,0.003762074,root_vegetables sliced_cheese,,2,other_vegetables,1,0.672727273,3.476759184
+353,352,other_vegetables root_vegetables soft_cheese,3,0.002440264,other_vegetables soft_cheese,,2,root_vegetables,1,0.342857143,3.145522388
+354,353,other_vegetables root_vegetables soft_cheese,3,0.002440264,root_vegetables soft_cheese,,2,other_vegetables,1,0.727272727,3.758658577
+355,354,other_vegetables root_vegetables tropical_fruit,3,0.012302999,other_vegetables tropical_fruit,,2,root_vegetables,1,0.342776204,3.144779819
+356,355,other_vegetables root_vegetables tropical_fruit,3,0.012302999,root_vegetables tropical_fruit,,2,other_vegetables,1,0.584541063,3.020999134
+357,356,other_vegetables salty_snack whipped-sour_cream,3,0.002745297,other_vegetables salty_snack,,2,whipped-sour_cream,1,0.254716981,3.553392212
+358,357,other_vegetables semi-finished_bread tropical_fruit,3,0.002236909,other_vegetables semi-finished_bread,,2,tropical_fruit,1,0.431372549,4.110997112
+359,358,other_vegetables semi-finished_bread yogurt,3,0.002236909,other_vegetables semi-finished_bread,,2,yogurt,1,0.431372549,3.092236895
+360,359,other_vegetables semi-finished_bread yogurt,3,0.002236909,semi-finished_bread yogurt,,2,other_vegetables,1,0.628571429,3.248554913
+361,360,other_vegetables sliced_cheese tropical_fruit,3,0.00305033,other_vegetables sliced_cheese,,2,tropical_fruit,1,0.337078652,3.212372616
+362,361,other_vegetables soft_cheese whipped-sour_cream,3,0.002236909,other_vegetables soft_cheese,,2,whipped-sour_cream,1,0.314285714,4.384397163
+363,362,other_vegetables soft_cheese whipped-sour_cream,3,0.002236909,soft_cheese whipped-sour_cream,,2,other_vegetables,1,0.733333333,3.789980732
+364,363,other_vegetables specialty_cheese whole_milk,3,0.002236909,specialty_cheese,,1,other_vegetables whole_milk,2,0.261904762,3.499773551
+365,364,other_vegetables specialty_cheese whole_milk,3,0.002236909,specialty_cheese whole_milk,,2,other_vegetables,1,0.594594595,3.07295735
+366,365,other_vegetables sugar whipped-sour_cream,3,0.00264362,other_vegetables sugar,,2,whipped-sour_cream,1,0.245283019,3.421785093
+367,366,other_vegetables tropical_fruit whipped-sour_cream,3,0.007829181,other_vegetables tropical_fruit,,2,whipped-sour_cream,1,0.218130312,3.042995198
+368,367,other_vegetables waffles whipped-sour_cream,3,0.002338587,other_vegetables waffles,,2,whipped-sour_cream,1,0.232323232,3.240991475
+369,368,other_vegetables whipped-sour_cream white_bread,3,0.003355363,other_vegetables white_bread,,2,whipped-sour_cream,1,0.244444444,3.410086682
+370,369,other_vegetables whipped-sour_cream white_bread,3,0.003355363,whipped-sour_cream white_bread,,2,other_vegetables,1,0.611111111,3.158317277
+371,370,other_vegetables whipped-sour_cream yogurt,3,0.010167768,other_vegetables yogurt,,2,whipped-sour_cream,1,0.234192037,3.26706197
+372,371,pasta root_vegetables whole_milk,3,0.002338587,pasta whole_milk,,2,root_vegetables,1,0.383333333,3.516868781
+373,372,pastry pip_fruit tropical_fruit,3,0.003762074,pastry pip_fruit,,2,tropical_fruit,1,0.352380952,3.358204134
+374,373,pastry pip_fruit tropical_fruit,3,0.003762074,pastry tropical_fruit,,2,pip_fruit,1,0.284615385,3.762355252
+375,374,pip_fruit rolls-buns tropical_fruit,3,0.004473818,pip_fruit rolls-buns,,2,tropical_fruit,1,0.321167883,3.060742375
+376,375,pip_fruit root_vegetables tropical_fruit,3,0.005287239,pip_fruit root_vegetables,,2,tropical_fruit,1,0.339869281,3.238967422
+377,376,pip_fruit root_vegetables tropical_fruit,3,0.005287239,root_vegetables tropical_fruit,,2,pip_fruit,1,0.251207729,3.320736585
+378,377,pip_fruit root_vegetables whipped-sour_cream,3,0.00305033,pip_fruit whipped-sour_cream,,2,root_vegetables,1,0.32967033,3.024540758
+379,378,pip_fruit shopping_bags tropical_fruit,3,0.003253686,pip_fruit shopping_bags,,2,tropical_fruit,1,0.347826087,3.31479609
+380,379,pip_fruit shopping_bags tropical_fruit,3,0.003253686,shopping_bags tropical_fruit,,2,pip_fruit,1,0.240601504,3.180531975
+381,380,pip_fruit tropical_fruit whipped-sour_cream,3,0.003762074,pip_fruit whipped-sour_cream,,2,tropical_fruit,1,0.406593407,3.874850924
+382,381,pip_fruit tropical_fruit whipped-sour_cream,3,0.003762074,tropical_fruit whipped-sour_cream,,2,pip_fruit,1,0.272058824,3.596368991
+383,382,pip_fruit tropical_fruit white_bread,3,0.002338587,pip_fruit white_bread,,2,tropical_fruit,1,0.353846154,3.372167561
+384,383,pip_fruit tropical_fruit white_bread,3,0.002338587,tropical_fruit white_bread,,2,pip_fruit,1,0.26744186,3.535336959
+385,384,pip_fruit tropical_fruit yogurt,3,0.006405694,pip_fruit yogurt,,2,tropical_fruit,1,0.355932203,3.392047694
+386,385,pip_fruit white_bread yogurt,3,0.002541942,white_bread yogurt,,2,pip_fruit,1,0.280898876,3.713226411
+387,386,rice root_vegetables whole_milk,3,0.002440264,rice,,1,root_vegetables whole_milk,2,0.32,6.543035343
+388,387,rice root_vegetables whole_milk,3,0.002440264,rice root_vegetables,,2,whole_milk,1,0.774193548,3.029921826
+389,388,rice root_vegetables whole_milk,3,0.002440264,rice whole_milk,,2,root_vegetables,1,0.52173913,4.786664504
+390,389,rolls-buns sausage shopping_bags,3,0.005998983,rolls-buns shopping_bags,,2,sausage,1,0.307291667,3.270793876
+391,390,rolls-buns sausage sliced_cheese,3,0.002948653,rolls-buns sliced_cheese,,2,sausage,1,0.386666667,4.115656566
+392,391,root_vegetables tropical_fruit whipped-sour_cream,3,0.004575496,root_vegetables tropical_fruit,,2,whipped-sour_cream,1,0.217391304,3.032685785
+393,392,root_vegetables tropical_fruit whipped-sour_cream,3,0.004575496,tropical_fruit whipped-sour_cream,,2,root_vegetables,1,0.330882353,3.035660393
+394,393,root_vegetables tropical_fruit yogurt,3,0.008134215,root_vegetables yogurt,,2,tropical_fruit,1,0.31496063,3.001587011
+395,394,root_vegetables whipped-sour_cream yogurt,3,0.006405694,root_vegetables yogurt,,2,whipped-sour_cream,1,0.248031496,3.460127325
+396,395,salty_snack whipped-sour_cream whole_milk,3,0.002745297,salty_snack whole_milk,,2,whipped-sour_cream,1,0.245454545,3.42417795
+397,396,sausage sliced_cheese whole_milk,3,0.003152008,sliced_cheese whole_milk,,2,sausage,1,0.29245283,3.1128502
+398,397,sausage sliced_cheese yogurt,3,0.002440264,sliced_cheese yogurt,,2,sausage,1,0.303797468,3.233601841
+399,398,sliced_cheese tropical_fruit yogurt,3,0.002745297,sliced_cheese tropical_fruit,,2,yogurt,1,0.519230769,3.722036892
+400,399,sliced_cheese tropical_fruit yogurt,3,0.002745297,sliced_cheese yogurt,,2,tropical_fruit,1,0.341772152,3.257101855
+401,400,sliced_cheese whipped-sour_cream whole_milk,3,0.002745297,sliced_cheese whole_milk,,2,whipped-sour_cream,1,0.254716981,3.553392212
+402,401,sliced_cheese whole_milk yogurt,3,0.004575496,sliced_cheese whole_milk,,2,yogurt,1,0.424528302,3.043174817
+403,402,soft_cheese whole_milk yogurt,3,0.003457041,soft_cheese,,1,whole_milk yogurt,2,0.202380952,3.612371446
+404,403,soft_cheese whole_milk yogurt,3,0.003457041,soft_cheese whole_milk,,2,yogurt,1,0.459459459,3.293574186
+405,404,tropical_fruit waffles yogurt,3,0.00264362,tropical_fruit waffles,,2,yogurt,1,0.433333333,3.106292517
+406,405,tropical_fruit waffles yogurt,3,0.00264362,waffles yogurt,,2,tropical_fruit,1,0.351351351,3.348391997
+407,406,tropical_fruit whipped-sour_cream yogurt,3,0.006202339,tropical_fruit whipped-sour_cream,,2,yogurt,1,0.448529412,3.215223589
+408,407,waffles whipped-sour_cream whole_milk,3,0.003152008,waffles whole_milk,,2,whipped-sour_cream,1,0.248,3.459687943
+409,408,beef citrus_fruit root_vegetables whole_milk,4,0.002236909,beef citrus_fruit,,2,root_vegetables whole_milk,2,0.265060241,5.41968289
+410,409,beef citrus_fruit root_vegetables whole_milk,4,0.002236909,beef citrus_fruit whole_milk,,3,root_vegetables,1,0.564102564,5.175325297
+411,410,beef citrus_fruit root_vegetables whole_milk,4,0.002236909,beef root_vegetables whole_milk,,3,citrus_fruit,1,0.278481013,3.364693808
+412,411,beef citrus_fruit root_vegetables whole_milk,4,0.002236909,citrus_fruit root_vegetables whole_milk,,3,beef,1,0.244444444,4.65913006
+413,412,beef domestic_eggs other_vegetables whole_milk,4,0.002541942,beef domestic_eggs,,2,other_vegetables whole_milk,2,0.423728814,5.662191415
+414,413,beef domestic_eggs other_vegetables whole_milk,4,0.002541942,beef domestic_eggs whole_milk,,3,other_vegetables,1,0.675675676,3.491996989
+415,414,beef domestic_eggs other_vegetables whole_milk,4,0.002541942,beef other_vegetables whole_milk,,3,domestic_eggs,1,0.274725275,4.330004931
+416,415,beef domestic_eggs other_vegetables whole_milk,4,0.002541942,domestic_eggs other_vegetables whole_milk,,3,beef,1,0.20661157,3.938032545
+417,416,beef other_vegetables pork whole_milk,4,0.002338587,beef pork,,2,other_vegetables whole_milk,2,0.306666667,4.097916667
+418,417,beef other_vegetables pork whole_milk,4,0.002338587,beef other_vegetables whole_milk,,3,pork,1,0.252747253,4.384072717
+419,418,beef other_vegetables pork whole_milk,4,0.002338587,beef pork whole_milk,,3,other_vegetables,1,0.58974359,3.047886603
+420,419,beef other_vegetables pork whole_milk,4,0.002338587,other_vegetables pork whole_milk,,3,beef,1,0.23,4.383817829
+421,420,beef other_vegetables rolls-buns root_vegetables,4,0.002846975,beef rolls-buns,,2,other_vegetables root_vegetables,2,0.208955224,4.410031388
+422,421,beef other_vegetables rolls-buns root_vegetables,4,0.002846975,beef other_vegetables rolls-buns,,3,root_vegetables,1,0.49122807,4.506742603
+423,422,beef other_vegetables rolls-buns root_vegetables,4,0.002846975,other_vegetables rolls-buns root_vegetables,,3,beef,1,0.233333333,4.447351421
+424,423,beef other_vegetables rolls-buns whole_milk,4,0.003355363,beef rolls-buns,,2,other_vegetables whole_milk,2,0.246268657,3.290831846
+425,424,beef other_vegetables root_vegetables tropical_fruit,4,0.002745297,beef tropical_fruit,,2,other_vegetables root_vegetables,2,0.36,7.597854077
+426,425,beef other_vegetables root_vegetables tropical_fruit,4,0.002745297,beef other_vegetables root_vegetables,,3,tropical_fruit,1,0.346153846,3.298859571
+427,426,beef other_vegetables root_vegetables tropical_fruit,4,0.002745297,beef other_vegetables tropical_fruit,,3,root_vegetables,1,0.613636364,5.629770183
+428,427,beef other_vegetables root_vegetables tropical_fruit,4,0.002745297,beef root_vegetables tropical_fruit,,3,other_vegetables,1,0.72972973,3.771356748
+429,428,beef other_vegetables root_vegetables tropical_fruit,4,0.002745297,other_vegetables root_vegetables tropical_fruit,,3,beef,1,0.223140496,4.253075149
+430,429,beef other_vegetables root_vegetables whole_milk,4,0.00396543,beef other_vegetables,,2,root_vegetables whole_milk,2,0.201030928,4.110476456
+431,430,beef other_vegetables root_vegetables whole_milk,4,0.00396543,beef root_vegetables,,2,other_vegetables whole_milk,2,0.228070175,3.047649695
+432,431,beef other_vegetables root_vegetables whole_milk,4,0.00396543,beef other_vegetables whole_milk,,3,root_vegetables,1,0.428571429,3.931902985
+433,432,beef other_vegetables root_vegetables yogurt,4,0.002338587,beef other_vegetables yogurt,,3,root_vegetables,1,0.450980392,4.137492684
+434,433,beef other_vegetables tropical_fruit whole_milk,4,0.002948653,beef tropical_fruit,,2,other_vegetables whole_milk,2,0.386666667,5.166938406
+435,434,beef other_vegetables tropical_fruit whole_milk,4,0.002948653,beef other_vegetables whole_milk,,3,tropical_fruit,1,0.318681319,3.037045319
+436,435,beef other_vegetables tropical_fruit whole_milk,4,0.002948653,beef tropical_fruit whole_milk,,3,other_vegetables,1,0.644444444,3.330589128
+437,436,beef other_vegetables whole_milk yogurt,4,0.00305033,beef yogurt,,2,other_vegetables whole_milk,2,0.260869565,3.485940454
+438,437,beef rolls-buns root_vegetables whole_milk,4,0.002846975,beef rolls-buns,,2,root_vegetables whole_milk,2,0.208955224,4.272504422
+439,438,beef rolls-buns root_vegetables whole_milk,4,0.002846975,beef rolls-buns whole_milk,,3,root_vegetables,1,0.417910448,3.834094453
+440,439,beef rolls-buns root_vegetables whole_milk,4,0.002846975,rolls-buns root_vegetables whole_milk,,3,beef,1,0.224,4.269457364
+441,440,beef root_vegetables tropical_fruit whole_milk,4,0.002541942,beef tropical_fruit,,2,root_vegetables whole_milk,2,0.333333333,6.815661816
+442,441,beef root_vegetables tropical_fruit whole_milk,4,0.002541942,beef root_vegetables whole_milk,,3,tropical_fruit,1,0.316455696,3.015835051
+443,442,beef root_vegetables tropical_fruit whole_milk,4,0.002541942,beef tropical_fruit whole_milk,,3,root_vegetables,1,0.555555556,5.096911277
+444,443,beef root_vegetables tropical_fruit whole_milk,4,0.002541942,root_vegetables tropical_fruit whole_milk,,3,beef,1,0.211864407,4.038152017
+445,444,beef root_vegetables whole_milk yogurt,4,0.002541942,beef yogurt,,2,root_vegetables whole_milk,2,0.217391304,4.444996836
+446,445,beef root_vegetables whole_milk yogurt,4,0.002541942,beef whole_milk yogurt,,3,root_vegetables,1,0.416666667,3.822683458
+447,446,bottled_beer other_vegetables root_vegetables whole_milk,4,0.002440264,bottled_beer root_vegetables,,2,other_vegetables whole_milk,2,0.252631579,3.375858124
+448,447,bottled_beer other_vegetables root_vegetables whole_milk,4,0.002440264,bottled_beer root_vegetables whole_milk,,3,other_vegetables,1,0.615384615,3.180403412
+449,448,bottled_beer other_vegetables whole_milk yogurt,4,0.00264362,bottled_beer yogurt,,2,other_vegetables whole_milk,2,0.285714286,3.817934783
+450,449,bottled_water butter other_vegetables whole_milk,4,0.00264362,bottled_water butter,,2,other_vegetables whole_milk,2,0.295454545,3.94809165
+451,450,bottled_water butter other_vegetables whole_milk,4,0.00264362,bottled_water other_vegetables whole_milk,,3,butter,1,0.245283019,4.426345854
+452,451,bottled_water butter root_vegetables whole_milk,4,0.002440264,bottled_water butter,,2,root_vegetables whole_milk,2,0.272727273,5.576450576
+453,452,bottled_water butter root_vegetables whole_milk,4,0.002440264,bottled_water butter whole_milk,,3,root_vegetables,1,0.452830189,4.154463531
+454,453,bottled_water butter root_vegetables whole_milk,4,0.002440264,bottled_water root_vegetables whole_milk,,3,butter,1,0.333333333,6.01529052
+455,454,bottled_water citrus_fruit other_vegetables whole_milk,4,0.002948653,bottled_water other_vegetables whole_milk,,3,citrus_fruit,1,0.273584906,3.305537527
+456,455,bottled_water citrus_fruit tropical_fruit whole_milk,4,0.002236909,bottled_water citrus_fruit whole_milk,,3,tropical_fruit,1,0.379310345,3.614842288
+457,456,bottled_water citrus_fruit tropical_fruit whole_milk,4,0.002236909,bottled_water tropical_fruit whole_milk,,3,citrus_fruit,1,0.278481013,3.364693808
+458,457,bottled_water fruit-vegetable_juice whole_milk yogurt,4,0.002440264,bottled_water fruit-vegetable_juice whole_milk,,3,yogurt,1,0.421052632,3.018259936
+459,458,bottled_water fruit-vegetable_juice whole_milk yogurt,4,0.002440264,bottled_water whole_milk yogurt,,3,fruit-vegetable_juice,1,0.252631579,3.494559183
+460,459,bottled_water other_vegetables rolls-buns sausage,4,0.002236909,bottled_water other_vegetables rolls-buns,,3,sausage,1,0.305555556,3.252314815
+461,460,bottled_water other_vegetables root_vegetables tropical_fruit,4,0.00264362,bottled_water other_vegetables root_vegetables,,3,tropical_fruit,1,0.376811594,3.591029098
+462,461,bottled_water other_vegetables root_vegetables tropical_fruit,4,0.00264362,bottled_water other_vegetables tropical_fruit,,3,root_vegetables,1,0.426229508,3.910417176
+463,462,bottled_water other_vegetables root_vegetables whole_milk,4,0.00396543,bottled_water root_vegetables,,2,other_vegetables whole_milk,2,0.253246753,3.384078557
+464,463,bottled_water other_vegetables root_vegetables whole_milk,4,0.00396543,bottled_water other_vegetables whole_milk,,3,root_vegetables,1,0.367924528,3.375501619
+465,464,bottled_water other_vegetables sausage yogurt,4,0.002236909,bottled_water other_vegetables sausage,,3,yogurt,1,0.44,3.154081633
+466,465,bottled_water other_vegetables tropical_fruit whole_milk,4,0.003558719,bottled_water other_vegetables whole_milk,,3,tropical_fruit,1,0.330188679,3.146710911
+467,466,bottled_water other_vegetables tropical_fruit yogurt,4,0.00305033,bottled_water other_vegetables tropical_fruit,,3,yogurt,1,0.491803279,3.525426564
+468,467,bottled_water other_vegetables tropical_fruit yogurt,4,0.00305033,bottled_water other_vegetables yogurt,,3,tropical_fruit,1,0.375,3.573764535
+469,468,bottled_water rolls-buns soda yogurt,4,0.00305033,bottled_water rolls-buns soda,,3,yogurt,1,0.447761194,3.209716723
+470,469,bottled_water rolls-buns soda yogurt,4,0.00305033,rolls-buns soda yogurt,,3,bottled_water,1,0.352941176,3.193354619
+471,470,bottled_water rolls-buns tropical_fruit whole_milk,4,0.002846975,bottled_water rolls-buns whole_milk,,3,tropical_fruit,1,0.325581395,3.102803317
+472,471,bottled_water rolls-buns tropical_fruit yogurt,4,0.002440264,bottled_water rolls-buns tropical_fruit,,3,yogurt,1,0.452830189,3.246053138
+473,472,bottled_water rolls-buns tropical_fruit yogurt,4,0.002440264,bottled_water rolls-buns yogurt,,3,tropical_fruit,1,0.342857143,3.26744186
+474,473,bottled_water root_vegetables tropical_fruit whole_milk,4,0.002541942,bottled_water root_vegetables whole_milk,,3,tropical_fruit,1,0.347222222,3.309041236
+475,474,bottled_water root_vegetables tropical_fruit yogurt,4,0.002236909,bottled_water root_vegetables tropical_fruit,,3,yogurt,1,0.488888889,3.504535147
+476,475,bottled_water root_vegetables tropical_fruit yogurt,4,0.002236909,bottled_water root_vegetables yogurt,,3,tropical_fruit,1,0.578947368,5.517390861
+477,476,bottled_water soda tropical_fruit yogurt,4,0.002440264,bottled_water soda tropical_fruit,,3,yogurt,1,0.470588235,3.37334934
+478,477,bottled_water soda tropical_fruit yogurt,4,0.002440264,bottled_water soda yogurt,,3,tropical_fruit,1,0.328767123,3.133163428
+479,478,bottled_water soda tropical_fruit yogurt,4,0.002440264,soda tropical_fruit yogurt,,3,bottled_water,1,0.369230769,3.340740217
+480,479,bottled_water tropical_fruit whole_milk yogurt,4,0.003660397,bottled_water tropical_fruit whole_milk,,3,yogurt,1,0.455696203,3.266597778
+481,480,bottled_water tropical_fruit whole_milk yogurt,4,0.003660397,bottled_water whole_milk yogurt,,3,tropical_fruit,1,0.378947368,3.611383109
+482,481,brown_bread other_vegetables root_vegetables whole_milk,4,0.003152008,brown_bread root_vegetables,,2,other_vegetables whole_milk,2,0.31,4.142459239
+483,482,brown_bread other_vegetables root_vegetables whole_milk,4,0.003152008,brown_bread other_vegetables root_vegetables,,3,whole_milk,1,0.775,3.033077994
+484,483,brown_bread other_vegetables root_vegetables whole_milk,4,0.003152008,brown_bread other_vegetables whole_milk,,3,root_vegetables,1,0.336956522,3.091387492
+485,484,brown_bread other_vegetables tropical_fruit whole_milk,4,0.00264362,brown_bread tropical_fruit,,2,other_vegetables whole_milk,2,0.247619048,3.308876812
+486,485,butter citrus_fruit other_vegetables whole_milk,4,0.002948653,butter citrus_fruit,,2,other_vegetables whole_milk,2,0.322222222,4.305782005
+487,486,butter citrus_fruit other_vegetables whole_milk,4,0.002948653,butter other_vegetables whole_milk,,3,citrus_fruit,1,0.256637168,3.100769716
+488,487,butter citrus_fruit other_vegetables whole_milk,4,0.002948653,citrus_fruit other_vegetables whole_milk,,3,butter,1,0.2265625,4.088517775
+489,488,butter curd other_vegetables whole_milk,4,0.002236909,butter curd,,2,other_vegetables whole_milk,2,0.328358209,4.387775795
+490,489,butter curd other_vegetables whole_milk,4,0.002236909,curd other_vegetables whole_milk,,3,butter,1,0.226804124,4.092878086
+491,490,butter curd whole_milk yogurt,4,0.002338587,butter curd,,2,whole_milk yogurt,2,0.343283582,6.127393884
+492,491,butter curd whole_milk yogurt,4,0.002338587,butter curd whole_milk,,3,yogurt,1,0.479166667,3.434842687
+493,492,butter curd whole_milk yogurt,4,0.002338587,butter curd yogurt,,3,whole_milk,1,0.793103448,3.103928537
+494,493,butter curd whole_milk yogurt,4,0.002338587,butter whole_milk yogurt,,3,curd,1,0.25,4.692270992
+495,494,butter curd whole_milk yogurt,4,0.002338587,curd whole_milk yogurt,,3,butter,1,0.232323232,4.192475211
+496,495,butter domestic_eggs other_vegetables whole_milk,4,0.00305033,butter domestic_eggs,,2,other_vegetables whole_milk,2,0.315789474,4.219822654
+497,496,butter domestic_eggs other_vegetables whole_milk,4,0.00305033,butter other_vegetables whole_milk,,3,domestic_eggs,1,0.265486726,4.184394146
+498,497,butter domestic_eggs other_vegetables whole_milk,4,0.00305033,domestic_eggs other_vegetables whole_milk,,3,butter,1,0.247933884,4.474183031
+499,498,butter domestic_eggs root_vegetables whole_milk,4,0.002440264,butter domestic_eggs,,2,root_vegetables whole_milk,2,0.252631579,5.165554218
+500,499,butter domestic_eggs root_vegetables whole_milk,4,0.002440264,butter domestic_eggs whole_milk,,3,root_vegetables,1,0.406779661,3.731975715
+501,500,butter domestic_eggs root_vegetables whole_milk,4,0.002440264,butter root_vegetables whole_milk,,3,domestic_eggs,1,0.296296296,4.669990503
+502,501,butter domestic_eggs root_vegetables whole_milk,4,0.002440264,domestic_eggs root_vegetables whole_milk,,3,butter,1,0.285714286,5.155963303
+503,502,butter domestic_eggs whole_milk yogurt,4,0.002236909,butter domestic_eggs,,2,whole_milk yogurt,2,0.231578947,4.13353711
+504,503,butter domestic_eggs whole_milk yogurt,4,0.002236909,butter whole_milk yogurt,,3,domestic_eggs,1,0.239130435,3.768986901
+505,504,butter domestic_eggs whole_milk yogurt,4,0.002236909,domestic_eggs whole_milk yogurt,,3,butter,1,0.289473684,5.223804925
+506,505,butter other_vegetables pastry whole_milk,4,0.002236909,butter pastry,,2,other_vegetables whole_milk,2,0.293333333,3.919746377
+507,506,butter other_vegetables pastry whole_milk,4,0.002236909,other_vegetables pastry whole_milk,,3,butter,1,0.211538462,3.817395907
+508,507,butter other_vegetables pip_fruit whole_milk,4,0.002745297,butter pip_fruit,,2,other_vegetables whole_milk,2,0.375,5.011039402
+509,508,butter other_vegetables pip_fruit whole_milk,4,0.002745297,butter other_vegetables whole_milk,,3,pip_fruit,1,0.238938053,3.158542678
+510,509,butter other_vegetables pip_fruit whole_milk,4,0.002745297,butter pip_fruit whole_milk,,3,other_vegetables,1,0.613636364,3.171368175
+511,510,butter other_vegetables pip_fruit whole_milk,4,0.002745297,other_vegetables pip_fruit whole_milk,,3,butter,1,0.203007519,3.66344761
+512,511,butter other_vegetables pork whole_milk,4,0.002236909,butter pork,,2,other_vegetables whole_milk,2,0.407407407,5.44409219
+513,512,butter other_vegetables pork whole_milk,4,0.002236909,butter other_vegetables pork,,3,whole_milk,1,0.846153846,3.311549175
+514,513,butter other_vegetables pork whole_milk,4,0.002236909,other_vegetables pork whole_milk,,3,butter,1,0.22,3.970091743
+515,514,butter other_vegetables rolls-buns root_vegetables,4,0.002440264,butter other_vegetables rolls-buns,,3,root_vegetables,1,0.428571429,3.931902985
+516,515,butter other_vegetables rolls-buns root_vegetables,4,0.002440264,butter rolls-buns root_vegetables,,3,other_vegetables,1,0.631578947,3.264098238
+517,516,butter other_vegetables rolls-buns root_vegetables,4,0.002440264,other_vegetables rolls-buns root_vegetables,,3,butter,1,0.2,3.609174312
+518,517,butter other_vegetables root_vegetables tropical_fruit,4,0.002338587,butter tropical_fruit,,2,other_vegetables root_vegetables,2,0.234693878,4.95324954
+519,518,butter other_vegetables root_vegetables tropical_fruit,4,0.002338587,butter other_vegetables root_vegetables,,3,tropical_fruit,1,0.353846154,3.372167561
+520,519,butter other_vegetables root_vegetables tropical_fruit,4,0.002338587,butter other_vegetables tropical_fruit,,3,root_vegetables,1,0.425925926,3.907631979
+521,520,butter other_vegetables root_vegetables tropical_fruit,4,0.002338587,butter root_vegetables tropical_fruit,,3,other_vegetables,1,0.657142857,3.3962165
+522,521,butter other_vegetables root_vegetables whole_milk,4,0.004168785,butter other_vegetables,,2,root_vegetables whole_milk,2,0.208121827,4.255463976
+523,522,butter other_vegetables root_vegetables whole_milk,4,0.004168785,butter root_vegetables,,2,other_vegetables whole_milk,2,0.322834646,4.31396568
+524,523,butter other_vegetables root_vegetables whole_milk,4,0.004168785,butter other_vegetables whole_milk,,3,root_vegetables,1,0.362831858,3.328779223
+525,524,butter other_vegetables sausage whole_milk,4,0.002338587,butter sausage,,2,other_vegetables whole_milk,2,0.270588235,3.615808824
+526,525,butter other_vegetables sausage whole_milk,4,0.002338587,other_vegetables sausage whole_milk,,3,butter,1,0.23,4.150550459
+527,526,butter other_vegetables tropical_fruit whipped-sour_cream,4,0.002338587,butter tropical_fruit,,2,other_vegetables whipped-sour_cream,2,0.234693878,8.127515091
+528,527,butter other_vegetables tropical_fruit whipped-sour_cream,4,0.002338587,butter whipped-sour_cream,,2,other_vegetables tropical_fruit,2,0.23,6.408073654
+529,528,butter other_vegetables tropical_fruit whipped-sour_cream,4,0.002338587,butter other_vegetables tropical_fruit,,3,whipped-sour_cream,1,0.425925926,5.941817704
+530,529,butter other_vegetables tropical_fruit whipped-sour_cream,4,0.002338587,butter other_vegetables whipped-sour_cream,,3,tropical_fruit,1,0.403508772,3.845454236
+531,530,butter other_vegetables tropical_fruit whipped-sour_cream,4,0.002338587,butter tropical_fruit whipped-sour_cream,,3,other_vegetables,1,0.766666667,3.962252584
+532,531,butter other_vegetables tropical_fruit whipped-sour_cream,4,0.002338587,other_vegetables tropical_fruit whipped-sour_cream,,3,butter,1,0.298701299,5.390325271
+533,532,butter other_vegetables tropical_fruit whole_milk,4,0.003355363,butter tropical_fruit,,2,other_vegetables whole_milk,2,0.336734694,4.499708851
+534,533,butter other_vegetables tropical_fruit yogurt,4,0.00305033,butter tropical_fruit,,2,other_vegetables yogurt,2,0.306122449,7.050853128
+535,534,butter other_vegetables tropical_fruit yogurt,4,0.00305033,butter yogurt,,2,other_vegetables tropical_fruit,2,0.208333333,5.804414542
+536,535,butter other_vegetables tropical_fruit yogurt,4,0.00305033,butter other_vegetables tropical_fruit,,3,yogurt,1,0.555555556,3.982426304
+537,536,butter other_vegetables tropical_fruit yogurt,4,0.00305033,butter other_vegetables yogurt,,3,tropical_fruit,1,0.476190476,4.538113695
+538,537,butter other_vegetables tropical_fruit yogurt,4,0.00305033,butter tropical_fruit yogurt,,3,other_vegetables,1,0.666666667,3.445437029
+539,538,butter other_vegetables tropical_fruit yogurt,4,0.00305033,other_vegetables tropical_fruit yogurt,,3,butter,1,0.247933884,4.474183031
+540,539,butter other_vegetables whipped-sour_cream whole_milk,4,0.00396543,butter whipped-sour_cream,,2,other_vegetables whole_milk,2,0.39,5.211480978
+541,540,butter other_vegetables whipped-sour_cream whole_milk,4,0.00396543,butter other_vegetables whole_milk,,3,whipped-sour_cream,1,0.345132743,4.814724157
+542,541,butter other_vegetables whipped-sour_cream whole_milk,4,0.00396543,butter whipped-sour_cream whole_milk,,3,other_vegetables,1,0.590909091,3.053910094
+543,542,butter other_vegetables whipped-sour_cream whole_milk,4,0.00396543,other_vegetables whipped-sour_cream whole_milk,,3,butter,1,0.270833333,4.887423547
+544,543,butter other_vegetables whole_milk yogurt,4,0.00437214,butter other_vegetables,,2,whole_milk yogurt,2,0.218274112,3.896054244
+545,544,butter other_vegetables whole_milk yogurt,4,0.00437214,butter yogurt,,2,other_vegetables whole_milk,2,0.298611111,3.990272117
+546,545,butter rolls-buns root_vegetables whole_milk,4,0.002338587,butter rolls-buns whole_milk,,3,root_vegetables,1,0.353846154,3.246340413
+547,546,butter root_vegetables tropical_fruit whole_milk,4,0.002440264,butter tropical_fruit,,2,root_vegetables whole_milk,2,0.244897959,5.007425007
+548,547,butter root_vegetables tropical_fruit whole_milk,4,0.002440264,butter tropical_fruit whole_milk,,3,root_vegetables,1,0.393442623,3.609615855
+549,548,butter root_vegetables tropical_fruit whole_milk,4,0.002440264,root_vegetables tropical_fruit whole_milk,,3,butter,1,0.203389831,3.670346758
+550,549,butter root_vegetables whipped-sour_cream whole_milk,4,0.00264362,butter root_vegetables,,2,whipped-sour_cream whole_milk,2,0.204724409,6.35162324
+551,550,butter root_vegetables whipped-sour_cream whole_milk,4,0.00264362,butter whipped-sour_cream,,2,root_vegetables whole_milk,2,0.26,5.316216216
+552,551,butter root_vegetables whipped-sour_cream whole_milk,4,0.00264362,butter root_vegetables whole_milk,,3,whipped-sour_cream,1,0.320987654,4.477891603
+553,552,butter root_vegetables whipped-sour_cream whole_milk,4,0.00264362,butter whipped-sour_cream whole_milk,,3,root_vegetables,1,0.393939394,3.614173451
+554,553,butter root_vegetables whipped-sour_cream whole_milk,4,0.00264362,root_vegetables whipped-sour_cream whole_milk,,3,butter,1,0.279569892,5.045082372
+555,554,butter root_vegetables whole_milk yogurt,4,0.00305033,butter root_vegetables,,2,whole_milk yogurt,2,0.236220472,4.216385384
+556,555,butter root_vegetables whole_milk yogurt,4,0.00305033,butter yogurt,,2,root_vegetables whole_milk,2,0.208333333,4.259788635
+557,556,butter root_vegetables whole_milk yogurt,4,0.00305033,butter root_vegetables yogurt,,3,whole_milk,1,0.789473684,3.089722915
+558,557,butter root_vegetables whole_milk yogurt,4,0.00305033,root_vegetables whole_milk yogurt,,3,butter,1,0.20979021,3.78584718
+559,558,butter tropical_fruit whole_milk yogurt,4,0.003355363,butter tropical_fruit,,2,whole_milk yogurt,2,0.336734694,6.010500389
+560,559,butter tropical_fruit whole_milk yogurt,4,0.003355363,butter yogurt,,2,tropical_fruit whole_milk,2,0.229166667,5.41791867
+561,560,butter tropical_fruit whole_milk yogurt,4,0.003355363,butter tropical_fruit whole_milk,,3,yogurt,1,0.540983607,3.87796922
+562,561,butter tropical_fruit whole_milk yogurt,4,0.003355363,butter whole_milk yogurt,,3,tropical_fruit,1,0.358695652,3.418383468
+563,562,butter tropical_fruit whole_milk yogurt,4,0.003355363,tropical_fruit whole_milk yogurt,,3,butter,1,0.22147651,3.996736654
+564,563,butter whipped-sour_cream whole_milk yogurt,4,0.00264362,butter whipped-sour_cream,,2,whole_milk yogurt,2,0.26,4.640834846
+565,564,butter whipped-sour_cream whole_milk yogurt,4,0.00264362,butter whole_milk yogurt,,3,whipped-sour_cream,1,0.282608696,3.94249152
+566,565,butter whipped-sour_cream whole_milk yogurt,4,0.00264362,whipped-sour_cream whole_milk yogurt,,3,butter,1,0.242990654,4.384978136
+567,566,butter_milk other_vegetables whole_milk yogurt,4,0.002236909,butter_milk other_vegetables,,2,whole_milk yogurt,2,0.215686275,3.849862994
+568,567,butter_milk other_vegetables whole_milk yogurt,4,0.002236909,butter_milk yogurt,,2,other_vegetables whole_milk,2,0.261904762,3.499773551
+569,568,butter_milk other_vegetables whole_milk yogurt,4,0.002236909,butter_milk other_vegetables whole_milk,,3,yogurt,1,0.47826087,3.428349601
+570,569,chicken domestic_eggs other_vegetables whole_milk,4,0.002440264,chicken domestic_eggs,,2,other_vegetables whole_milk,2,0.393442623,5.257483963
+571,570,chicken domestic_eggs other_vegetables whole_milk,4,0.002440264,chicken domestic_eggs whole_milk,,3,other_vegetables,1,0.615384615,3.180403412
+572,571,chicken domestic_eggs other_vegetables whole_milk,4,0.002440264,chicken other_vegetables whole_milk,,3,domestic_eggs,1,0.289156627,4.557460612
+573,572,chicken other_vegetables rolls-buns whole_milk,4,0.002846975,chicken rolls-buns,,2,other_vegetables whole_milk,2,0.294736842,3.938501144
+574,573,chicken other_vegetables root_vegetables whole_milk,4,0.002948653,chicken root_vegetables,,2,other_vegetables whole_milk,2,0.271028037,3.621685798
+575,574,chicken other_vegetables root_vegetables whole_milk,4,0.002948653,chicken other_vegetables whole_milk,,3,root_vegetables,1,0.34939759,3.205527333
+576,575,chicken other_vegetables whipped-sour_cream whole_milk,4,0.002338587,chicken whipped-sour_cream,,2,other_vegetables whole_milk,2,0.323943662,4.328785211
+577,576,chicken other_vegetables whipped-sour_cream whole_milk,4,0.002338587,chicken other_vegetables whole_milk,,3,whipped-sour_cream,1,0.277108434,3.865760916
+578,577,chicken other_vegetables whole_milk yogurt,4,0.002541942,chicken yogurt,,2,other_vegetables whole_milk,2,0.304878049,4.074015774
+579,578,chicken other_vegetables whole_milk yogurt,4,0.002541942,chicken whole_milk yogurt,,3,other_vegetables,1,0.641025641,3.31292022
+580,579,citrus_fruit domestic_eggs other_vegetables whole_milk,4,0.002846975,citrus_fruit domestic_eggs,,2,other_vegetables whole_milk,2,0.274509804,3.66821185
+581,580,citrus_fruit domestic_eggs other_vegetables whole_milk,4,0.002846975,citrus_fruit other_vegetables whole_milk,,3,domestic_eggs,1,0.21875,3.447766426
+582,581,citrus_fruit fruit-vegetable_juice other_vegetables root_vegetables,4,0.002338587,citrus_fruit fruit-vegetable_juice,,2,other_vegetables root_vegetables,2,0.225490196,4.75900446
+583,582,citrus_fruit fruit-vegetable_juice other_vegetables root_vegetables,4,0.002338587,citrus_fruit fruit-vegetable_juice other_vegetables,,3,root_vegetables,1,0.489361702,4.489619721
+584,583,citrus_fruit fruit-vegetable_juice other_vegetables root_vegetables,4,0.002338587,citrus_fruit fruit-vegetable_juice root_vegetables,,3,other_vegetables,1,0.676470588,3.496105221
+585,584,citrus_fruit fruit-vegetable_juice other_vegetables root_vegetables,4,0.002338587,citrus_fruit other_vegetables root_vegetables,,3,fruit-vegetable_juice,1,0.225490196,3.119122473
+586,585,citrus_fruit fruit-vegetable_juice other_vegetables root_vegetables,4,0.002338587,fruit-vegetable_juice other_vegetables root_vegetables,,3,citrus_fruit,1,0.353846154,4.275278775
+587,586,citrus_fruit fruit-vegetable_juice other_vegetables tropical_fruit,4,0.002338587,citrus_fruit fruit-vegetable_juice,,2,other_vegetables tropical_fruit,2,0.225490196,6.282425151
+588,587,citrus_fruit fruit-vegetable_juice other_vegetables tropical_fruit,4,0.002338587,citrus_fruit fruit-vegetable_juice other_vegetables,,3,tropical_fruit,1,0.489361702,4.663635989
+589,588,citrus_fruit fruit-vegetable_juice other_vegetables tropical_fruit,4,0.002338587,citrus_fruit fruit-vegetable_juice tropical_fruit,,3,other_vegetables,1,0.58974359,3.047886603
+590,589,citrus_fruit fruit-vegetable_juice other_vegetables tropical_fruit,4,0.002338587,citrus_fruit other_vegetables tropical_fruit,,3,fruit-vegetable_juice,1,0.258426966,3.574724632
+591,590,citrus_fruit fruit-vegetable_juice other_vegetables tropical_fruit,4,0.002338587,fruit-vegetable_juice other_vegetables tropical_fruit,,3,citrus_fruit,1,0.353846154,4.275278775
+592,591,citrus_fruit fruit-vegetable_juice other_vegetables whole_milk,4,0.002541942,citrus_fruit fruit-vegetable_juice,,2,other_vegetables whole_milk,2,0.245098039,3.275189152
+593,592,citrus_fruit fruit-vegetable_juice other_vegetables whole_milk,4,0.002541942,citrus_fruit fruit-vegetable_juice whole_milk,,3,other_vegetables,1,0.595238095,3.076283062
+594,593,citrus_fruit other_vegetables pip_fruit root_vegetables,4,0.00264362,citrus_fruit other_vegetables pip_fruit,,3,root_vegetables,1,0.448275862,4.112680134
+595,594,citrus_fruit other_vegetables pip_fruit root_vegetables,4,0.00264362,citrus_fruit other_vegetables root_vegetables,,3,pip_fruit,1,0.254901961,3.369570947
+596,595,citrus_fruit other_vegetables pip_fruit root_vegetables,4,0.00264362,citrus_fruit pip_fruit root_vegetables,,3,other_vegetables,1,0.684210526,3.536106425
+597,596,citrus_fruit other_vegetables pip_fruit root_vegetables,4,0.00264362,other_vegetables pip_fruit root_vegetables,,3,citrus_fruit,1,0.325,3.926750614
+598,597,citrus_fruit other_vegetables pip_fruit tropical_fruit,4,0.002846975,citrus_fruit pip_fruit,,2,other_vegetables tropical_fruit,2,0.205882353,5.736127312
+599,598,citrus_fruit other_vegetables pip_fruit tropical_fruit,4,0.002846975,citrus_fruit other_vegetables pip_fruit,,3,tropical_fruit,1,0.482758621,4.600708367
+600,599,citrus_fruit other_vegetables pip_fruit tropical_fruit,4,0.002846975,citrus_fruit other_vegetables tropical_fruit,,3,pip_fruit,1,0.314606742,4.15881358
+601,600,citrus_fruit other_vegetables pip_fruit tropical_fruit,4,0.002846975,other_vegetables pip_fruit tropical_fruit,,3,citrus_fruit,1,0.301075269,3.637684605
+602,601,citrus_fruit other_vegetables rolls-buns root_vegetables,4,0.002236909,citrus_fruit other_vegetables rolls-buns,,3,root_vegetables,1,0.372881356,3.420977738
+603,602,citrus_fruit other_vegetables rolls-buns root_vegetables,4,0.002236909,citrus_fruit rolls-buns root_vegetables,,3,other_vegetables,1,0.647058824,3.344100646
+604,603,citrus_fruit other_vegetables root_vegetables tropical_fruit,4,0.004473818,citrus_fruit root_vegetables,,2,other_vegetables tropical_fruit,2,0.252873563,7.045358341
+605,604,citrus_fruit other_vegetables root_vegetables tropical_fruit,4,0.004473818,citrus_fruit tropical_fruit,,2,other_vegetables root_vegetables,2,0.224489796,4.737890865
+606,605,citrus_fruit other_vegetables root_vegetables tropical_fruit,4,0.004473818,root_vegetables tropical_fruit,,2,citrus_fruit other_vegetables,2,0.212560386,7.36102606
+607,606,citrus_fruit other_vegetables root_vegetables tropical_fruit,4,0.004473818,citrus_fruit other_vegetables root_vegetables,,3,tropical_fruit,1,0.431372549,4.110997112
+608,607,citrus_fruit other_vegetables root_vegetables tropical_fruit,4,0.004473818,citrus_fruit other_vegetables tropical_fruit,,3,root_vegetables,1,0.494382022,4.53567835
+609,608,citrus_fruit other_vegetables root_vegetables tropical_fruit,4,0.004473818,citrus_fruit root_vegetables tropical_fruit,,3,other_vegetables,1,0.785714286,4.060693642
+610,609,citrus_fruit other_vegetables root_vegetables tropical_fruit,4,0.004473818,other_vegetables root_vegetables tropical_fruit,,3,citrus_fruit,1,0.363636364,4.393567121
+611,610,citrus_fruit other_vegetables root_vegetables whipped-sour_cream,4,0.002338587,citrus_fruit whipped-sour_cream,,2,other_vegetables root_vegetables,2,0.214953271,4.536621074
+612,611,citrus_fruit other_vegetables root_vegetables whipped-sour_cream,4,0.002338587,citrus_fruit other_vegetables root_vegetables,,3,whipped-sour_cream,1,0.225490196,3.145668196
+613,612,citrus_fruit other_vegetables root_vegetables whipped-sour_cream,4,0.002338587,citrus_fruit other_vegetables whipped-sour_cream,,3,root_vegetables,1,0.410714286,3.768073694
+614,613,citrus_fruit other_vegetables root_vegetables whipped-sour_cream,4,0.002338587,citrus_fruit root_vegetables whipped-sour_cream,,3,other_vegetables,1,0.696969697,3.602047803
+615,614,citrus_fruit other_vegetables root_vegetables whipped-sour_cream,4,0.002338587,other_vegetables root_vegetables whipped-sour_cream,,3,citrus_fruit,1,0.273809524,3.308251433
+616,615,citrus_fruit other_vegetables root_vegetables whole_milk,4,0.005795628,citrus_fruit other_vegetables,,2,root_vegetables whole_milk,2,0.200704225,4.103796375
+617,616,citrus_fruit other_vegetables root_vegetables whole_milk,4,0.005795628,citrus_fruit root_vegetables,,2,other_vegetables whole_milk,2,0.327586207,4.377459708
+618,617,citrus_fruit other_vegetables root_vegetables whole_milk,4,0.005795628,citrus_fruit other_vegetables whole_milk,,3,root_vegetables,1,0.4453125,4.085492945
+619,618,citrus_fruit other_vegetables root_vegetables whole_milk,4,0.005795628,citrus_fruit root_vegetables whole_milk,,3,other_vegetables,1,0.633333333,3.273165178
+620,619,citrus_fruit other_vegetables root_vegetables whole_milk,4,0.005795628,other_vegetables root_vegetables whole_milk,,3,citrus_fruit,1,0.25,3.020577396
+621,620,citrus_fruit other_vegetables root_vegetables yogurt,4,0.002846975,citrus_fruit other_vegetables yogurt,,3,root_vegetables,1,0.373333333,3.425124378
+622,621,citrus_fruit other_vegetables root_vegetables yogurt,4,0.002846975,citrus_fruit root_vegetables yogurt,,3,other_vegetables,1,0.583333333,3.014757401
+623,622,citrus_fruit other_vegetables tropical_fruit whole_milk,4,0.004982206,citrus_fruit tropical_fruit,,2,other_vegetables whole_milk,2,0.25,3.340692935
+624,623,citrus_fruit other_vegetables tropical_fruit whole_milk,4,0.004982206,citrus_fruit other_vegetables whole_milk,,3,tropical_fruit,1,0.3828125,3.648217963
+625,624,citrus_fruit other_vegetables tropical_fruit whole_milk,4,0.004982206,other_vegetables tropical_fruit whole_milk,,3,citrus_fruit,1,0.291666667,3.524006962
+626,625,citrus_fruit other_vegetables tropical_fruit yogurt,4,0.003152008,citrus_fruit other_vegetables yogurt,,3,tropical_fruit,1,0.413333333,3.939082687
+627,626,citrus_fruit other_vegetables tropical_fruit yogurt,4,0.003152008,other_vegetables tropical_fruit yogurt,,3,citrus_fruit,1,0.256198347,3.095467744
+628,627,citrus_fruit other_vegetables whipped-sour_cream whole_milk,4,0.003660397,citrus_fruit whipped-sour_cream,,2,other_vegetables whole_milk,2,0.336448598,4.495885819
+629,628,citrus_fruit other_vegetables whipped-sour_cream whole_milk,4,0.003660397,citrus_fruit other_vegetables whole_milk,,3,whipped-sour_cream,1,0.28125,3.923537234
+630,629,citrus_fruit other_vegetables whipped-sour_cream whole_milk,4,0.003660397,citrus_fruit whipped-sour_cream whole_milk,,3,other_vegetables,1,0.580645161,3.000864509
+631,630,citrus_fruit other_vegetables whipped-sour_cream whole_milk,4,0.003660397,other_vegetables whipped-sour_cream whole_milk,,3,citrus_fruit,1,0.25,3.020577396
+632,631,citrus_fruit other_vegetables whipped-sour_cream yogurt,4,0.002338587,citrus_fruit whipped-sour_cream,,2,other_vegetables yogurt,2,0.214953271,4.950972882
+633,632,citrus_fruit other_vegetables whipped-sour_cream yogurt,4,0.002338587,citrus_fruit other_vegetables yogurt,,3,whipped-sour_cream,1,0.306666667,4.278108747
+634,633,citrus_fruit pip_fruit root_vegetables whole_milk,4,0.002338587,citrus_fruit pip_fruit whole_milk,,3,root_vegetables,1,0.450980392,4.137492684
+635,634,citrus_fruit pip_fruit root_vegetables whole_milk,4,0.002338587,citrus_fruit root_vegetables whole_milk,,3,pip_fruit,1,0.255555556,3.378210872
+636,635,citrus_fruit pip_fruit root_vegetables whole_milk,4,0.002338587,pip_fruit root_vegetables whole_milk,,3,citrus_fruit,1,0.261363636,3.157876368
+637,636,citrus_fruit root_vegetables tropical_fruit whole_milk,4,0.003558719,citrus_fruit root_vegetables,,2,tropical_fruit whole_milk,2,0.201149425,4.755539898
+638,637,citrus_fruit root_vegetables tropical_fruit whole_milk,4,0.003558719,citrus_fruit root_vegetables whole_milk,,3,tropical_fruit,1,0.388888889,3.706126184
+639,638,citrus_fruit root_vegetables tropical_fruit whole_milk,4,0.003558719,citrus_fruit tropical_fruit whole_milk,,3,root_vegetables,1,0.393258427,3.60792596
+640,639,citrus_fruit root_vegetables tropical_fruit whole_milk,4,0.003558719,root_vegetables tropical_fruit whole_milk,,3,citrus_fruit,1,0.296610169,3.583735893
+641,640,citrus_fruit tropical_fruit whipped-sour_cream whole_milk,4,0.002338587,citrus_fruit whipped-sour_cream,,2,tropical_fruit whole_milk,2,0.214953271,5.08188803
+642,641,citrus_fruit tropical_fruit whipped-sour_cream whole_milk,4,0.002338587,citrus_fruit tropical_fruit whole_milk,,3,whipped-sour_cream,1,0.258426966,3.605147821
+643,642,citrus_fruit tropical_fruit whipped-sour_cream whole_milk,4,0.002338587,citrus_fruit whipped-sour_cream whole_milk,,3,tropical_fruit,1,0.370967742,3.535336959
+644,643,citrus_fruit tropical_fruit whipped-sour_cream whole_milk,4,0.002338587,tropical_fruit whipped-sour_cream whole_milk,,3,citrus_fruit,1,0.294871795,3.562732313
+645,644,citrus_fruit tropical_fruit whole_milk yogurt,4,0.003863752,citrus_fruit tropical_fruit whole_milk,,3,yogurt,1,0.426966292,3.060651227
+646,645,citrus_fruit tropical_fruit whole_milk yogurt,4,0.003863752,citrus_fruit whole_milk yogurt,,3,tropical_fruit,1,0.376237624,3.585559137
+647,646,citrus_fruit tropical_fruit whole_milk yogurt,4,0.003863752,tropical_fruit whole_milk yogurt,,3,citrus_fruit,1,0.255033557,3.08139439
+648,647,citrus_fruit whipped-sour_cream whole_milk yogurt,4,0.002745297,citrus_fruit whipped-sour_cream,,2,whole_milk yogurt,2,0.252336449,4.504045321
+649,648,citrus_fruit whipped-sour_cream whole_milk yogurt,4,0.002745297,citrus_fruit whipped-sour_cream whole_milk,,3,yogurt,1,0.435483871,3.121708361
+650,649,citrus_fruit whipped-sour_cream whole_milk yogurt,4,0.002745297,citrus_fruit whole_milk yogurt,,3,whipped-sour_cream,1,0.267326733,3.729302718
+651,650,citrus_fruit whipped-sour_cream whole_milk yogurt,4,0.002745297,whipped-sour_cream whole_milk yogurt,,3,citrus_fruit,1,0.252336449,3.048807091
+652,651,coffee other_vegetables whole_milk yogurt,4,0.002236909,coffee yogurt,,2,other_vegetables whole_milk,2,0.229166667,3.062301857
+653,652,cream_cheese other_vegetables root_vegetables whole_milk,4,0.002440264,cream_cheese root_vegetables,,2,other_vegetables whole_milk,2,0.324324324,4.333871915
+654,653,cream_cheese other_vegetables root_vegetables whole_milk,4,0.002440264,cream_cheese other_vegetables whole_milk,,3,root_vegetables,1,0.363636364,3.336160109
+655,654,cream_cheese other_vegetables root_vegetables whole_milk,4,0.002440264,cream_cheese root_vegetables whole_milk,,3,other_vegetables,1,0.615384615,3.180403412
+656,655,cream_cheese other_vegetables whipped-sour_cream whole_milk,4,0.002338587,cream_cheese whipped-sour_cream,,2,other_vegetables whole_milk,2,0.365079365,4.878472222
+657,656,cream_cheese other_vegetables whipped-sour_cream whole_milk,4,0.002338587,cream_cheese other_vegetables whole_milk,,3,whipped-sour_cream,1,0.348484848,4.861487213
+658,657,cream_cheese other_vegetables whipped-sour_cream whole_milk,4,0.002338587,cream_cheese whipped-sour_cream whole_milk,,3,other_vegetables,1,0.58974359,3.047886603
+659,658,cream_cheese other_vegetables whole_milk yogurt,4,0.003457041,cream_cheese other_vegetables,,2,whole_milk yogurt,2,0.251851852,4.495395577
+660,659,cream_cheese other_vegetables whole_milk yogurt,4,0.003457041,cream_cheese whole_milk,,2,other_vegetables yogurt,2,0.209876543,4.834041692
+661,660,cream_cheese other_vegetables whole_milk yogurt,4,0.003457041,cream_cheese yogurt,,2,other_vegetables whole_milk,2,0.278688525,3.72405114
+662,661,cream_cheese other_vegetables whole_milk yogurt,4,0.003457041,cream_cheese other_vegetables whole_milk,,3,yogurt,1,0.515151515,3.6927953
+663,662,cream_cheese root_vegetables whole_milk yogurt,4,0.002338587,cream_cheese root_vegetables,,2,whole_milk yogurt,2,0.310810811,5.547775543
+664,663,cream_cheese root_vegetables whole_milk yogurt,4,0.002338587,cream_cheese root_vegetables whole_milk,,3,yogurt,1,0.58974359,4.227498692
+665,664,cream_cheese root_vegetables whole_milk yogurt,4,0.002338587,cream_cheese whole_milk yogurt,,3,root_vegetables,1,0.353846154,3.246340413
+666,665,cream_cheese whipped-sour_cream whole_milk yogurt,4,0.002338587,cream_cheese whipped-sour_cream,,2,whole_milk yogurt,2,0.365079365,6.516434765
+667,666,cream_cheese whipped-sour_cream whole_milk yogurt,4,0.002338587,cream_cheese whipped-sour_cream whole_milk,,3,yogurt,1,0.58974359,4.227498692
+668,667,cream_cheese whipped-sour_cream whole_milk yogurt,4,0.002338587,cream_cheese whole_milk yogurt,,3,whipped-sour_cream,1,0.353846154,4.936279324
+669,668,cream_cheese whipped-sour_cream whole_milk yogurt,4,0.002338587,whipped-sour_cream whole_milk yogurt,,3,cream_cheese,1,0.214953271,5.420680566
+670,669,curd domestic_eggs other_vegetables whole_milk,4,0.002846975,curd domestic_eggs,,2,other_vegetables whole_milk,2,0.4375,5.846212636
+671,670,curd domestic_eggs other_vegetables whole_milk,4,0.002846975,curd domestic_eggs other_vegetables,,3,whole_milk,1,0.823529412,3.223005079
+672,671,curd domestic_eggs other_vegetables whole_milk,4,0.002846975,curd domestic_eggs whole_milk,,3,other_vegetables,1,0.595744681,3.078901175
+673,672,curd domestic_eggs other_vegetables whole_milk,4,0.002846975,curd other_vegetables whole_milk,,3,domestic_eggs,1,0.288659794,4.549629923
+674,673,curd domestic_eggs other_vegetables whole_milk,4,0.002846975,domestic_eggs other_vegetables whole_milk,,3,curd,1,0.231404959,4.3432591
+675,674,curd other_vegetables pip_fruit whole_milk,4,0.002236909,curd pip_fruit,,2,other_vegetables whole_milk,2,0.285714286,3.817934783
+676,675,curd other_vegetables rolls-buns whole_milk,4,0.002440264,curd rolls-buns,,2,other_vegetables whole_milk,2,0.242424242,3.239459816
+677,676,curd other_vegetables root_vegetables whole_milk,4,0.003152008,curd root_vegetables,,2,other_vegetables whole_milk,2,0.289719626,3.871457233
+678,677,curd other_vegetables root_vegetables yogurt,4,0.002440264,curd root_vegetables,,2,other_vegetables yogurt,2,0.224299065,5.166232572
+679,678,curd other_vegetables root_vegetables yogurt,4,0.002440264,curd other_vegetables root_vegetables,,3,yogurt,1,0.444444444,3.185941043
+680,679,curd other_vegetables root_vegetables yogurt,4,0.002440264,curd other_vegetables yogurt,,3,root_vegetables,1,0.4,3.669776119
+681,680,curd other_vegetables tropical_fruit whole_milk,4,0.003152008,curd tropical_fruit,,2,other_vegetables whole_milk,2,0.306930693,4.101444791
+682,681,curd other_vegetables tropical_fruit whole_milk,4,0.003152008,curd other_vegetables whole_milk,,3,tropical_fruit,1,0.319587629,3.04568249
+683,682,curd other_vegetables tropical_fruit yogurt,4,0.002541942,curd tropical_fruit,,2,other_vegetables yogurt,2,0.247524752,5.701184873
+684,683,curd other_vegetables tropical_fruit yogurt,4,0.002541942,curd other_vegetables tropical_fruit,,3,yogurt,1,0.480769231,3.446330455
+685,684,curd other_vegetables tropical_fruit yogurt,4,0.002541942,curd other_vegetables yogurt,,3,tropical_fruit,1,0.416666667,3.970849483
+686,685,curd other_vegetables tropical_fruit yogurt,4,0.002541942,other_vegetables tropical_fruit yogurt,,3,curd,1,0.20661157,3.877909911
+687,686,curd other_vegetables whipped-sour_cream whole_milk,4,0.002541942,curd whipped-sour_cream,,2,other_vegetables whole_milk,2,0.242718447,3.243391199
+688,687,curd other_vegetables whipped-sour_cream whole_milk,4,0.002541942,curd other_vegetables whole_milk,,3,whipped-sour_cream,1,0.257731959,3.595452219
+689,688,curd other_vegetables whole_milk yogurt,4,0.003660397,curd other_vegetables,,2,whole_milk yogurt,2,0.213017751,3.802231553
+690,689,curd pastry whole_milk yogurt,4,0.002338587,curd pastry,,2,whole_milk yogurt,2,0.310810811,5.547775543
+691,690,curd pastry whole_milk yogurt,4,0.002338587,curd pastry whole_milk,,3,yogurt,1,0.522727273,3.747101113
+692,691,curd pastry whole_milk yogurt,4,0.002338587,pastry whole_milk yogurt,,3,curd,1,0.255555556,4.796543681
+693,692,curd pip_fruit whole_milk yogurt,4,0.002541942,curd pip_fruit,,2,whole_milk yogurt,2,0.324675325,5.795248309
+694,693,curd pip_fruit whole_milk yogurt,4,0.002541942,curd pip_fruit whole_milk,,3,yogurt,1,0.520833333,3.73352466
+695,694,curd pip_fruit whole_milk yogurt,4,0.002541942,curd whole_milk yogurt,,3,pip_fruit,1,0.252525253,3.338153036
+696,695,curd pip_fruit whole_milk yogurt,4,0.002541942,pip_fruit whole_milk yogurt,,3,curd,1,0.265957447,4.991777651
+697,696,curd rolls-buns whole_milk yogurt,4,0.002541942,curd rolls-buns,,2,whole_milk yogurt,2,0.252525253,4.507415351
+698,697,curd rolls-buns whole_milk yogurt,4,0.002541942,curd rolls-buns whole_milk,,3,yogurt,1,0.431034483,3.089813512
+699,698,curd root_vegetables whole_milk yogurt,4,0.002948653,curd root_vegetables,,2,whole_milk yogurt,2,0.271028037,4.837678308
+700,699,curd root_vegetables whole_milk yogurt,4,0.002948653,curd root_vegetables whole_milk,,3,yogurt,1,0.475409836,3.407912345
+701,700,curd root_vegetables whole_milk yogurt,4,0.002948653,root_vegetables whole_milk yogurt,,3,curd,1,0.202797203,3.806317728
+702,701,curd tropical_fruit whole_milk yogurt,4,0.00396543,curd tropical_fruit,,2,whole_milk yogurt,2,0.386138614,6.892328979
+703,702,curd tropical_fruit whole_milk yogurt,4,0.00396543,curd yogurt,,2,tropical_fruit whole_milk,2,0.229411765,5.423713235
+704,703,curd tropical_fruit whole_milk yogurt,4,0.00396543,curd tropical_fruit whole_milk,,3,yogurt,1,0.609375,4.368223852
+705,704,curd tropical_fruit whole_milk yogurt,4,0.00396543,curd whole_milk yogurt,,3,tropical_fruit,1,0.393939394,3.754257693
+706,705,curd tropical_fruit whole_milk yogurt,4,0.00396543,tropical_fruit whole_milk yogurt,,3,curd,1,0.261744966,4.912713254
+707,706,curd whipped-sour_cream whole_milk yogurt,4,0.002745297,curd whipped-sour_cream,,2,whole_milk yogurt,2,0.262135922,4.678959703
+708,707,curd whipped-sour_cream whole_milk yogurt,4,0.002745297,curd whipped-sour_cream whole_milk,,3,yogurt,1,0.465517241,3.336998593
+709,708,curd whipped-sour_cream whole_milk yogurt,4,0.002745297,curd whole_milk yogurt,,3,whipped-sour_cream,1,0.272727273,3.804642166
+710,709,curd whipped-sour_cream whole_milk yogurt,4,0.002745297,whipped-sour_cream whole_milk yogurt,,3,curd,1,0.252336449,4.736123992
+711,710,dessert other_vegetables whole_milk yogurt,4,0.002541942,dessert other_vegetables,,2,whole_milk yogurt,2,0.219298246,3.914334384
+712,711,dessert other_vegetables whole_milk yogurt,4,0.002541942,dessert yogurt,,2,other_vegetables whole_milk,2,0.257731959,3.444013335
+713,712,dessert other_vegetables whole_milk yogurt,4,0.002541942,dessert other_vegetables whole_milk,,3,yogurt,1,0.510204082,3.657330279
+714,713,domestic_eggs margarine other_vegetables whole_milk,4,0.002440264,domestic_eggs margarine,,2,other_vegetables whole_milk,2,0.292682927,3.911055143
+715,714,domestic_eggs margarine other_vegetables whole_milk,4,0.002440264,margarine other_vegetables whole_milk,,3,domestic_eggs,1,0.263736264,4.156804734
+716,715,domestic_eggs other_vegetables pastry whole_milk,4,0.002236909,domestic_eggs pastry,,2,other_vegetables whole_milk,2,0.247191011,3.303157059
+717,716,domestic_eggs other_vegetables pastry whole_milk,4,0.002236909,other_vegetables pastry whole_milk,,3,domestic_eggs,1,0.211538462,3.334103797
+718,717,domestic_eggs other_vegetables pip_fruit whole_milk,4,0.00264362,domestic_eggs pip_fruit,,2,other_vegetables whole_milk,2,0.305882353,4.087436061
+719,718,domestic_eggs other_vegetables root_vegetables whole_milk,4,0.004575496,domestic_eggs other_vegetables,,2,root_vegetables whole_milk,2,0.205479452,4.201435366
+720,719,domestic_eggs other_vegetables root_vegetables whole_milk,4,0.004575496,domestic_eggs root_vegetables,,2,other_vegetables whole_milk,2,0.319148936,4.264714385
+721,720,domestic_eggs other_vegetables root_vegetables whole_milk,4,0.004575496,domestic_eggs other_vegetables whole_milk,,3,root_vegetables,1,0.371900826,3.411981929
+722,721,domestic_eggs other_vegetables tropical_fruit whole_milk,4,0.00305033,domestic_eggs tropical_fruit,,2,other_vegetables whole_milk,2,0.267857143,3.579313859
+723,722,domestic_eggs other_vegetables whipped-sour_cream whole_milk,4,0.003558719,domestic_eggs whipped-sour_cream,,2,other_vegetables whole_milk,2,0.357142857,4.772418478
+724,723,domestic_eggs other_vegetables whipped-sour_cream whole_milk,4,0.003558719,domestic_eggs other_vegetables whole_milk,,3,whipped-sour_cream,1,0.289256198,4.03522654
+725,724,domestic_eggs other_vegetables whipped-sour_cream whole_milk,4,0.003558719,domestic_eggs whipped-sour_cream whole_milk,,3,other_vegetables,1,0.625,3.230097215
+726,725,domestic_eggs other_vegetables whipped-sour_cream whole_milk,4,0.003558719,other_vegetables whipped-sour_cream whole_milk,,3,domestic_eggs,1,0.243055556,3.830851585
+727,726,domestic_eggs other_vegetables whole_milk yogurt,4,0.003355363,domestic_eggs yogurt,,2,other_vegetables whole_milk,2,0.234042553,3.127457216
+728,727,domestic_eggs root_vegetables tropical_fruit whole_milk,4,0.002745297,domestic_eggs tropical_fruit,,2,root_vegetables whole_milk,2,0.241071429,4.929183992
+729,728,domestic_eggs root_vegetables tropical_fruit whole_milk,4,0.002745297,domestic_eggs root_vegetables tropical_fruit,,3,whole_milk,1,0.771428571,3.019100676
+730,729,domestic_eggs root_vegetables tropical_fruit whole_milk,4,0.002745297,domestic_eggs root_vegetables whole_milk,,3,tropical_fruit,1,0.321428571,3.063226744
+731,730,domestic_eggs root_vegetables tropical_fruit whole_milk,4,0.002745297,domestic_eggs tropical_fruit whole_milk,,3,root_vegetables,1,0.397058824,3.642792471
+732,731,domestic_eggs root_vegetables tropical_fruit whole_milk,4,0.002745297,root_vegetables tropical_fruit whole_milk,,3,domestic_eggs,1,0.228813559,3.606380378
+733,732,domestic_eggs root_vegetables whole_milk yogurt,4,0.002541942,domestic_eggs whole_milk yogurt,,3,root_vegetables,1,0.328947368,3.017907993
+734,733,domestic_eggs tropical_fruit whole_milk yogurt,4,0.002948653,domestic_eggs tropical_fruit,,2,whole_milk yogurt,2,0.258928571,4.621710526
+735,734,domestic_eggs tropical_fruit whole_milk yogurt,4,0.002948653,domestic_eggs yogurt,,2,tropical_fruit whole_milk,2,0.205673759,4.86250341
+736,735,domestic_eggs tropical_fruit whole_milk yogurt,4,0.002948653,domestic_eggs tropical_fruit whole_milk,,3,yogurt,1,0.426470588,3.057097839
+737,736,domestic_eggs tropical_fruit whole_milk yogurt,4,0.002948653,domestic_eggs whole_milk yogurt,,3,tropical_fruit,1,0.381578947,3.636462158
+738,737,domestic_eggs whipped-sour_cream whole_milk yogurt,4,0.002236909,domestic_eggs whipped-sour_cream,,2,whole_milk yogurt,2,0.224489796,4.007000259
+739,738,domestic_eggs whipped-sour_cream whole_milk yogurt,4,0.002236909,domestic_eggs whole_milk yogurt,,3,whipped-sour_cream,1,0.289473684,4.038260545
+740,739,domestic_eggs whipped-sour_cream whole_milk yogurt,4,0.002236909,whipped-sour_cream whole_milk yogurt,,3,domestic_eggs,1,0.205607477,3.240624251
+741,740,frankfurter other_vegetables pip_fruit whole_milk,4,0.002338587,frankfurter pip_fruit,,2,other_vegetables whole_milk,2,0.323943662,4.328785211
+742,741,frankfurter other_vegetables pip_fruit whole_milk,4,0.002338587,frankfurter other_vegetables whole_milk,,3,pip_fruit,1,0.306666667,4.053853047
+743,742,frankfurter other_vegetables pip_fruit whole_milk,4,0.002338587,frankfurter pip_fruit whole_milk,,3,other_vegetables,1,0.696969697,3.602047803
+744,743,frankfurter other_vegetables tropical_fruit whole_milk,4,0.002541942,frankfurter tropical_fruit,,2,other_vegetables whole_milk,2,0.268817204,3.592142941
+745,744,frankfurter other_vegetables tropical_fruit whole_milk,4,0.002541942,frankfurter other_vegetables whole_milk,,3,tropical_fruit,1,0.333333333,3.176679587
+746,745,frankfurter other_vegetables whole_milk yogurt,4,0.002846975,frankfurter yogurt,,2,other_vegetables whole_milk,2,0.254545455,3.401432806
+747,746,frankfurter rolls-buns whole_milk yogurt,4,0.002338587,frankfurter yogurt,,2,rolls-buns whole_milk,2,0.209090909,3.691937327
+748,747,frankfurter root_vegetables whole_milk yogurt,4,0.002338587,frankfurter root_vegetables,,2,whole_milk yogurt,2,0.23,4.105353902
+749,748,frankfurter root_vegetables whole_milk yogurt,4,0.002338587,frankfurter yogurt,,2,root_vegetables whole_milk,2,0.209090909,4.275278775
+750,749,frankfurter root_vegetables whole_milk yogurt,4,0.002338587,frankfurter root_vegetables whole_milk,,3,yogurt,1,0.46,3.29744898
+751,750,frankfurter root_vegetables whole_milk yogurt,4,0.002338587,frankfurter whole_milk yogurt,,3,root_vegetables,1,0.37704918,3.459215195
+752,751,frozen_vegetables fruit-vegetable_juice other_vegetables whole_milk,4,0.002236909,frozen_vegetables fruit-vegetable_juice,,2,other_vegetables whole_milk,2,0.285714286,3.817934783
+753,752,frozen_vegetables fruit-vegetable_juice other_vegetables whole_milk,4,0.002236909,frozen_vegetables other_vegetables whole_milk,,3,fruit-vegetable_juice,1,0.231578947,3.203345918
+754,753,frozen_vegetables fruit-vegetable_juice other_vegetables whole_milk,4,0.002236909,fruit-vegetable_juice other_vegetables whole_milk,,3,frozen_vegetables,1,0.213592233,4.441183111
+755,754,frozen_vegetables other_vegetables root_vegetables whole_milk,4,0.003863752,frozen_vegetables other_vegetables,,2,root_vegetables whole_milk,2,0.217142857,4.43991684
+756,755,frozen_vegetables other_vegetables root_vegetables whole_milk,4,0.003863752,frozen_vegetables root_vegetables,,2,other_vegetables whole_milk,2,0.333333333,4.454257246
+757,756,frozen_vegetables other_vegetables root_vegetables whole_milk,4,0.003863752,frozen_vegetables other_vegetables whole_milk,,3,root_vegetables,1,0.4,3.669776119
+758,757,frozen_vegetables other_vegetables root_vegetables whole_milk,4,0.003863752,frozen_vegetables root_vegetables whole_milk,,3,other_vegetables,1,0.62295082,3.219506732
+759,758,frozen_vegetables other_vegetables tropical_fruit whole_milk,4,0.002440264,frozen_vegetables tropical_fruit,,2,other_vegetables whole_milk,2,0.279069767,3.729145602
+760,759,frozen_vegetables other_vegetables whipped-sour_cream whole_milk,4,0.002440264,frozen_vegetables whipped-sour_cream,,2,other_vegetables whole_milk,2,0.307692308,4.111622074
+761,760,frozen_vegetables other_vegetables whipped-sour_cream whole_milk,4,0.002440264,frozen_vegetables other_vegetables whole_milk,,3,whipped-sour_cream,1,0.252631579,3.524300112
+762,761,frozen_vegetables other_vegetables whipped-sour_cream whole_milk,4,0.002440264,frozen_vegetables whipped-sour_cream whole_milk,,3,other_vegetables,1,0.631578947,3.264098238
+763,762,frozen_vegetables other_vegetables whipped-sour_cream yogurt,4,0.002236909,frozen_vegetables whipped-sour_cream,,2,other_vegetables yogurt,2,0.282051282,6.49642707
+764,763,frozen_vegetables other_vegetables whipped-sour_cream yogurt,4,0.002236909,frozen_vegetables other_vegetables whipped-sour_cream,,3,yogurt,1,0.564102564,4.043694401
+765,764,frozen_vegetables other_vegetables whipped-sour_cream yogurt,4,0.002236909,frozen_vegetables other_vegetables yogurt,,3,whipped-sour_cream,1,0.423076923,5.902073104
+766,765,frozen_vegetables other_vegetables whipped-sour_cream yogurt,4,0.002236909,frozen_vegetables whipped-sour_cream yogurt,,3,other_vegetables,1,0.666666667,3.445437029
+767,766,frozen_vegetables other_vegetables whipped-sour_cream yogurt,4,0.002236909,other_vegetables whipped-sour_cream yogurt,,3,frozen_vegetables,1,0.22,4.574418605
+768,767,frozen_vegetables other_vegetables whole_milk yogurt,4,0.003558719,frozen_vegetables yogurt,,2,other_vegetables whole_milk,2,0.286885246,3.833582056
+769,768,frozen_vegetables other_vegetables whole_milk yogurt,4,0.003558719,frozen_vegetables whole_milk yogurt,,3,other_vegetables,1,0.583333333,3.014757401
+770,769,frozen_vegetables root_vegetables tropical_fruit whole_milk,4,0.002338587,frozen_vegetables root_vegetables,,2,tropical_fruit whole_milk,2,0.201754386,4.769842274
+771,770,frozen_vegetables root_vegetables tropical_fruit whole_milk,4,0.002338587,frozen_vegetables tropical_fruit,,2,root_vegetables whole_milk,2,0.26744186,5.468379829
+772,771,frozen_vegetables root_vegetables tropical_fruit whole_milk,4,0.002338587,frozen_vegetables root_vegetables tropical_fruit,,3,whole_milk,1,0.766666667,3.000464253
+773,772,frozen_vegetables root_vegetables tropical_fruit whole_milk,4,0.002338587,frozen_vegetables root_vegetables whole_milk,,3,tropical_fruit,1,0.37704918,3.593293303
+774,773,frozen_vegetables root_vegetables tropical_fruit whole_milk,4,0.002338587,frozen_vegetables tropical_fruit whole_milk,,3,root_vegetables,1,0.469387755,4.306369936
+775,774,fruit-vegetable_juice other_vegetables pip_fruit whole_milk,4,0.002440264,fruit-vegetable_juice pip_fruit,,2,other_vegetables whole_milk,2,0.255319149,3.411771508
+776,775,fruit-vegetable_juice other_vegetables pip_fruit whole_milk,4,0.002440264,fruit-vegetable_juice other_vegetables whole_milk,,3,pip_fruit,1,0.233009709,3.080175384
+777,776,fruit-vegetable_juice other_vegetables pip_fruit yogurt,4,0.002236909,fruit-vegetable_juice pip_fruit,,2,other_vegetables yogurt,2,0.234042553,5.39065225
+778,777,fruit-vegetable_juice other_vegetables pip_fruit yogurt,4,0.002236909,fruit-vegetable_juice other_vegetables pip_fruit,,3,yogurt,1,0.511627907,3.667536782
+779,778,fruit-vegetable_juice other_vegetables pip_fruit yogurt,4,0.002236909,fruit-vegetable_juice other_vegetables yogurt,,3,pip_fruit,1,0.271604938,3.590369043
+780,779,fruit-vegetable_juice other_vegetables pip_fruit yogurt,4,0.002236909,fruit-vegetable_juice pip_fruit yogurt,,3,other_vegetables,1,0.628571429,3.248554913
+781,780,fruit-vegetable_juice other_vegetables pip_fruit yogurt,4,0.002236909,other_vegetables pip_fruit yogurt,,3,fruit-vegetable_juice,1,0.275,3.803973277
+782,781,fruit-vegetable_juice other_vegetables root_vegetables tropical_fruit,4,0.002541942,fruit-vegetable_juice root_vegetables,,2,other_vegetables tropical_fruit,2,0.211864407,5.90279445
+783,782,fruit-vegetable_juice other_vegetables root_vegetables tropical_fruit,4,0.002541942,fruit-vegetable_juice other_vegetables root_vegetables,,3,tropical_fruit,1,0.384615385,3.665399523
+784,783,fruit-vegetable_juice other_vegetables root_vegetables tropical_fruit,4,0.002541942,fruit-vegetable_juice other_vegetables tropical_fruit,,3,root_vegetables,1,0.384615385,3.528630884
+785,784,fruit-vegetable_juice other_vegetables root_vegetables tropical_fruit,4,0.002541942,fruit-vegetable_juice root_vegetables tropical_fruit,,3,other_vegetables,1,0.78125,4.037621519
+786,785,fruit-vegetable_juice other_vegetables root_vegetables whole_milk,4,0.00396543,fruit-vegetable_juice root_vegetables,,2,other_vegetables whole_milk,2,0.330508475,4.416509304
+787,786,fruit-vegetable_juice other_vegetables root_vegetables whole_milk,4,0.00396543,fruit-vegetable_juice other_vegetables whole_milk,,3,root_vegetables,1,0.378640777,3.4738172
+788,787,fruit-vegetable_juice other_vegetables root_vegetables whole_milk,4,0.00396543,fruit-vegetable_juice root_vegetables whole_milk,,3,other_vegetables,1,0.609375,3.149344785
+789,788,fruit-vegetable_juice other_vegetables root_vegetables yogurt,4,0.002440264,fruit-vegetable_juice root_vegetables,,2,other_vegetables yogurt,2,0.203389831,4.684634621
+790,789,fruit-vegetable_juice other_vegetables root_vegetables yogurt,4,0.002440264,fruit-vegetable_juice root_vegetables yogurt,,3,other_vegetables,1,0.705882353,3.648109796
+791,790,fruit-vegetable_juice other_vegetables tropical_fruit whole_milk,4,0.003253686,fruit-vegetable_juice tropical_fruit,,2,other_vegetables whole_milk,2,0.237037037,3.16747182
+792,791,fruit-vegetable_juice other_vegetables tropical_fruit yogurt,4,0.002846975,fruit-vegetable_juice tropical_fruit,,2,other_vegetables yogurt,2,0.207407407,4.777170613
+793,792,fruit-vegetable_juice other_vegetables tropical_fruit yogurt,4,0.002846975,fruit-vegetable_juice other_vegetables tropical_fruit,,3,yogurt,1,0.430769231,3.087912088
+794,793,fruit-vegetable_juice other_vegetables tropical_fruit yogurt,4,0.002846975,fruit-vegetable_juice other_vegetables yogurt,,3,tropical_fruit,1,0.345679012,3.294334386
+795,794,fruit-vegetable_juice other_vegetables tropical_fruit yogurt,4,0.002846975,fruit-vegetable_juice tropical_fruit yogurt,,3,other_vegetables,1,0.583333333,3.014757401
+796,795,fruit-vegetable_juice other_vegetables tropical_fruit yogurt,4,0.002846975,other_vegetables tropical_fruit yogurt,,3,fruit-vegetable_juice,1,0.231404959,3.200939196
+797,796,fruit-vegetable_juice other_vegetables whipped-sour_cream whole_milk,4,0.002236909,fruit-vegetable_juice whipped-sour_cream,,2,other_vegetables whole_milk,2,0.247191011,3.303157059
+798,797,fruit-vegetable_juice other_vegetables whipped-sour_cream yogurt,4,0.002338587,fruit-vegetable_juice whipped-sour_cream,,2,other_vegetables yogurt,2,0.258426966,5.95229324
+799,798,fruit-vegetable_juice other_vegetables whipped-sour_cream yogurt,4,0.002338587,fruit-vegetable_juice other_vegetables whipped-sour_cream,,3,yogurt,1,0.547619048,3.9255345
+800,799,fruit-vegetable_juice other_vegetables whipped-sour_cream yogurt,4,0.002338587,fruit-vegetable_juice other_vegetables yogurt,,3,whipped-sour_cream,1,0.283950617,3.961211803
+801,800,fruit-vegetable_juice other_vegetables whipped-sour_cream yogurt,4,0.002338587,fruit-vegetable_juice whipped-sour_cream yogurt,,3,other_vegetables,1,0.605263158,3.128094145
+802,801,fruit-vegetable_juice other_vegetables whipped-sour_cream yogurt,4,0.002338587,other_vegetables whipped-sour_cream yogurt,,3,fruit-vegetable_juice,1,0.23,3.181504923
+803,802,fruit-vegetable_juice other_vegetables whole_milk yogurt,4,0.005083884,fruit-vegetable_juice other_vegetables,,2,whole_milk yogurt,2,0.241545894,4.311440771
+804,803,fruit-vegetable_juice other_vegetables whole_milk yogurt,4,0.005083884,fruit-vegetable_juice yogurt,,2,other_vegetables whole_milk,2,0.27173913,3.631187973
+805,804,fruit-vegetable_juice other_vegetables whole_milk yogurt,4,0.005083884,fruit-vegetable_juice other_vegetables whole_milk,,3,yogurt,1,0.485436893,3.479789974
+806,805,fruit-vegetable_juice other_vegetables whole_milk yogurt,4,0.005083884,other_vegetables whole_milk yogurt,,3,fruit-vegetable_juice,1,0.228310502,3.158134726
+807,806,fruit-vegetable_juice pip_fruit whole_milk yogurt,4,0.002338587,fruit-vegetable_juice pip_fruit,,2,whole_milk yogurt,2,0.244680851,4.367397768
+808,807,fruit-vegetable_juice pip_fruit whole_milk yogurt,4,0.002338587,fruit-vegetable_juice pip_fruit whole_milk,,3,yogurt,1,0.489361702,3.507924446
+809,808,fruit-vegetable_juice pip_fruit whole_milk yogurt,4,0.002338587,fruit-vegetable_juice whole_milk yogurt,,3,pip_fruit,1,0.247311828,3.269236328
+810,809,fruit-vegetable_juice pip_fruit whole_milk yogurt,4,0.002338587,pip_fruit whole_milk yogurt,,3,fruit-vegetable_juice,1,0.244680851,3.384579705
+811,810,fruit-vegetable_juice root_vegetables whole_milk yogurt,4,0.002541942,fruit-vegetable_juice root_vegetables,,2,whole_milk yogurt,2,0.211864407,3.781645083
+812,811,fruit-vegetable_juice soda whole_milk yogurt,4,0.002338587,soda whole_milk yogurt,,3,fruit-vegetable_juice,1,0.223300971,3.088839731
+813,812,fruit-vegetable_juice tropical_fruit whole_milk yogurt,4,0.002745297,fruit-vegetable_juice tropical_fruit,,2,whole_milk yogurt,2,0.2,3.569872958
+814,813,fruit-vegetable_juice tropical_fruit whole_milk yogurt,4,0.002745297,fruit-vegetable_juice tropical_fruit whole_milk,,3,yogurt,1,0.457627119,3.280439294
+815,814,herbs other_vegetables root_vegetables whole_milk,4,0.002440264,herbs other_vegetables,,2,root_vegetables whole_milk,2,0.315789474,6.456942773
+816,815,herbs other_vegetables root_vegetables whole_milk,4,0.002440264,herbs root_vegetables,,2,other_vegetables whole_milk,2,0.347826087,4.647920605
+817,816,herbs other_vegetables root_vegetables whole_milk,4,0.002440264,herbs whole_milk,,2,other_vegetables root_vegetables,2,0.315789474,6.664784278
+818,817,herbs other_vegetables root_vegetables whole_milk,4,0.002440264,herbs other_vegetables whole_milk,,3,root_vegetables,1,0.6,5.504664179
+819,818,herbs other_vegetables root_vegetables whole_milk,4,0.002440264,herbs root_vegetables whole_milk,,3,other_vegetables,1,0.585365854,3.025261782
+820,819,long_life_bakery_product other_vegetables whole_milk yogurt,4,0.00264362,long_life_bakery_product other_vegetables,,2,whole_milk yogurt,2,0.247619048,4.41984271
+821,820,long_life_bakery_product other_vegetables whole_milk yogurt,4,0.00264362,long_life_bakery_product yogurt,,2,other_vegetables whole_milk,2,0.302325581,4.039907735
+822,821,long_life_bakery_product other_vegetables whole_milk yogurt,4,0.00264362,long_life_bakery_product other_vegetables whole_milk,,3,yogurt,1,0.464285714,3.328170554
+823,822,margarine other_vegetables root_vegetables whole_milk,4,0.003253686,margarine root_vegetables,,2,other_vegetables whole_milk,2,0.293577982,3.923015556
+824,823,margarine other_vegetables root_vegetables whole_milk,4,0.003253686,margarine other_vegetables whole_milk,,3,root_vegetables,1,0.351648352,3.226176808
+825,824,margarine other_vegetables root_vegetables whole_milk,4,0.003253686,margarine root_vegetables whole_milk,,3,other_vegetables,1,0.653061224,3.375121988
+826,825,margarine other_vegetables tropical_fruit yogurt,4,0.002236909,margarine tropical_fruit,,2,other_vegetables yogurt,2,0.239130435,5.507840342
+827,826,margarine other_vegetables tropical_fruit yogurt,4,0.002236909,margarine other_vegetables tropical_fruit,,3,yogurt,1,0.564102564,4.043694401
+828,827,margarine other_vegetables tropical_fruit yogurt,4,0.002236909,margarine other_vegetables yogurt,,3,tropical_fruit,1,0.392857143,3.743943798
+829,828,napkins other_vegetables root_vegetables whole_milk,4,0.002338587,napkins root_vegetables,,2,other_vegetables whole_milk,2,0.234693878,3.136160714
+830,829,napkins other_vegetables root_vegetables whole_milk,4,0.002338587,napkins other_vegetables whole_milk,,3,root_vegetables,1,0.343283582,3.149434729
+831,830,newspapers other_vegetables root_vegetables whole_milk,4,0.00305033,newspapers root_vegetables,,2,other_vegetables whole_milk,2,0.265486726,3.547638515
+832,831,newspapers other_vegetables root_vegetables whole_milk,4,0.00305033,newspapers other_vegetables whole_milk,,3,root_vegetables,1,0.365853659,3.356502548
+833,832,newspapers tropical_fruit whole_milk yogurt,4,0.002236909,newspapers tropical_fruit whole_milk,,3,yogurt,1,0.44,3.154081633
+834,833,newspapers tropical_fruit whole_milk yogurt,4,0.002236909,newspapers whole_milk yogurt,,3,tropical_fruit,1,0.338461538,3.22555158
+835,834,oil other_vegetables root_vegetables whole_milk,4,0.00264362,oil other_vegetables,,2,root_vegetables whole_milk,2,0.265306122,5.424710425
+836,835,oil other_vegetables root_vegetables whole_milk,4,0.00264362,oil root_vegetables,,2,other_vegetables whole_milk,2,0.376811594,5.035247322
+837,836,oil other_vegetables root_vegetables whole_milk,4,0.00264362,oil whole_milk,,2,other_vegetables root_vegetables,2,0.234234234,4.943548699
+838,837,oil other_vegetables root_vegetables whole_milk,4,0.00264362,oil other_vegetables whole_milk,,3,root_vegetables,1,0.52,4.770708955
+839,838,oil other_vegetables root_vegetables whole_milk,4,0.00264362,oil root_vegetables whole_milk,,3,other_vegetables,1,0.590909091,3.053910094
+840,839,oil other_vegetables whole_milk yogurt,4,0.002236909,oil other_vegetables,,2,whole_milk yogurt,2,0.224489796,4.007000259
+841,840,oil other_vegetables whole_milk yogurt,4,0.002236909,oil yogurt,,2,other_vegetables whole_milk,2,0.423076923,5.653480351
+842,841,oil other_vegetables whole_milk yogurt,4,0.002236909,oil other_vegetables whole_milk,,3,yogurt,1,0.44,3.154081633
+843,842,oil other_vegetables whole_milk yogurt,4,0.002236909,oil whole_milk yogurt,,3,other_vegetables,1,0.709677419,3.667723289
+844,843,onions other_vegetables root_vegetables whole_milk,4,0.003253686,onions other_vegetables,,2,root_vegetables whole_milk,2,0.228571429,4.673596674
+845,844,onions other_vegetables root_vegetables whole_milk,4,0.003253686,onions root_vegetables,,2,other_vegetables whole_milk,2,0.344086022,4.597942964
+846,845,onions other_vegetables root_vegetables whole_milk,4,0.003253686,onions whole_milk,,2,other_vegetables root_vegetables,2,0.268907563,5.675334511
+847,846,onions other_vegetables root_vegetables whole_milk,4,0.003253686,onions other_vegetables whole_milk,,3,root_vegetables,1,0.492307692,4.516647532
+848,847,onions other_vegetables root_vegetables whole_milk,4,0.003253686,onions root_vegetables whole_milk,,3,other_vegetables,1,0.680851064,3.5187442
+849,848,onions other_vegetables whole_milk yogurt,4,0.002440264,onions whole_milk,,2,other_vegetables yogurt,2,0.201680672,4.645267943
+850,849,onions other_vegetables whole_milk yogurt,4,0.002440264,onions yogurt,,2,other_vegetables whole_milk,2,0.338028169,4.516993264
+851,850,onions other_vegetables whole_milk yogurt,4,0.002440264,onions whole_milk yogurt,,3,other_vegetables,1,0.631578947,3.264098238
+852,851,other_vegetables pastry pip_fruit whole_milk,4,0.002541942,pastry pip_fruit,,2,other_vegetables whole_milk,2,0.238095238,3.181612319
+853,852,other_vegetables pastry pip_fruit whole_milk,4,0.002541942,other_vegetables pastry whole_milk,,3,pip_fruit,1,0.240384615,3.177664909
+854,853,other_vegetables pastry root_vegetables whole_milk,4,0.00305033,pastry root_vegetables,,2,other_vegetables whole_milk,2,0.277777778,3.711881039
+855,854,other_vegetables pastry root_vegetables yogurt,4,0.002236909,pastry root_vegetables,,2,other_vegetables yogurt,2,0.203703704,4.691863995
+856,855,other_vegetables pastry root_vegetables yogurt,4,0.002236909,other_vegetables pastry yogurt,,3,root_vegetables,1,0.338461538,3.105195178
+857,856,other_vegetables pastry root_vegetables yogurt,4,0.002236909,pastry root_vegetables yogurt,,3,other_vegetables,1,0.594594595,3.07295735
+858,857,other_vegetables pastry whipped-sour_cream whole_milk,4,0.002440264,pastry whipped-sour_cream,,2,other_vegetables whole_milk,2,0.324324324,4.333871915
+859,858,other_vegetables pastry whipped-sour_cream whole_milk,4,0.002440264,other_vegetables pastry whole_milk,,3,whipped-sour_cream,1,0.230769231,3.219312602
+860,859,other_vegetables pastry whipped-sour_cream whole_milk,4,0.002440264,pastry whipped-sour_cream whole_milk,,3,other_vegetables,1,0.585365854,3.025261782
+861,860,other_vegetables pastry whole_milk yogurt,4,0.004067107,pastry yogurt,,2,other_vegetables whole_milk,2,0.229885057,3.071901549
+862,861,other_vegetables pip_fruit pork whole_milk,4,0.002338587,pip_fruit pork,,2,other_vegetables whole_milk,2,0.383333333,5.122395833
+863,862,other_vegetables pip_fruit pork whole_milk,4,0.002338587,other_vegetables pork whole_milk,,3,pip_fruit,1,0.23,3.040389785
+864,863,other_vegetables pip_fruit pork whole_milk,4,0.002338587,pip_fruit pork whole_milk,,3,other_vegetables,1,0.741935484,3.834437984
+865,864,other_vegetables pip_fruit root_vegetables tropical_fruit,4,0.003355363,pip_fruit root_vegetables,,2,other_vegetables tropical_fruit,2,0.215686275,6.009276232
+866,865,other_vegetables pip_fruit root_vegetables tropical_fruit,4,0.003355363,other_vegetables pip_fruit root_vegetables,,3,tropical_fruit,1,0.4125,3.931140988
+867,866,other_vegetables pip_fruit root_vegetables tropical_fruit,4,0.003355363,other_vegetables pip_fruit tropical_fruit,,3,root_vegetables,1,0.35483871,3.255446558
+868,867,other_vegetables pip_fruit root_vegetables tropical_fruit,4,0.003355363,other_vegetables root_vegetables tropical_fruit,,3,pip_fruit,1,0.272727273,3.605205279
+869,868,other_vegetables pip_fruit root_vegetables tropical_fruit,4,0.003355363,pip_fruit root_vegetables tropical_fruit,,3,other_vegetables,1,0.634615385,3.279791018
+870,869,other_vegetables pip_fruit root_vegetables whole_milk,4,0.005490595,other_vegetables pip_fruit,,2,root_vegetables whole_milk,2,0.210116732,4.296253752
+871,870,other_vegetables pip_fruit root_vegetables whole_milk,4,0.005490595,pip_fruit root_vegetables,,2,other_vegetables whole_milk,2,0.352941176,4.716272379
+872,871,other_vegetables pip_fruit root_vegetables whole_milk,4,0.005490595,other_vegetables pip_fruit whole_milk,,3,root_vegetables,1,0.406015038,3.724960723
+873,872,other_vegetables pip_fruit root_vegetables whole_milk,4,0.005490595,other_vegetables root_vegetables whole_milk,,3,pip_fruit,1,0.236842105,3.130836163
+874,873,other_vegetables pip_fruit root_vegetables whole_milk,4,0.005490595,pip_fruit root_vegetables whole_milk,,3,other_vegetables,1,0.613636364,3.171368175
+875,874,other_vegetables pip_fruit root_vegetables yogurt,4,0.002948653,other_vegetables pip_fruit yogurt,,3,root_vegetables,1,0.3625,3.325734608
+876,875,other_vegetables pip_fruit root_vegetables yogurt,4,0.002948653,other_vegetables root_vegetables yogurt,,3,pip_fruit,1,0.228346457,3.018531454
+877,876,other_vegetables pip_fruit tropical_fruit whipped-sour_cream,4,0.002745297,pip_fruit whipped-sour_cream,,2,other_vegetables tropical_fruit,2,0.296703297,8.266506864
+878,877,other_vegetables pip_fruit tropical_fruit whipped-sour_cream,4,0.002745297,other_vegetables pip_fruit tropical_fruit,,3,whipped-sour_cream,1,0.290322581,4.050102951
+879,878,other_vegetables pip_fruit tropical_fruit whipped-sour_cream,4,0.002745297,other_vegetables pip_fruit whipped-sour_cream,,3,tropical_fruit,1,0.490909091,4.678382664
+880,879,other_vegetables pip_fruit tropical_fruit whipped-sour_cream,4,0.002745297,other_vegetables tropical_fruit whipped-sour_cream,,3,pip_fruit,1,0.350649351,4.63526393
+881,880,other_vegetables pip_fruit tropical_fruit whipped-sour_cream,4,0.002745297,pip_fruit tropical_fruit whipped-sour_cream,,3,other_vegetables,1,0.72972973,3.771356748
+882,881,other_vegetables pip_fruit tropical_fruit whole_milk,4,0.004778851,pip_fruit tropical_fruit,,2,other_vegetables whole_milk,2,0.233830846,3.124628218
+883,882,other_vegetables pip_fruit tropical_fruit whole_milk,4,0.004778851,other_vegetables pip_fruit whole_milk,,3,tropical_fruit,1,0.353383459,3.367758058
+884,883,other_vegetables pip_fruit tropical_fruit whole_milk,4,0.004778851,other_vegetables tropical_fruit whole_milk,,3,pip_fruit,1,0.279761905,3.698196685
+885,884,other_vegetables pip_fruit tropical_fruit yogurt,4,0.003558719,other_vegetables pip_fruit yogurt,,3,tropical_fruit,1,0.4375,4.169391957
+886,885,other_vegetables pip_fruit tropical_fruit yogurt,4,0.003558719,other_vegetables tropical_fruit yogurt,,3,pip_fruit,1,0.289256198,3.823702568
+887,886,other_vegetables pip_fruit whipped-sour_cream whole_milk,4,0.003660397,pip_fruit whipped-sour_cream,,2,other_vegetables whole_milk,2,0.395604396,5.286371237
+888,887,other_vegetables pip_fruit whipped-sour_cream whole_milk,4,0.003660397,other_vegetables pip_fruit whole_milk,,3,whipped-sour_cream,1,0.270676692,3.776035834
+889,888,other_vegetables pip_fruit whipped-sour_cream whole_milk,4,0.003660397,other_vegetables whipped-sour_cream whole_milk,,3,pip_fruit,1,0.25,3.304771505
+890,889,other_vegetables pip_fruit whipped-sour_cream whole_milk,4,0.003660397,pip_fruit whipped-sour_cream whole_milk,,3,other_vegetables,1,0.610169492,3.15345084
+891,890,other_vegetables pip_fruit whipped-sour_cream yogurt,4,0.002236909,pip_fruit whipped-sour_cream,,2,other_vegetables yogurt,2,0.241758242,5.56836606
+892,891,other_vegetables pip_fruit whipped-sour_cream yogurt,4,0.002236909,other_vegetables pip_fruit yogurt,,3,whipped-sour_cream,1,0.275,3.836347518
+893,892,other_vegetables pip_fruit whipped-sour_cream yogurt,4,0.002236909,pip_fruit whipped-sour_cream yogurt,,3,other_vegetables,1,0.611111111,3.158317277
+894,893,other_vegetables pip_fruit whole_milk yogurt,4,0.005083884,pip_fruit yogurt,,2,other_vegetables whole_milk,2,0.282485876,3.774794277
+895,894,other_vegetables pip_fruit whole_milk yogurt,4,0.005083884,other_vegetables whole_milk yogurt,,3,pip_fruit,1,0.228310502,3.018056169
+896,895,other_vegetables pork rolls-buns whole_milk,4,0.003253686,pork rolls-buns,,2,other_vegetables whole_milk,2,0.288288288,3.852330591
+897,896,other_vegetables pork root_vegetables whole_milk,4,0.003762074,pork root_vegetables,,2,other_vegetables whole_milk,2,0.276119403,3.689720555
+898,897,other_vegetables pork root_vegetables whole_milk,4,0.003762074,other_vegetables pork whole_milk,,3,root_vegetables,1,0.37,3.39454291
+899,898,other_vegetables pork whipped-sour_cream whole_milk,4,0.002440264,pork whipped-sour_cream,,2,other_vegetables whole_milk,2,0.296296296,3.959339775
+900,899,other_vegetables pork whipped-sour_cream whole_milk,4,0.002440264,other_vegetables pork whole_milk,,3,whipped-sour_cream,1,0.24,3.348085106
+901,900,other_vegetables pork whole_milk yogurt,4,0.002338587,pork yogurt,,2,other_vegetables whole_milk,2,0.244680851,3.269614362
+902,901,other_vegetables rolls-buns root_vegetables tropical_fruit,4,0.003558719,other_vegetables rolls-buns tropical_fruit,,3,root_vegetables,1,0.454545455,4.170200136
+903,902,other_vegetables rolls-buns root_vegetables tropical_fruit,4,0.003558719,rolls-buns root_vegetables tropical_fruit,,3,other_vegetables,1,0.603448276,3.118714552
+904,903,other_vegetables rolls-buns root_vegetables whipped-sour_cream,4,0.002541942,other_vegetables rolls-buns whipped-sour_cream,,3,root_vegetables,1,0.378787879,3.47516678
+905,904,other_vegetables rolls-buns root_vegetables whipped-sour_cream,4,0.002541942,rolls-buns root_vegetables whipped-sour_cream,,3,other_vegetables,1,0.581395349,3.004741595
+906,905,other_vegetables rolls-buns root_vegetables whole_milk,4,0.006202339,rolls-buns root_vegetables,,2,other_vegetables whole_milk,2,0.255230126,3.410581908
+907,906,other_vegetables rolls-buns root_vegetables whole_milk,4,0.006202339,other_vegetables rolls-buns whole_milk,,3,root_vegetables,1,0.346590909,3.179777603
+908,907,other_vegetables rolls-buns root_vegetables yogurt,4,0.004168785,other_vegetables rolls-buns yogurt,,3,root_vegetables,1,0.362831858,3.328779223
+909,908,other_vegetables rolls-buns tropical_fruit yogurt,4,0.003762074,other_vegetables rolls-buns tropical_fruit,,3,yogurt,1,0.480519481,3.444540154
+910,909,other_vegetables rolls-buns tropical_fruit yogurt,4,0.003762074,other_vegetables rolls-buns yogurt,,3,tropical_fruit,1,0.327433628,3.120455169
+911,910,other_vegetables rolls-buns whipped-sour_cream whole_milk,4,0.003762074,rolls-buns whipped-sour_cream,,2,other_vegetables whole_milk,2,0.256944444,3.433489961
+912,911,other_vegetables root_vegetables sausage whole_milk,4,0.003457041,root_vegetables sausage,,2,other_vegetables whole_milk,2,0.231292517,3.09070911
+913,912,other_vegetables root_vegetables sausage whole_milk,4,0.003457041,other_vegetables sausage whole_milk,,3,root_vegetables,1,0.34,3.119309701
+914,913,other_vegetables root_vegetables shopping_bags whole_milk,4,0.002948653,root_vegetables shopping_bags,,2,other_vegetables whole_milk,2,0.23015873,3.075558575
+915,914,other_vegetables root_vegetables shopping_bags whole_milk,4,0.002948653,other_vegetables shopping_bags whole_milk,,3,root_vegetables,1,0.386666667,3.547450249
+916,915,other_vegetables root_vegetables sliced_cheese whole_milk,4,0.002440264,other_vegetables sliced_cheese,,2,root_vegetables whole_milk,2,0.269662921,5.513793828
+917,916,other_vegetables root_vegetables sliced_cheese whole_milk,4,0.002440264,root_vegetables sliced_cheese,,2,other_vegetables whole_milk,2,0.436363636,5.831027668
+918,917,other_vegetables root_vegetables sliced_cheese whole_milk,4,0.002440264,sliced_cheese whole_milk,,2,other_vegetables root_vegetables,2,0.226415094,4.778524577
+919,918,other_vegetables root_vegetables sliced_cheese whole_milk,4,0.002440264,other_vegetables sliced_cheese whole_milk,,3,root_vegetables,1,0.533333333,4.893034826
+920,919,other_vegetables root_vegetables sliced_cheese whole_milk,4,0.002440264,root_vegetables sliced_cheese whole_milk,,3,other_vegetables,1,0.774193548,4.001152679
+921,920,other_vegetables root_vegetables soda tropical_fruit,4,0.002338587,root_vegetables soda tropical_fruit,,3,other_vegetables,1,0.621621622,3.21263723
+922,921,other_vegetables root_vegetables soda whole_milk,4,0.004473818,root_vegetables soda,,2,other_vegetables whole_milk,2,0.240437158,3.212906866
+923,922,other_vegetables root_vegetables tropical_fruit whipped-sour_cream,4,0.003355363,tropical_fruit whipped-sour_cream,,2,other_vegetables root_vegetables,2,0.242647059,5.121102626
+924,923,other_vegetables root_vegetables tropical_fruit whipped-sour_cream,4,0.003355363,other_vegetables root_vegetables tropical_fruit,,3,whipped-sour_cream,1,0.272727273,3.804642166
+925,924,other_vegetables root_vegetables tropical_fruit whipped-sour_cream,4,0.003355363,other_vegetables root_vegetables whipped-sour_cream,,3,tropical_fruit,1,0.392857143,3.743943798
+926,925,other_vegetables root_vegetables tropical_fruit whipped-sour_cream,4,0.003355363,other_vegetables tropical_fruit whipped-sour_cream,,3,root_vegetables,1,0.428571429,3.931902985
+927,926,other_vegetables root_vegetables tropical_fruit whipped-sour_cream,4,0.003355363,root_vegetables tropical_fruit whipped-sour_cream,,3,other_vegetables,1,0.733333333,3.789980732
+928,927,other_vegetables root_vegetables tropical_fruit whole_milk,4,0.00701576,root_vegetables tropical_fruit,,2,other_vegetables whole_milk,2,0.333333333,4.454257246
+929,928,other_vegetables root_vegetables tropical_fruit whole_milk,4,0.00701576,other_vegetables tropical_fruit whole_milk,,3,root_vegetables,1,0.410714286,3.768073694
+930,929,other_vegetables root_vegetables tropical_fruit whole_milk,4,0.00701576,root_vegetables tropical_fruit whole_milk,,3,other_vegetables,1,0.584745763,3.022057055
+931,930,other_vegetables root_vegetables tropical_fruit yogurt,4,0.004982206,root_vegetables tropical_fruit,,2,other_vegetables yogurt,2,0.236714976,5.452205591
+932,931,other_vegetables root_vegetables tropical_fruit yogurt,4,0.004982206,other_vegetables root_vegetables yogurt,,3,tropical_fruit,1,0.385826772,3.676944088
+933,932,other_vegetables root_vegetables tropical_fruit yogurt,4,0.004982206,other_vegetables tropical_fruit yogurt,,3,root_vegetables,1,0.404958678,3.715269212
+934,933,other_vegetables root_vegetables tropical_fruit yogurt,4,0.004982206,root_vegetables tropical_fruit yogurt,,3,other_vegetables,1,0.6125,3.165495271
+935,934,other_vegetables root_vegetables whipped-sour_cream whole_milk,4,0.005185562,root_vegetables whipped-sour_cream,,2,other_vegetables whole_milk,2,0.303571429,4.056555707
+936,935,other_vegetables root_vegetables whipped-sour_cream whole_milk,4,0.005185562,other_vegetables root_vegetables whole_milk,,3,whipped-sour_cream,1,0.223684211,3.120474057
+937,936,other_vegetables root_vegetables whipped-sour_cream whole_milk,4,0.005185562,other_vegetables whipped-sour_cream whole_milk,,3,root_vegetables,1,0.354166667,3.249280939
+938,937,other_vegetables root_vegetables whipped-sour_cream yogurt,4,0.003457041,root_vegetables whipped-sour_cream,,2,other_vegetables yogurt,2,0.202380952,4.661397346
+939,938,other_vegetables root_vegetables whipped-sour_cream yogurt,4,0.003457041,other_vegetables root_vegetables yogurt,,3,whipped-sour_cream,1,0.267716535,3.734740604
+940,939,other_vegetables root_vegetables whipped-sour_cream yogurt,4,0.003457041,other_vegetables whipped-sour_cream yogurt,,3,root_vegetables,1,0.34,3.119309701
+941,940,other_vegetables root_vegetables white_bread whole_milk,4,0.002338587,root_vegetables white_bread,,2,other_vegetables whole_milk,2,0.294871795,3.940304487
+942,941,other_vegetables root_vegetables white_bread whole_milk,4,0.002338587,other_vegetables white_bread whole_milk,,3,root_vegetables,1,0.396551724,3.638140118
+943,942,other_vegetables root_vegetables white_bread whole_milk,4,0.002338587,root_vegetables white_bread whole_milk,,3,other_vegetables,1,0.58974359,3.047886603
+944,943,other_vegetables root_vegetables whole_milk yogurt,4,0.007829181,root_vegetables yogurt,,2,other_vegetables whole_milk,2,0.303149606,4.050918992
+945,944,other_vegetables root_vegetables whole_milk yogurt,4,0.007829181,other_vegetables whole_milk yogurt,,3,root_vegetables,1,0.351598174,3.225716452
+946,945,other_vegetables sausage soda yogurt,4,0.002440264,other_vegetables soda yogurt,,3,sausage,1,0.292682927,3.115299335
+947,946,other_vegetables sausage whipped-sour_cream whole_milk,4,0.002948653,sausage whipped-sour_cream,,2,other_vegetables whole_milk,2,0.325842697,4.354161578
+948,947,other_vegetables sausage whipped-sour_cream whole_milk,4,0.002948653,other_vegetables sausage whole_milk,,3,whipped-sour_cream,1,0.29,4.045602837
+949,948,other_vegetables soda whipped-sour_cream whole_milk,4,0.002846975,soda whipped-sour_cream,,2,other_vegetables whole_milk,2,0.245614035,3.282084287
+950,949,other_vegetables tropical_fruit whipped-sour_cream whole_milk,4,0.004473818,tropical_fruit whipped-sour_cream,,2,other_vegetables whole_milk,2,0.323529412,4.32324968
+951,950,other_vegetables tropical_fruit whipped-sour_cream whole_milk,4,0.004473818,other_vegetables tropical_fruit whole_milk,,3,whipped-sour_cream,1,0.261904762,3.653664303
+952,951,other_vegetables tropical_fruit whipped-sour_cream yogurt,4,0.003558719,tropical_fruit whipped-sour_cream,,2,other_vegetables yogurt,2,0.257352941,5.927555448
+953,952,other_vegetables tropical_fruit whipped-sour_cream yogurt,4,0.003558719,other_vegetables tropical_fruit whipped-sour_cream,,3,yogurt,1,0.454545455,3.258348794
+954,953,other_vegetables tropical_fruit whipped-sour_cream yogurt,4,0.003558719,other_vegetables tropical_fruit yogurt,,3,whipped-sour_cream,1,0.289256198,4.03522654
+955,954,other_vegetables tropical_fruit whipped-sour_cream yogurt,4,0.003558719,other_vegetables whipped-sour_cream yogurt,,3,tropical_fruit,1,0.35,3.335513566
+956,955,other_vegetables tropical_fruit whole_milk yogurt,4,0.007625826,other_vegetables tropical_fruit,,2,whole_milk yogurt,2,0.212464589,3.792357958
+957,956,other_vegetables tropical_fruit whole_milk yogurt,4,0.007625826,tropical_fruit yogurt,,2,other_vegetables whole_milk,2,0.260416667,3.479888474
+958,957,other_vegetables tropical_fruit whole_milk yogurt,4,0.007625826,other_vegetables tropical_fruit whole_milk,,3,yogurt,1,0.446428571,3.200163994
+959,958,other_vegetables tropical_fruit whole_milk yogurt,4,0.007625826,other_vegetables whole_milk yogurt,,3,tropical_fruit,1,0.342465753,3.263711904
+960,959,other_vegetables whipped-sour_cream whole_milk yogurt,4,0.005592272,whipped-sour_cream yogurt,,2,other_vegetables whole_milk,2,0.269607843,3.602708067
+961,960,other_vegetables whipped-sour_cream whole_milk yogurt,4,0.005592272,other_vegetables whole_milk yogurt,,3,whipped-sour_cream,1,0.251141553,3.503513715
+962,961,pastry rolls-buns root_vegetables whole_milk,4,0.002236909,pastry root_vegetables,,2,rolls-buns whole_milk,2,0.203703704,3.596814948
+963,962,pastry root_vegetables whole_milk yogurt,4,0.002541942,pastry root_vegetables,,2,whole_milk yogurt,2,0.231481481,4.131797405
+964,963,pastry root_vegetables whole_milk yogurt,4,0.002541942,pastry root_vegetables whole_milk,,3,yogurt,1,0.446428571,3.200163994
+965,964,pastry sausage whole_milk yogurt,4,0.002338587,sausage whole_milk yogurt,,3,pastry,1,0.26744186,3.006046512
+966,965,pastry tropical_fruit whole_milk yogurt,4,0.00305033,pastry tropical_fruit,,2,whole_milk yogurt,2,0.230769231,4.119084183
+967,966,pastry tropical_fruit whole_milk yogurt,4,0.00305033,pastry tropical_fruit whole_milk,,3,yogurt,1,0.454545455,3.258348794
+968,967,pastry tropical_fruit whole_milk yogurt,4,0.00305033,pastry whole_milk yogurt,,3,tropical_fruit,1,0.333333333,3.176679587
+969,968,pip_fruit root_vegetables tropical_fruit whole_milk,4,0.003152008,pip_fruit root_vegetables,,2,tropical_fruit whole_milk,2,0.202614379,4.790174082
+970,969,pip_fruit root_vegetables tropical_fruit whole_milk,4,0.003152008,pip_fruit root_vegetables whole_milk,,3,tropical_fruit,1,0.352272727,3.357172745
+971,970,pip_fruit root_vegetables tropical_fruit whole_milk,4,0.003152008,pip_fruit tropical_fruit whole_milk,,3,root_vegetables,1,0.373493976,3.426598184
+972,971,pip_fruit root_vegetables tropical_fruit whole_milk,4,0.003152008,root_vegetables tropical_fruit whole_milk,,3,pip_fruit,1,0.262711864,3.472810734
+973,972,pip_fruit root_vegetables tropical_fruit yogurt,4,0.002440264,pip_fruit root_vegetables tropical_fruit,,3,yogurt,1,0.461538462,3.308477237
+974,973,pip_fruit root_vegetables tropical_fruit yogurt,4,0.002440264,pip_fruit root_vegetables yogurt,,3,tropical_fruit,1,0.461538462,4.398479428
+975,974,pip_fruit root_vegetables tropical_fruit yogurt,4,0.002440264,pip_fruit tropical_fruit yogurt,,3,root_vegetables,1,0.380952381,3.495024876
+976,975,pip_fruit root_vegetables tropical_fruit yogurt,4,0.002440264,root_vegetables tropical_fruit yogurt,,3,pip_fruit,1,0.3,3.965725806
+977,976,pip_fruit root_vegetables whipped-sour_cream whole_milk,4,0.002338587,pip_fruit whipped-sour_cream,,2,root_vegetables whole_milk,2,0.252747253,5.167919399
+978,977,pip_fruit root_vegetables whipped-sour_cream whole_milk,4,0.002338587,pip_fruit root_vegetables whipped-sour_cream,,3,whole_milk,1,0.766666667,3.000464253
+979,978,pip_fruit root_vegetables whipped-sour_cream whole_milk,4,0.002338587,pip_fruit root_vegetables whole_milk,,3,whipped-sour_cream,1,0.261363636,3.646115409
+980,979,pip_fruit root_vegetables whipped-sour_cream whole_milk,4,0.002338587,pip_fruit whipped-sour_cream whole_milk,,3,root_vegetables,1,0.389830508,3.576476727
+981,980,pip_fruit root_vegetables whipped-sour_cream whole_milk,4,0.002338587,root_vegetables whipped-sour_cream whole_milk,,3,pip_fruit,1,0.247311828,3.269236328
+982,981,pip_fruit root_vegetables whole_milk yogurt,4,0.003558719,pip_fruit root_vegetables,,2,whole_milk yogurt,2,0.22875817,4.083188024
+983,982,pip_fruit root_vegetables whole_milk yogurt,4,0.003558719,pip_fruit whole_milk yogurt,,3,root_vegetables,1,0.372340426,3.416015005
+984,983,pip_fruit root_vegetables whole_milk yogurt,4,0.003558719,root_vegetables whole_milk yogurt,,3,pip_fruit,1,0.244755245,3.235440635
+985,984,pip_fruit sausage whole_milk yogurt,4,0.002236909,pip_fruit sausage,,2,whole_milk yogurt,2,0.20754717,3.704585145
+986,985,pip_fruit sausage whole_milk yogurt,4,0.002236909,sausage whole_milk yogurt,,3,pip_fruit,1,0.255813953,3.381626657
+987,986,pip_fruit tropical_fruit whole_milk yogurt,4,0.003762074,pip_fruit yogurt,,2,tropical_fruit whole_milk,2,0.209039548,4.942076814
+988,987,pip_fruit tropical_fruit whole_milk yogurt,4,0.003762074,pip_fruit tropical_fruit whole_milk,,3,yogurt,1,0.445783133,3.195537251
+989,988,pip_fruit tropical_fruit whole_milk yogurt,4,0.003762074,pip_fruit whole_milk yogurt,,3,tropical_fruit,1,0.393617021,3.751185469
+990,989,pip_fruit tropical_fruit whole_milk yogurt,4,0.003762074,tropical_fruit whole_milk yogurt,,3,pip_fruit,1,0.248322148,3.282591831
+991,990,pip_fruit whipped-sour_cream whole_milk yogurt,4,0.002440264,pip_fruit whipped-sour_cream,,2,whole_milk yogurt,2,0.263736264,4.70752478
+992,991,pip_fruit whipped-sour_cream whole_milk yogurt,4,0.002440264,pip_fruit whole_milk yogurt,,3,whipped-sour_cream,1,0.255319149,3.561792666
+993,992,rolls-buns root_vegetables tropical_fruit whole_milk,4,0.003762074,rolls-buns tropical_fruit whole_milk,,3,root_vegetables,1,0.342592593,3.143095287
+994,993,rolls-buns root_vegetables tropical_fruit yogurt,4,0.002745297,rolls-buns root_vegetables tropical_fruit,,3,yogurt,1,0.465517241,3.336998593
+995,994,rolls-buns root_vegetables tropical_fruit yogurt,4,0.002745297,rolls-buns root_vegetables yogurt,,3,tropical_fruit,1,0.38028169,3.624099247
+996,995,rolls-buns root_vegetables whipped-sour_cream whole_milk,4,0.002846975,rolls-buns root_vegetables whole_milk,,3,whipped-sour_cream,1,0.224,3.124879433
+997,996,rolls-buns root_vegetables whipped-sour_cream whole_milk,4,0.002846975,rolls-buns whipped-sour_cream whole_milk,,3,root_vegetables,1,0.363636364,3.336160109
+998,997,rolls-buns sausage shopping_bags soda,4,0.002440264,rolls-buns shopping_bags soda,,3,sausage,1,0.387096774,4.120234604
+999,998,rolls-buns soda tropical_fruit yogurt,4,0.002338587,rolls-buns soda tropical_fruit,,3,yogurt,1,0.433962264,3.110800924
+1000,999,rolls-buns tropical_fruit whole_milk yogurt,4,0.004880529,rolls-buns tropical_fruit whole_milk,,3,yogurt,1,0.444444444,3.185941043
+1001,1000,rolls-buns whipped-sour_cream whole_milk yogurt,4,0.00305033,rolls-buns whipped-sour_cream,,2,whole_milk yogurt,2,0.208333333,3.718617665
+1002,1001,root_vegetables sausage tropical_fruit whole_milk,4,0.002745297,root_vegetables sausage tropical_fruit,,3,whole_milk,1,0.771428571,3.019100676
+1003,1002,root_vegetables sausage tropical_fruit whole_milk,4,0.002745297,root_vegetables sausage whole_milk,,3,tropical_fruit,1,0.355263158,3.385671665
+1004,1003,root_vegetables sausage tropical_fruit whole_milk,4,0.002745297,sausage tropical_fruit whole_milk,,3,root_vegetables,1,0.38028169,3.488871663
+1005,1004,root_vegetables sausage whole_milk yogurt,4,0.003253686,root_vegetables sausage,,2,whole_milk yogurt,2,0.217687075,3.885576009
+1006,1005,root_vegetables sausage whole_milk yogurt,4,0.003253686,root_vegetables sausage whole_milk,,3,yogurt,1,0.421052632,3.018259936
+1007,1006,root_vegetables sausage whole_milk yogurt,4,0.003253686,sausage whole_milk yogurt,,3,root_vegetables,1,0.372093023,3.413745227
+1008,1007,root_vegetables tropical_fruit whipped-sour_cream whole_milk,4,0.002745297,root_vegetables tropical_fruit whole_milk,,3,whipped-sour_cream,1,0.228813559,3.192030292
+1009,1008,root_vegetables tropical_fruit whipped-sour_cream whole_milk,4,0.002745297,tropical_fruit whipped-sour_cream whole_milk,,3,root_vegetables,1,0.346153846,3.175767796
+1010,1009,root_vegetables tropical_fruit whipped-sour_cream yogurt,4,0.002338587,root_vegetables tropical_fruit whipped-sour_cream,,3,yogurt,1,0.511111111,3.6638322
+1011,1010,root_vegetables tropical_fruit whipped-sour_cream yogurt,4,0.002338587,root_vegetables tropical_fruit yogurt,,3,whipped-sour_cream,1,0.2875,4.01072695
+1012,1011,root_vegetables tropical_fruit whipped-sour_cream yogurt,4,0.002338587,root_vegetables whipped-sour_cream yogurt,,3,tropical_fruit,1,0.365079365,3.4792205
+1013,1012,root_vegetables tropical_fruit whipped-sour_cream yogurt,4,0.002338587,tropical_fruit whipped-sour_cream yogurt,,3,root_vegetables,1,0.37704918,3.459215195
+1014,1013,root_vegetables tropical_fruit whole_milk yogurt,4,0.00569395,root_vegetables tropical_fruit,,2,whole_milk yogurt,2,0.270531401,4.828813663
+1015,1014,root_vegetables tropical_fruit whole_milk yogurt,4,0.00569395,root_vegetables yogurt,,2,tropical_fruit whole_milk,2,0.220472441,5.21237129
+1016,1015,root_vegetables tropical_fruit whole_milk yogurt,4,0.00569395,root_vegetables tropical_fruit whole_milk,,3,yogurt,1,0.474576271,3.401937046
+1017,1016,root_vegetables tropical_fruit whole_milk yogurt,4,0.00569395,root_vegetables whole_milk yogurt,,3,tropical_fruit,1,0.391608392,3.732043151
+1018,1017,root_vegetables tropical_fruit whole_milk yogurt,4,0.00569395,tropical_fruit whole_milk yogurt,,3,root_vegetables,1,0.375838926,3.44811179
+1019,1018,root_vegetables whipped-sour_cream whole_milk yogurt,4,0.003660397,root_vegetables whipped-sour_cream,,2,whole_milk yogurt,2,0.214285714,3.824863884
+1020,1019,root_vegetables whipped-sour_cream whole_milk yogurt,4,0.003660397,root_vegetables whole_milk yogurt,,3,whipped-sour_cream,1,0.251748252,3.511977384
+1021,1020,root_vegetables whipped-sour_cream whole_milk yogurt,4,0.003660397,whipped-sour_cream whole_milk yogurt,,3,root_vegetables,1,0.336448598,3.086727577
+1022,1021,sausage tropical_fruit whole_milk yogurt,4,0.003152008,sausage tropical_fruit,,2,whole_milk yogurt,2,0.226277372,4.038907362
+1023,1022,sausage tropical_fruit whole_milk yogurt,4,0.003152008,sausage tropical_fruit whole_milk,,3,yogurt,1,0.436619718,3.129850532
+1024,1023,sausage tropical_fruit whole_milk yogurt,4,0.003152008,sausage whole_milk yogurt,,3,tropical_fruit,1,0.360465116,3.43524653
+1025,1024,tropical_fruit whipped-sour_cream whole_milk yogurt,4,0.00437214,tropical_fruit whipped-sour_cream,,2,whole_milk yogurt,2,0.316176471,5.643549162
+1026,1025,tropical_fruit whipped-sour_cream whole_milk yogurt,4,0.00437214,whipped-sour_cream yogurt,,2,tropical_fruit whole_milk,2,0.210784314,4.983326263
+1027,1026,tropical_fruit whipped-sour_cream whole_milk yogurt,4,0.00437214,tropical_fruit whipped-sour_cream whole_milk,,3,yogurt,1,0.551282051,3.951792255
+1028,1027,tropical_fruit whipped-sour_cream whole_milk yogurt,4,0.00437214,tropical_fruit whole_milk yogurt,,3,whipped-sour_cream,1,0.288590604,4.025941263
+1029,1028,tropical_fruit whipped-sour_cream whole_milk yogurt,4,0.00437214,whipped-sour_cream whole_milk yogurt,,3,tropical_fruit,1,0.401869159,3.82982866
+1030,1029,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,butter tropical_fruit,,2,other_vegetables whole_milk yogurt,3,0.234693878,10.53979126
+1031,1030,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,butter other_vegetables tropical_fruit,,3,whole_milk yogurt,2,0.425925926,7.602507226
+1032,1031,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,butter other_vegetables whole_milk,,3,tropical_fruit yogurt,2,0.203539823,6.950743609
+1033,1032,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,butter other_vegetables yogurt,,3,tropical_fruit whole_milk,2,0.365079365,8.631143162
+1034,1033,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,butter tropical_fruit whole_milk,,3,other_vegetables yogurt,2,0.37704918,8.684493416
+1035,1034,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,butter tropical_fruit yogurt,,3,other_vegetables whole_milk,2,0.511111111,6.829861111
+1036,1035,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,butter whole_milk yogurt,,3,other_vegetables tropical_fruit,2,0.25,6.96529745
+1037,1036,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,butter other_vegetables tropical_fruit whole_milk,,4,yogurt,1,0.696969697,4.996134818
+1038,1037,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,butter other_vegetables tropical_fruit yogurt,,4,whole_milk,1,0.766666667,3.000464253
+1039,1038,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,butter other_vegetables whole_milk yogurt,,4,tropical_fruit,1,0.534883721,5.097462592
+1040,1039,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,butter tropical_fruit whole_milk yogurt,,4,other_vegetables,1,0.696969697,3.602047803
+1041,1040,butter other_vegetables tropical_fruit whole_milk yogurt,5,0.002338587,other_vegetables tropical_fruit whole_milk yogurt,,4,butter,1,0.306666667,5.534067278
+1042,1041,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,citrus_fruit other_vegetables root_vegetables,,3,tropical_fruit whole_milk,2,0.303921569,7.185261124
+1043,1042,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,citrus_fruit other_vegetables tropical_fruit,,3,root_vegetables whole_milk,2,0.348314607,7.121983695
+1044,1043,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,citrus_fruit other_vegetables whole_milk,,3,root_vegetables tropical_fruit,2,0.2421875,11.50683122
+1045,1044,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,citrus_fruit root_vegetables tropical_fruit,,3,other_vegetables whole_milk,2,0.553571429,7.397248641
+1046,1045,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,citrus_fruit root_vegetables whole_milk,,3,other_vegetables tropical_fruit,2,0.344444444,9.596632043
+1047,1046,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,citrus_fruit tropical_fruit whole_milk,,3,other_vegetables root_vegetables,2,0.348314607,7.351232097
+1048,1047,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,other_vegetables root_vegetables tropical_fruit,,3,citrus_fruit whole_milk,2,0.256198347,8.399035813
+1049,1048,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,root_vegetables tropical_fruit whole_milk,,3,citrus_fruit other_vegetables,2,0.262711864,9.097785868
+1050,1049,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,citrus_fruit other_vegetables root_vegetables whole_milk,,4,tropical_fruit,1,0.543859649,5.183003536
+1051,1050,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,citrus_fruit other_vegetables tropical_fruit whole_milk,,4,root_vegetables,1,0.632653061,5.80423774
+1052,1051,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,citrus_fruit root_vegetables tropical_fruit whole_milk,,4,other_vegetables,1,0.885714286,4.577509196
+1053,1052,citrus_fruit other_vegetables root_vegetables tropical_fruit whole_milk,5,0.003152008,other_vegetables root_vegetables tropical_fruit whole_milk,,4,citrus_fruit,1,0.449275362,5.428284015
+1054,1053,citrus_fruit other_vegetables root_vegetables whole_milk yogurt,5,0.002338587,citrus_fruit other_vegetables root_vegetables,,3,whole_milk yogurt,2,0.225490196,4.024856767
+1055,1054,citrus_fruit other_vegetables root_vegetables whole_milk yogurt,5,0.002338587,citrus_fruit other_vegetables yogurt,,3,root_vegetables whole_milk,2,0.306666667,6.27040887
+1056,1055,citrus_fruit other_vegetables root_vegetables whole_milk yogurt,5,0.002338587,citrus_fruit root_vegetables whole_milk,,3,other_vegetables yogurt,2,0.255555556,5.886156648
+1057,1056,citrus_fruit other_vegetables root_vegetables whole_milk yogurt,5,0.002338587,citrus_fruit root_vegetables yogurt,,3,other_vegetables whole_milk,2,0.479166667,6.402994792
+1058,1057,citrus_fruit other_vegetables root_vegetables whole_milk yogurt,5,0.002338587,citrus_fruit whole_milk yogurt,,3,other_vegetables root_vegetables,2,0.227722772,4.806123316
+1059,1058,citrus_fruit other_vegetables root_vegetables whole_milk yogurt,5,0.002338587,citrus_fruit other_vegetables root_vegetables yogurt,,4,whole_milk,1,0.821428571,3.214783128
+1060,1059,citrus_fruit other_vegetables root_vegetables whole_milk yogurt,5,0.002338587,citrus_fruit other_vegetables whole_milk yogurt,,4,root_vegetables,1,0.489361702,4.489619721
+1061,1060,citrus_fruit other_vegetables root_vegetables whole_milk yogurt,5,0.002338587,citrus_fruit root_vegetables whole_milk yogurt,,4,other_vegetables,1,0.741935484,3.834437984
+1062,1061,citrus_fruit other_vegetables root_vegetables whole_milk yogurt,5,0.002338587,other_vegetables root_vegetables whole_milk yogurt,,4,citrus_fruit,1,0.298701299,3.609001564
+1063,1062,citrus_fruit other_vegetables tropical_fruit whole_milk yogurt,5,0.002440264,citrus_fruit other_vegetables tropical_fruit,,3,whole_milk yogurt,2,0.269662921,4.813311854
+1064,1063,citrus_fruit other_vegetables tropical_fruit whole_milk yogurt,5,0.002440264,citrus_fruit other_vegetables yogurt,,3,tropical_fruit whole_milk,2,0.32,7.565384615
+1065,1064,citrus_fruit other_vegetables tropical_fruit whole_milk yogurt,5,0.002440264,citrus_fruit tropical_fruit whole_milk,,3,other_vegetables yogurt,2,0.269662921,6.211088598
+1066,1065,citrus_fruit other_vegetables tropical_fruit whole_milk yogurt,5,0.002440264,citrus_fruit tropical_fruit yogurt,,3,other_vegetables whole_milk,2,0.387096774,5.172685835
+1067,1066,citrus_fruit other_vegetables tropical_fruit whole_milk yogurt,5,0.002440264,citrus_fruit whole_milk yogurt,,3,other_vegetables tropical_fruit,2,0.237623762,6.620480745
+1068,1067,citrus_fruit other_vegetables tropical_fruit whole_milk yogurt,5,0.002440264,citrus_fruit other_vegetables tropical_fruit whole_milk,,4,yogurt,1,0.489795918,3.511037068
+1069,1068,citrus_fruit other_vegetables tropical_fruit whole_milk yogurt,5,0.002440264,citrus_fruit other_vegetables tropical_fruit yogurt,,4,whole_milk,1,0.774193548,3.029921826
+1070,1069,citrus_fruit other_vegetables tropical_fruit whole_milk yogurt,5,0.002440264,citrus_fruit other_vegetables whole_milk yogurt,,4,tropical_fruit,1,0.510638298,4.866402771
+1071,1070,citrus_fruit other_vegetables tropical_fruit whole_milk yogurt,5,0.002440264,citrus_fruit tropical_fruit whole_milk yogurt,,4,other_vegetables,1,0.631578947,3.264098238
+1072,1071,citrus_fruit other_vegetables tropical_fruit whole_milk yogurt,5,0.002440264,other_vegetables tropical_fruit whole_milk yogurt,,4,citrus_fruit,1,0.32,3.866339066
+1073,1072,other_vegetables pip_fruit root_vegetables tropical_fruit whole_milk,5,0.002440264,other_vegetables pip_fruit root_vegetables,,3,tropical_fruit whole_milk,2,0.3,7.092548077
+1074,1073,other_vegetables pip_fruit root_vegetables tropical_fruit whole_milk,5,0.002440264,other_vegetables pip_fruit tropical_fruit,,3,root_vegetables whole_milk,2,0.258064516,5.276641406
+1075,1074,other_vegetables pip_fruit root_vegetables tropical_fruit whole_milk,5,0.002440264,pip_fruit root_vegetables tropical_fruit,,3,other_vegetables whole_milk,2,0.461538462,6.16743311
+1076,1075,other_vegetables pip_fruit root_vegetables tropical_fruit whole_milk,5,0.002440264,pip_fruit root_vegetables whole_milk,,3,other_vegetables tropical_fruit,2,0.272727273,7.59850631
+1077,1076,other_vegetables pip_fruit root_vegetables tropical_fruit whole_milk,5,0.002440264,pip_fruit tropical_fruit whole_milk,,3,other_vegetables root_vegetables,2,0.289156627,6.102694038
+1078,1077,other_vegetables pip_fruit root_vegetables tropical_fruit whole_milk,5,0.002440264,root_vegetables tropical_fruit whole_milk,,3,other_vegetables pip_fruit,2,0.203389831,7.783420168
+1079,1078,other_vegetables pip_fruit root_vegetables tropical_fruit whole_milk,5,0.002440264,other_vegetables pip_fruit root_vegetables whole_milk,,4,tropical_fruit,1,0.444444444,4.235572782
+1080,1079,other_vegetables pip_fruit root_vegetables tropical_fruit whole_milk,5,0.002440264,other_vegetables pip_fruit tropical_fruit whole_milk,,4,root_vegetables,1,0.510638298,4.684820578
+1081,1080,other_vegetables pip_fruit root_vegetables tropical_fruit whole_milk,5,0.002440264,other_vegetables root_vegetables tropical_fruit whole_milk,,4,pip_fruit,1,0.347826087,4.597942964
+1082,1081,other_vegetables pip_fruit root_vegetables tropical_fruit whole_milk,5,0.002440264,pip_fruit root_vegetables tropical_fruit whole_milk,,4,other_vegetables,1,0.774193548,4.001152679
+1083,1082,other_vegetables pip_fruit root_vegetables whole_milk yogurt,5,0.002338587,other_vegetables pip_fruit root_vegetables,,3,whole_milk yogurt,2,0.2875,5.131692377
+1084,1083,other_vegetables pip_fruit root_vegetables whole_milk yogurt,5,0.002338587,other_vegetables pip_fruit yogurt,,3,root_vegetables whole_milk,2,0.2875,5.878508316
+1085,1084,other_vegetables pip_fruit root_vegetables whole_milk yogurt,5,0.002338587,pip_fruit root_vegetables whole_milk,,3,other_vegetables yogurt,2,0.261363636,6.019932936
+1086,1085,other_vegetables pip_fruit root_vegetables whole_milk yogurt,5,0.002338587,pip_fruit root_vegetables yogurt,,3,other_vegetables whole_milk,2,0.442307692,5.910456731
+1087,1086,other_vegetables pip_fruit root_vegetables whole_milk yogurt,5,0.002338587,pip_fruit whole_milk yogurt,,3,other_vegetables root_vegetables,2,0.244680851,5.164026116
+1088,1087,other_vegetables pip_fruit root_vegetables whole_milk yogurt,5,0.002338587,other_vegetables pip_fruit root_vegetables whole_milk,,4,yogurt,1,0.425925926,3.0531935
+1089,1088,other_vegetables pip_fruit root_vegetables whole_milk yogurt,5,0.002338587,other_vegetables pip_fruit root_vegetables yogurt,,4,whole_milk,1,0.793103448,3.103928537
+1090,1089,other_vegetables pip_fruit root_vegetables whole_milk yogurt,5,0.002338587,other_vegetables pip_fruit whole_milk yogurt,,4,root_vegetables,1,0.46,4.220242537
+1091,1090,other_vegetables pip_fruit root_vegetables whole_milk yogurt,5,0.002338587,other_vegetables root_vegetables whole_milk yogurt,,4,pip_fruit,1,0.298701299,3.948558162
+1092,1091,other_vegetables pip_fruit root_vegetables whole_milk yogurt,5,0.002338587,pip_fruit root_vegetables whole_milk yogurt,,4,other_vegetables,1,0.657142857,3.3962165
+1093,1092,other_vegetables pip_fruit tropical_fruit whole_milk yogurt,5,0.002338587,other_vegetables pip_fruit tropical_fruit,,3,whole_milk yogurt,2,0.247311828,4.414359034
+1094,1093,other_vegetables pip_fruit tropical_fruit whole_milk yogurt,5,0.002338587,other_vegetables pip_fruit yogurt,,3,tropical_fruit whole_milk,2,0.2875,6.79702524
+1095,1094,other_vegetables pip_fruit tropical_fruit whole_milk yogurt,5,0.002338587,pip_fruit tropical_fruit whole_milk,,3,other_vegetables yogurt,2,0.277108434,6.382579498
+1096,1095,other_vegetables pip_fruit tropical_fruit whole_milk yogurt,5,0.002338587,pip_fruit tropical_fruit yogurt,,3,other_vegetables whole_milk,2,0.365079365,4.878472222
+1097,1096,other_vegetables pip_fruit tropical_fruit whole_milk yogurt,5,0.002338587,pip_fruit whole_milk yogurt,,3,other_vegetables tropical_fruit,2,0.244680851,6.817099632
+1098,1097,other_vegetables pip_fruit tropical_fruit whole_milk yogurt,5,0.002338587,other_vegetables pip_fruit tropical_fruit whole_milk,,4,yogurt,1,0.489361702,3.507924446
+1099,1098,other_vegetables pip_fruit tropical_fruit whole_milk yogurt,5,0.002338587,other_vegetables pip_fruit whole_milk yogurt,,4,tropical_fruit,1,0.46,4.383817829
+1100,1099,other_vegetables pip_fruit tropical_fruit whole_milk yogurt,5,0.002338587,other_vegetables tropical_fruit whole_milk yogurt,,4,pip_fruit,1,0.306666667,4.053853047
+1101,1100,other_vegetables pip_fruit tropical_fruit whole_milk yogurt,5,0.002338587,pip_fruit tropical_fruit whole_milk yogurt,,4,other_vegetables,1,0.621621622,3.21263723
+1102,1101,other_vegetables rolls-buns root_vegetables whole_milk yogurt,5,0.002440264,other_vegetables rolls-buns root_vegetables,,3,whole_milk yogurt,2,0.2,3.569872958
+1103,1102,other_vegetables rolls-buns root_vegetables whole_milk yogurt,5,0.002440264,other_vegetables rolls-buns yogurt,,3,root_vegetables whole_milk,2,0.212389381,4.342722573
+1104,1103,other_vegetables rolls-buns root_vegetables whole_milk yogurt,5,0.002440264,rolls-buns root_vegetables yogurt,,3,other_vegetables whole_milk,2,0.338028169,4.516993264
+1105,1104,other_vegetables rolls-buns root_vegetables whole_milk yogurt,5,0.002440264,other_vegetables rolls-buns whole_milk yogurt,,4,root_vegetables,1,0.406779661,3.731975715
+1106,1105,other_vegetables rolls-buns tropical_fruit whole_milk yogurt,5,0.002541942,other_vegetables rolls-buns tropical_fruit,,3,whole_milk yogurt,2,0.324675325,5.795248309
+1107,1106,other_vegetables rolls-buns tropical_fruit whole_milk yogurt,5,0.002541942,other_vegetables rolls-buns yogurt,,3,tropical_fruit whole_milk,2,0.221238938,5.230492682
+1108,1107,other_vegetables rolls-buns tropical_fruit whole_milk yogurt,5,0.002541942,other_vegetables tropical_fruit yogurt,,3,rolls-buns whole_milk,2,0.20661157,3.648159414
+1109,1108,other_vegetables rolls-buns tropical_fruit whole_milk yogurt,5,0.002541942,rolls-buns tropical_fruit whole_milk,,3,other_vegetables yogurt,2,0.231481481,5.331663631
+1110,1109,other_vegetables rolls-buns tropical_fruit whole_milk yogurt,5,0.002541942,rolls-buns tropical_fruit yogurt,,3,other_vegetables whole_milk,2,0.290697674,3.884526668
+1111,1110,other_vegetables rolls-buns tropical_fruit whole_milk yogurt,5,0.002541942,other_vegetables rolls-buns tropical_fruit whole_milk,,4,yogurt,1,0.625,4.480229592
+1112,1111,other_vegetables rolls-buns tropical_fruit whole_milk yogurt,5,0.002541942,other_vegetables rolls-buns whole_milk yogurt,,4,tropical_fruit,1,0.423728814,4.038152017
+1113,1112,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,other_vegetables root_vegetables tropical_fruit,,3,whole_milk yogurt,2,0.289256198,5.163039402
+1114,1113,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,other_vegetables root_vegetables yogurt,,3,tropical_fruit whole_milk,2,0.275590551,6.515464113
+1115,1114,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,other_vegetables tropical_fruit whole_milk,,3,root_vegetables yogurt,2,0.208333333,8.066765092
+1116,1115,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,other_vegetables tropical_fruit yogurt,,3,root_vegetables whole_milk,2,0.289256198,5.914417278
+1117,1116,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,root_vegetables tropical_fruit whole_milk,,3,other_vegetables yogurt,2,0.296610169,6.831758822
+1118,1117,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,root_vegetables tropical_fruit yogurt,,3,other_vegetables whole_milk,2,0.4375,5.846212636
+1119,1118,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,root_vegetables whole_milk yogurt,,3,other_vegetables tropical_fruit,2,0.244755245,6.819172329
+1120,1119,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,tropical_fruit whole_milk yogurt,,3,other_vegetables root_vegetables,2,0.234899329,4.957585621
+1121,1120,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,other_vegetables root_vegetables tropical_fruit whole_milk,,4,yogurt,1,0.507246377,3.636128364
+1122,1121,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,other_vegetables root_vegetables whole_milk yogurt,,4,tropical_fruit,1,0.454545455,4.3318358
+1123,1122,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,other_vegetables tropical_fruit whole_milk yogurt,,4,root_vegetables,1,0.466666667,4.281405473
+1124,1123,other_vegetables root_vegetables tropical_fruit whole_milk yogurt,5,0.003558719,root_vegetables tropical_fruit whole_milk yogurt,,4,other_vegetables,1,0.625,3.230097215
+1125,1124,other_vegetables root_vegetables whipped-sour_cream whole_milk yogurt,5,0.002338587,other_vegetables root_vegetables whipped-sour_cream,,3,whole_milk yogurt,2,0.273809524,4.887326074
+1126,1125,other_vegetables root_vegetables whipped-sour_cream whole_milk yogurt,5,0.002338587,other_vegetables whipped-sour_cream yogurt,,3,root_vegetables whole_milk,2,0.23,4.702806653
+1127,1126,other_vegetables root_vegetables whipped-sour_cream whole_milk yogurt,5,0.002338587,root_vegetables whipped-sour_cream whole_milk,,3,other_vegetables yogurt,2,0.247311828,5.696280628
+1128,1127,other_vegetables root_vegetables whipped-sour_cream whole_milk yogurt,5,0.002338587,root_vegetables whipped-sour_cream yogurt,,3,other_vegetables whole_milk,2,0.365079365,4.878472222
+1129,1128,other_vegetables root_vegetables whipped-sour_cream whole_milk yogurt,5,0.002338587,whipped-sour_cream whole_milk yogurt,,3,other_vegetables root_vegetables,2,0.214953271,4.536621074
+1130,1129,other_vegetables root_vegetables whipped-sour_cream whole_milk yogurt,5,0.002338587,other_vegetables root_vegetables whipped-sour_cream whole_milk,,4,yogurt,1,0.450980392,3.232793117
+1131,1130,other_vegetables root_vegetables whipped-sour_cream whole_milk yogurt,5,0.002338587,other_vegetables root_vegetables whole_milk yogurt,,4,whipped-sour_cream,1,0.298701299,4.166989039
+1132,1131,other_vegetables root_vegetables whipped-sour_cream whole_milk yogurt,5,0.002338587,other_vegetables whipped-sour_cream whole_milk yogurt,,4,root_vegetables,1,0.418181818,3.836584125
+1133,1132,other_vegetables root_vegetables whipped-sour_cream whole_milk yogurt,5,0.002338587,root_vegetables whipped-sour_cream whole_milk yogurt,,4,other_vegetables,1,0.638888889,3.301877153
+1134,1133,other_vegetables tropical_fruit whipped-sour_cream whole_milk yogurt,5,0.002440264,other_vegetables tropical_fruit whipped-sour_cream,,3,whole_milk yogurt,2,0.311688312,5.563438377
+1135,1134,other_vegetables tropical_fruit whipped-sour_cream whole_milk yogurt,5,0.002440264,other_vegetables whipped-sour_cream yogurt,,3,tropical_fruit whole_milk,2,0.24,5.674038462
+1136,1135,other_vegetables tropical_fruit whipped-sour_cream whole_milk yogurt,5,0.002440264,tropical_fruit whipped-sour_cream whole_milk,,3,other_vegetables yogurt,2,0.307692308,7.087011349
+1137,1136,other_vegetables tropical_fruit whipped-sour_cream whole_milk yogurt,5,0.002440264,tropical_fruit whipped-sour_cream yogurt,,3,other_vegetables whole_milk,2,0.393442623,5.257483963
+1138,1137,other_vegetables tropical_fruit whipped-sour_cream whole_milk yogurt,5,0.002440264,whipped-sour_cream whole_milk yogurt,,3,other_vegetables tropical_fruit,2,0.224299065,6.249238834
+1139,1138,other_vegetables tropical_fruit whipped-sour_cream whole_milk yogurt,5,0.002440264,other_vegetables tropical_fruit whipped-sour_cream whole_milk,,4,yogurt,1,0.545454545,3.910018553
+1140,1139,other_vegetables tropical_fruit whipped-sour_cream whole_milk yogurt,5,0.002440264,other_vegetables tropical_fruit whole_milk yogurt,,4,whipped-sour_cream,1,0.32,4.464113475
+1141,1140,other_vegetables tropical_fruit whipped-sour_cream whole_milk yogurt,5,0.002440264,other_vegetables whipped-sour_cream whole_milk yogurt,,4,tropical_fruit,1,0.436363636,4.158562368
+1142,1141,rolls-buns root_vegetables tropical_fruit whole_milk yogurt,5,0.002236909,rolls-buns root_vegetables tropical_fruit,,3,whole_milk yogurt,2,0.379310345,6.770448714
+1143,1142,rolls-buns root_vegetables tropical_fruit whole_milk yogurt,5,0.002236909,rolls-buns root_vegetables yogurt,,3,tropical_fruit whole_milk,2,0.309859155,7.325636511
+1144,1143,rolls-buns root_vegetables tropical_fruit whole_milk yogurt,5,0.002236909,rolls-buns tropical_fruit whole_milk,,3,root_vegetables yogurt,2,0.203703704,7.887503645
+1145,1144,rolls-buns root_vegetables tropical_fruit whole_milk yogurt,5,0.002236909,rolls-buns tropical_fruit yogurt,,3,root_vegetables whole_milk,2,0.255813953,5.230624184
+1146,1145,rolls-buns root_vegetables tropical_fruit whole_milk yogurt,5,0.002236909,root_vegetables tropical_fruit yogurt,,3,rolls-buns whole_milk,2,0.275,4.85570018
+1147,1146,rolls-buns root_vegetables tropical_fruit whole_milk yogurt,5,0.002236909,rolls-buns root_vegetables tropical_fruit whole_milk,,4,yogurt,1,0.594594595,4.262272477
+1148,1147,rolls-buns root_vegetables tropical_fruit whole_milk yogurt,5,0.002236909,rolls-buns root_vegetables tropical_fruit yogurt,,4,whole_milk,1,0.814814815,3.188899206
+1149,1148,rolls-buns root_vegetables tropical_fruit whole_milk yogurt,5,0.002236909,rolls-buns root_vegetables whole_milk yogurt,,4,tropical_fruit,1,0.47826087,4.557844624
+1150,1149,rolls-buns root_vegetables tropical_fruit whole_milk yogurt,5,0.002236909,rolls-buns tropical_fruit whole_milk yogurt,,4,root_vegetables,1,0.458333333,4.204951803

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>First Flask App</title>
+  </head>
+  <style>
+    p {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+  </style>
+  <body>
+    <h3>You should try these:</h3>
+
+    <ul>
+      {%for i,j in res.items():%}
+      <li>{{j}}</li>
+      {%endfor%}
+    </ul>
+  </body>
+</html>
