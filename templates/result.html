@@ -13,10 +13,17 @@
   <body>
     <h3>You should try these:</h3>
 
-    <ul>
-      {%for i,j in res.items():%}
-      <li>{{j}}</li>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Confidence</th>
+      </tr>
+      {%for i,j in res:%}
+      <tr>
+        <td>{{i}}</td>
+        <td>{{j}}</td>
+      </tr>
       {%endfor%}
-    </ul>
+    </table>
   </body>
 </html>

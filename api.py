@@ -49,7 +49,7 @@ def Suggest1(a):
         Y.remove(Y[i])
     Z = [x for _,x in sorted(zip(Y,X))]
     M = np.unique(Z, return_index=True)[1]
-    return [Z[i] for i in sorted(M, reverse=True)]
+    return [(Z[i],round(Y[i],2)) for i in sorted(M, reverse=True)]
 
 @app.route('/')
 def home():
@@ -62,6 +62,7 @@ def submit():
         c.append(res[int(i)])
     suggest=Suggest1(c)
     d = dict(enumerate(suggest, 1))
-    return render_template('result.html',res=d)
+    print(suggest)
+    return render_template('result.html',res=suggest)
 if __name__=='__main__':
     app.run(debug=True)
